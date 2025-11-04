@@ -2802,6 +2802,58 @@ Para el presente sprint, se realizó el proceso de despliegue para la primera ve
 
 #### 5.2.3.1. Sprint Planning 3
 
+<table>
+<tr>
+    <th colspan="5">Sprint 3</th>
+    <th colspan="9">Sprint 3</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-11-02</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">2:30 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Pedro Nanfuñay</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Alejandr Galindo, Julio Guillen, Ivan La Madrid, Kenyi Ramírez</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Review Summary</td>
+    <td colspan="8">Se realizó el primer despliegue de la web application, implementando funcionalidades orientadas al primer segmento objetivo.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Retrospective Summary</td>
+    <td colspan="8">El equipo se comprometió a cumplir sus partes asignadas, así también como colaborar con otras secciones del trabajo para cumplir nuestro objetivo.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Goal</td>
+       <td colspan="8">El enfoque para este sprint es establecer el núcleo integrado de la plataforma IceTrack. Esto implica conectar la página de inicio pública con la aplicación de usuario funcional (frontend) y un sistema de gestión de datos fundamental (backend). Se espera que esta unificación asegure un punto de entrada sencillo para los usuarios a nuestra aplicación y posibilite la gestión de información esencial, elevando la calidad de la experiencia inicial del usuario y proveyendo al equipo de un cimiento estable para el desarrollo futuro. El resultado exitoso se verificará cuando los usuarios puedan entrar y navegar por la aplicación web central sin obstáculos desde la página de aterrizaje; el sistema de gestión de datos respalde las operaciones para entidades críticas como equipos, solicitudes de servicio, técnicos, reportes y alertas; y la interfaz de usuario logre comunicarse con el sistema de gestión de datos para presentar y manejar dichas entidades principales, probando una conexión operativa entre todos los niveles del sistema./td>
+
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Velocity</td>
+    <td colspan="8">100</td>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">97</td>
+</tr>
+</table>
+
 #### 5.2.3.2. Aspect Leaders and Collaborators
 
 #### 5.2.3.3. Sprint Backlog 3

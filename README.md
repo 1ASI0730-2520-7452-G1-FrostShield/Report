@@ -2908,11 +2908,16 @@ Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha 
 
 Nuestro enfoque principal para este Sprint ha sido el desarrollo del frontend y backend de la plataforma IceTrack. Hemos estructurado nuestras tareas siguiendo las User Stories y Technical Stories que hemos detallado, asegurando un progreso claro y alineado con los objetivos de negocio y la arquitectura técnica.
 
-Enlace: 
+Enlace: https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717b7d5e39eba218930f0541704BF/frontshield
+
+![Sprint1-Trello.png](assets/chapter05/Sprint3-Trello.png)
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Sprint Backlog 1.
+  </figcaption>
 
 <table border="1">
 <tr>
-    <th colspan="3">Sprint #</th>
+    <th colspan="3">Sprint 3</th>
     <th colspan="10">Sprint Backend</th>
 </tr>
 <tr>

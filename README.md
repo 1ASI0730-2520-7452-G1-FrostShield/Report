@@ -74,6 +74,14 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
 
 - Se organizaron reuniones para coordinar el progreso de los componentes del informe y del Sprint 2, enfocado en los FrontEnd Applications y en su despliegue. 
 
+**TB2:** Las tareas asignadas a la TB2 han sido completadas y se encuentran debidamente documentadas en el repositorio de GitHub.
+
+- Se implementaron los bounded contexts correspondientes a las aplicaciones Frontend del proyecto, y actualmente se han comenzado a desarrollar y estructurar los componentes principales del Backend, avanzando en la definición de entidades, casos de uso y servicios necesarios.
+
+- Se generaron los recursos requeridos y se añadieron las imágenes al repositorio dentro de la carpeta "assets" correspondiente a cada rama del informe.
+
+- Además, se organizaron reuniones de coordinación para revisar el progreso tanto del informe como del Sprint 3, inicialmente centrado en el mejoramiento de los FrontEnd Applications y ahora también en la construcción y consolidación del Backend y su despliegue.
+
 ## Contenido
 
 - [Student Outcome](#student-outcome)
@@ -3160,7 +3168,7 @@ Validar la usabilidad, efectividad y propuesta de valor de la plataforma IceTrac
 **Aplicación Web**
 
 - Registro de equipos de refrigeración.
-- Configuración de sensores (temperatura, humedad, consumo).
+- Configuración de sensores (temperatura, humedad, consumo). 
 - Visualización del estado en tiempo real.
 - Generación y recepción de alertas.
 - Solicitud de mantenimiento.

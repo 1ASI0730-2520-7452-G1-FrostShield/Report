@@ -3426,8 +3426,8 @@ En el Sprint 3 se desplegó la segunda versión de la Web Application de IceTrac
 **User**
 
 ![ReportEndpointsBackendV1](./assets/chapter05/users_0.png)
-![PostReportBackendV1](./assets/chapter05/users_1.png)
-![GetReportByEquipmentOrTenantIdBackendV1](./assets/chapter05/users_2.png)
+![PostReportBackendV1](./assets/chapter05/users1.png)
+![GetReportByEquipmentOrTenantIdBackendV1](./assets/chapter05/users2.png)
 
 **Authentication**
 

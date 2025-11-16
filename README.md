@@ -3074,11 +3074,68 @@ A continuación se presenta un registro de los cambios realizados en la interfaz
 
 A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados a la parte de backend. Cada entrada incluye el identificador único del commit (ID), descripciones realizados durante la elaboracion de esta.
 
-
-
-
-
 #### 5.2.3.5. Execution Evidence for Sprint Review
+
+En el Sprint 3 se desplegó la segunda versión de la Web Application de IceTrack, implementando funcionalidades complementarias y esenciales en cada una de las secciones de la aplicación. Así mismo, se implementaron mejoras respectivas a la retroalimentación brindada en el sprint anterior. A continuación, se presentan las evidencias:
+
+**Register:**
+
+![RegisterFrontV2](./assets/chapter05/RegisterFrontV2.png)
+
+<br>
+
+**Login:**
+
+![LoginFrontV2](./assets/chapter05/LoginFrontV2.png)
+
+<br>
+
+**Dashboard:**
+
+![DashboardFrontV2](./assets/chapter05/DashboardFrontV2.png)
+
+<br>
+
+**Sites:**
+
+![SitesFrontV2](./assets/chapter05/SitesFrontV2.png)
+![SitesDetailFrontV2](./assets/chapter05/SitesDetailFrontV2.png)
+
+<br>
+
+**Equipments:**
+
+![EquipmentsFrontV2](./assets/chapter05/EquipmentsFrontV2.png)
+![EquipmentsDetailFrontV2](./assets/chapter05/EquipmentsDetailFrontV2.png)
+
+<br>
+
+**Services:**
+
+![ServicesFrontV2](./assets/chapter05/ServicesFrontV2.png)
+![CreateServiceFrontV2](./assets/chapter05/CreateServiceFrontV2.png)
+
+<br>
+
+**Alerts:**
+
+![AlertsFrontV2](./assets/chapter05/AlertsFrontV2.png)
+
+<br>
+
+**Reports:**
+
+![ReportsFrontV2](./assets/chapter05/ReportsFrontV2.png)
+![CreateReportFrontV2](./assets/chapter05/CreateReportFrontV2.png)
+![EditReportFrontV2](./assets/chapter05/EditReportFrontV2.png)
+
+<br>
+
+**Profile:**
+
+![ProfileFrontV2](./assets/chapter05/ProfileFrontV2.png)
+![SettingsFrontV2](./assets/chapter05/SettingsFrontV2.png)
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review

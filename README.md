@@ -2016,7 +2016,6 @@ Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha 
   </tr>
 </table>
 
-
 #### 5.2.1.3. Sprint Backlog 1
 
 El objetivo principal de este Sprint es elaborar la Landing Page de nuestra plataforma. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en Landing Page. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
@@ -3325,20 +3324,116 @@ En el Sprint 3 se desplegó la segunda versión de la Web Application de IceTrac
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+**Dashboard**
+
+| Verbo HTTP | Endpoint 		 					    | Descripción 				   |
+| :--------: | :--------------------------------------- | :--------------------------- |
+| GET		 | /api/v1/dashboard-config/{id}     		| Obtener ID				   |
+| PUT		 | /api/v1/dashboard-config/{id}  	  	    | Actualizar ID 			   |
+| DELETE 	 | /api/v1/dashboard-config/{id}			| Eliminar ID 				   |
+| GET 		 | /api/v1/dashboard-config/user/{userId}   | Obtener configuracion por ID |
+| POST 		 | /api/v1/dashboard-config					| Crea configuracion		   |
+| POST 		 | /api/v1/dashboard-config/{id}/cards 		| Añade cartas				   |
+| GET 		 | /api/v1/dashboard-config/available-cards | Obtener cartas disponible	   |
+
 **ReportController**
 
-Gestión de reportes generados.
+| Verbo HTTP | Endpoint 		   | Descripción 										 |
+| :--------: | :------------------ | :-------------------------------------------------- |
+| POST		 | /api/v1/report      | Crear un nuevo reporte 							 |
+| GET		 | /api/v1/report 	   | Obtener un reporte por el ID de un equipo o empresa |
+| GET 		 | /api/v1/report/{id} | Obtener un reporte por su ID 						 |
 
-| Verbo HTTP | Endpoint | Descripción |
-| ---------- | -------- | ----------- |
-| POST | /api/v1/report | Crear un nuevo reporte |
-| GET | /api/v1/report | Obtener un reporte por el ID de un equipo o empresa |
-| GET | /api/v1/report/{id} | Obtener un reporte por su ID |
+**Equipment**
+
+| Verbo HTTP | Endpoint 		  	  | Descripción	 			|
+| :--------: | :--------------------- | :---------------------- |
+| POST		 | /api/v1/equipment	  | Crear equipo 			|
+| GET		 | /api/v1/equipment 	  | Tener todos los equipos |
+| GET		 | /api/v1/equipment/{id} | Tener equipo por ID     |
+
+**Site**
+
+| Verbo HTTP | Endpoint 	     | Descripción	 		  |
+| :--------: | :---------------- | :--------------------- |
+| POST		 | /api/v1/site	  	 | Crear site 			  |
+| GET		 | /api/v1/site 	 | Tener todos los sitios |
+| GET		 | /api/v1/site/{id} | Tener sitio por ID     |
+
+**Report**
+
+| Verbo HTTP | Endpoint      	   | Descripción	   	  |
+| :--------: | :------------------ | :------------------- |
+| POST		 | /api/v1/report 	   | Crear reporte   	  |
+| GET		 | /api/v1/report 	   | Tener reportes    	  |
+| GET		 | /api/v1/report/{id} | Tener reporte por ID |
+
+**User**
+
+| Verbo HTTP | Endpoint      	   | Descripción	   |
+| :--------: | :------------------ | :---------------- |
+| GET		 | /api/v1/report/{id} | Tener user por ID |
+| GET		 | /api/v1/users 	   | Tener usuarios    |
+
+**Authentication**
+
+| Verbo HTTP | Endpoint 		  			  | Descripción	   |
+| :--------: | :----------------------------- | :------------- |
+| POST		 | /api/v1/authentication/sign-in | Iniciar sesión |
+| POST		 | /api/v1/authentication/sign-up | Registrarse    |
+
+---
+
+**Dashboard**
+
+![ReportEndpointsBackendV1](./assets/chapter05/dashboard_0.jpeg)
+![PostReportBackendV1](./assets/chapter05/dashboard_1.jpeg)
+![GetReportByEquipmentOrTenantIdBackendV1](./assets/chapter05/dashboard_2.jpeg)
+![GetReportByIdBackendV1](./assets/chapter05/dashboard_3.jpeg)
+![PostReportBackendV1](./assets/chapter05/dashboard_4.jpeg)
+![GetReportByEquipmentOrTenantIdBackendV1](./assets/chapter05/dashboard_5.jpeg)
+![GetReportByIdBackendV1](./assets/chapter05/dashboard_6.jpeg)
+![PostReportBackendV1](./assets/chapter05/dashboard_7.jpeg)
+
+**ReportController**
 
 ![ReportEndpointsBackendV1](./assets/chapter05/ReportEndpointsBackendV1.png)
 ![PostReportBackendV1](./assets/chapter05/PostReportBackendV1.png)
 ![GetReportByEquipmentOrTenantIdBackendV1](./assets/chapter05/GetReportByEquipmentOrTenantIdBackendV1.png)
 ![GetReportByIdBackendV1](./assets/chapter05/GetReportByIdBackendV1.png)
+
+**Equipment**
+
+![ReportEndpointsBackendV1](./assets/chapter05/equipment_0.png)
+![PostReportBackendV1](./assets/chapter05/equipment_1.png)
+![GetReportByEquipmentOrTenantIdBackendV1](./assets/chapter05/equipment_2.png)
+![GetReportByIdBackendV1](./assets/chapter05/equipment_3.png)
+
+**Site**
+
+![ReportEndpointsBackendV1](./assets/chapter05/site_0.png)
+![PostReportBackendV1](./assets/chapter05/site_1.png)
+![GetReportByEquipmentOrTenantIdBackendV1](./assets/chapter05/site_2.png)
+![GetReportByIdBackendV1](./assets/chapter05/site_3.png)
+
+**Report**
+
+![ReportEndpointsBackendV1](./assets/chapter05/report_0.png)
+![PostReportBackendV1](./assets/chapter05/report_1.png)
+![GetReportByEquipmentOrTenantIdBackendV1](./assets/chapter05/report_2.png)
+![GetReportByIdBackendV1](./assets/chapter05/report_3.png)
+
+**Authentication**
+
+![ReportEndpointsBackendV1](./assets/chapter05/user_0.png)
+![PostReportBackendV1](./assets/chapter05/user1.png)
+![GetReportByEquipmentOrTenantIdBackendV1](./assets/chapter05/user2.png)
+
+**Authentication**
+
+![ReportEndpointsBackendV1](./assets/chapter05/authentication_0.png)
+![PostReportBackendV1](./assets/chapter05/authentication_1.png)
+![GetReportByEquipmentOrTenantIdBackendV1](./assets/chapter05/authentication_2.png)
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 

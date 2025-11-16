@@ -2892,20 +2892,22 @@ Alertas y Reportes
 ¿Pudiste acceder fácilmente a los reportes generados?
 ¿Los filtros y botones (por ejemplo, “Ver Reporte” o “View Equipment”) funcionaron como esperabas?
 
-####Servicios
+#### Servicios
 ¿Cómo fue tu experiencia solicitando un servicio?
 ¿La opción para programar mantenimiento estaba visible y disponible?¿Qué te pareció su implementación?
 
-####Configuración y Perfil
+#### Configuración y Perfil
 ¿Ubicaste la sección de Configuración sin dificultad?
 ¿Los cambios realizados (idioma, tema) se mantuvieron al recargar la página o volver a iniciar sesión?
 
-####Experiencia General
+#### Experiencia General
 ¿La aplicación te pareció visualmente atractiva y coherente en todas sus secciones?
 ¿Consideras que el flujo general (inicio, navegación, reportes) es lógico e intuitivo?
 ¿Tuviste algún problema técnico (errores, lentitud, fallos de carga)?
 
 ### 5.3.2. Registro de Entrevistas
+
+##### Entrevista 1
 
 Nombre completo: Henrry Aiquipa
 Edad: 25
@@ -2913,11 +2915,10 @@ Distrito de residencia: San Martín de Porres
 Rol en su empresa: Dueño de bodega
 Link: 
 
-##### Análisis de entrevista
+#### Análisis de entrevista
 
-##### Henrry Aiquipa
-Análisis: 
-
+##### Entrevista 1
+Análisis: Henrry Aiquipa, 25 años, dueño de una bodega en San Martín de Porres, tuvo una experiencia en general positiva con la plataforma para negocios con equipos de refrigeración. Percibió el registro e inicio de sesión como simples y sin errores, y encontró el dashboard intuitivo, con un resumen útil del estado de sus equipos. Destacó que las secciones de “Sites” y “Equipments” están bien organizadas, con información relevante y estados de equipos fáciles de identificar. Valoró también la claridad de las alertas y la facilidad para acceder a reportes y solicitar servicios o programar mantenimientos. Ubicó sin problema la sección de configuración y confirmó que los cambios se guardan correctamente. En conjunto, considera que la aplicación es visualmente agradable, coherente e intuitiva, mencionando solo pequeños retrasos puntuales que no afectan su uso general.
 
 
 ### 5.3.3. Evaluaciones según heurísticas

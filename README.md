@@ -3290,8 +3290,314 @@ Validar la usabilidad, efectividad y propuesta de valor de la plataforma IceTrac
 
 ---
 
-### 5.3.3. Evaluaciones según heurísticas.
+### 5.3.3. Evaluaciones según heurísticas
 
+**Esta evaluacion fue hecho con el Grupo 4:**
+
+## Evaluación Heurística de Usabilidad y Diseño Inclusivo para la Aplicación: "IceTrack"
+
+**UX Heuristics & Principles Evaluation**
+
+**Usability – Inclusive Design – Information Architecture**
+
+**CARRERA	: Ingeniería de Software**
+
+**CURSO	: Aplicaciones Web**
+
+**SECCIÓN	: 7452**
+
+**PROFESORES	: Todos**
+
+**AUDITOR	: Samuel Jesus Bonifacio Jaramillo**
+
+**CLIENTE(S)	:**
+
+	   **Galindo Montero, Alejandro Manuel**   
+
+	   **Guillen Galindo, Julio Adolfo**   
+
+	   **La Madrid Lozano, Ivan Jeanpierre** 
+
+	   **Nanfuñay Liza, Pedro Jesus**
+
+	   **Ramirez Cabrera, Kenyi Efrain**
+
+**SITE o APP A EVALUAR:** IceTrack
+
+## TAREAS A EVALUAR:
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Ambigüedad en la terminología y las unidades de las temperaturas máximas.
+2. Falta de retroalimentación visual prominente al seleccionar un elemento en el menú lateral.
+3. La acción "Acknowledge (ACK)" aparece en alertas cuyo estado ya es "Resolved" o "Closed".
+4. Etiquetado "5 puntos" en el filtro del gráfico de temperatura es poco claro.
+5. Botones de acción principal (ej. "Equipment detail") están mal etiquetados, no indican la acción de creación.
+6. Uso de identificadores internos ("e1", "s1", "t2") en las tablas principales de activos y alertas.
+7. Las fechas y horas en los detalles de equipos se muestran en formato UTC/Z sin conversión a hora local.
+8. Confusión visual entre campos editables y no editables en la sección de información de usuario.
+9. Redundancia o falta de claridad en los filtros de la sección "My Service Requests".
+
+## ESCALA DE SEVERIDAD:
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción                                                                                                                                                                                    |
+| :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                  |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                              |
+
+## TABLA RESUMEN:
+
+| \#  | Problema                                                                                                      | Escala de severidad | Heurística/Principio violada(o)                                          |
+| :-: | :------------------------------------------------------------------------------------------------------------ | :-----------------: | :----------------------------------------------------------------------- |
+| 1   | Ambigüedad en la terminología y las unidades de las temperaturas máximas.                                     | 3                   | Visibility of System Status / Consistency and Standards                  |
+| 2   | Falta de retroalimentación visual prominente al seleccionar un elemento en el menú lateral.                   | 2                   | Visibility of System Status                                              |
+| 3   | La acción "Acknowledge (ACK)" aparece en alertas cuyo estado ya es "Resolved" o "Closed".                     | 3                   | Error Prevention / Consistency and Standards                             |
+| 4   | Etiquetado "5 puntos" en el filtro del gráfico de temperatura es poco claro.                                  | 2                   | Recognition Rather Than Recall / Aesthetic and Minimalist Design         |
+| 5   | Botones de acción principal (ej. "Equipment detail") están mal etiquetados, no indican la acción de creación. | 3                   | Consistency and Standards / Match Between System and the Real World      |
+| 6   | Uso de identificadores internos ("e1", "s1", "t2") en las tablas principales de alertas.                      | 3                   | Recognition Rather Than Recall / Match Between System and the Real World |
+| 7   | Las fechas y horas en los detalles de equipos se muestran en formato UTC/Z sin conversión a hora local.       | 4                   | Match Between System and the Real World                                  |
+| 8   | Confusión visual entre campos editables y no editables en la sección de información de usuario.               | 3                   | Visibility of System Status / Aesthetic and Minimalist Design            |
+| 9   | Redundancia o falta de claridad en los filtros de la sección "My Service Requests".                           | 2                   | Aesthetic and Minimalist Design / Flexibility and Efficiency of Use      |
+
+## DESCRIPCIÓN DE PROBLEMAS:
+
+## PROBLEMA \#1: Ambigüedad en la terminología y las unidades de las temperaturas máximas.
+
+- **Severidad: 3 Heurística violada: Visibility of System Status / Consistency and Standards**
+- Problema: En el Dashboard, la sección superior derecha muestra "Max: 3.8°" y "Max: 4.3°". No hay una etiqueta que explique si estos son límites preconfigurados, los máximos históricos, o los máximos registrados en las últimas 24h. Esta falta de contexto clave impide al usuario entender el significado de estas métricas. Además, la unidad de temperatura usa ° en estos máximos, mientras que el promedio usa °C, mostrando una inconsistencia.
+- Recomendación: Etiquetar claramente los valores, por ejemplo, "Límite Alto" o "Máximo Histórico". Unificar el símbolo de temperatura a °C en toda la interfaz.
+
+## PROBLEMA \#2: Falta de retroalimentación visual prominente al seleccionar un elemento en el menú lateral.
+
+- **Severidad: 2 Heurística violada: Visibility of System Status**
+- Problema: El elemento del menú lateral activo ("Equipments" en su vista) se indica con un sutil color de fondo azul que podría no ser lo suficientemente visible o contrastante para algunos usuarios. Esto dificulta la confirmación instantánea de la ubicación actual del usuario en la aplicación.
+- Recomendación: Reforzar la indicación del elemento activo. Sugerencia: Añadir un borde vertical (ej. una línea gruesa azul) al lado izquierdo del elemento seleccionado para un contraste más fuerte.
+
+## PROBLEMA \#3: La acción "Acknowledge (ACK)" aparece en alertas cuyo estado ya es "Resolved" o "Closed".
+
+- **Severidad: 3 Heurística violada: Error Prevention / Consistency and Standards**
+- Problema: En la tabla "Recent Alerts" del Dashboard, se ofrece la acción "Acknowledge (ACK)" para alertas que ya tienen un estado de "Resolved" o "Closed". Lógicamente, no se requiere o no debería ser posible "reconocer" una alerta que el sistema ya considera - - finalizada. Esto genera confusión e impulsa acciones innecesarias.
+- Recomendación: Hacer que la columna ACTION sea contextual: debe desaparecer o cambiar a una opción como "View Log" o "View Details" cuando el Status sea finalizado.
+
+## PROBLEMA \#4: Etiquetado "5 puntos" en el filtro del gráfico de temperatura es poco claro.
+
+- **Severidad: 2 Heurística violada: Recognition Rather Than Recall / Aesthetic and Minimalist Design**
+- Problema: El texto "5 pontos" sobre el gráfico de temperatura es técnico o está mal traducido/etiquetado. El usuario no puede saber fácilmente si se refiere a 5 sensores, 5 días, o la granularidad de los datos. Esto obliga al usuario a recordar su significado.
+- Recomendación: Utilizar una etiqueta clara y orientada al usuario, como "5 Sensores", "Granularidad" o el parámetro real que se esté filtrando.
+
+## PROBLEMA \#5: Botones de acción principal (ej. "Equipment detail") están mal etiquetados, no indican la acción de creación.
+
+- **Severidad: 3 Heurística violada: Consistency and Standards / Match Between System and the Real World**
+- Problema: En las vistas de listas de activos (Sites y Equipments), el botón azul global en la esquina superior derecha está etiquetado como "Site detail" o "Equipment detail". Este etiquetado sugiere que llevará al detalle de un elemento seleccionado, cuando lo más probable es que su función principal sea agregar un nuevo activo. Esto es inconsistente con el estándar de UX de usar verbos de acción.
+- Recomendación: Cambiar la etiqueta del botón por un texto que indique la acción de creación, como "+ New Site" o "+ New Equipment". Si su función es realmente ver el detalle, esta acción debe estar en la fila del activo o deshabilitada si no hay selección.
+
+## PROBLEMA \#6: Uso de identificadores internos ("e1", "s1", "t2") en las tablas principales de activos y alertas.
+
+- **Severidad: 3 Heurística violada: Recognition Rather Than Recall / Match Between System and the Real World**
+- Problema: La tabla de Alerts utiliza IDs del sistema como e1 (Equipment), s1 (Site) y t2 (Tenant). Estos IDs no son significativos para el usuario, obligándolo a recordar o consultar constantemente su significado. Esta abstracción aumenta la carga cognitiva y reduce la velocidad de comprensión del estado del sistema.
+- Recomendación: Reemplazar los IDs en las vistas de lista con los nombres reales de los activos (mostrar "Minimarket San Miguel" en lugar de s1, y el "Model" del equipo en lugar de e1).
+
+## **PROBLEMA \#7: Las fechas y horas en los detalles de equipos se muestran en formato UTC/Z sin conversión a hora local.**
+
+- **Severidad: 4 Heurística violada: Match Between System and the Real World**
+- Problema: En la vista "Equipment detail", las fechas como 2025-09-21T14:10:00Z están en formato UTC. En un sistema de monitoreo, donde el tiempo es crítico, obligar al usuario a calcular la diferencia horaria manualmente para correlacionar eventos con la hora local es un error crítico que puede llevar a errores operacionales.
+- Recomendación: Implementar la conversión automática de todas las marcas de tiempo a la zona horaria local del usuario y mostrarlas en un formato legible (ej. DD/MM/AAAA HH:MM:SS).
+
+## **PROBLEMA \#8: Confusión visual entre campos editables y no editables en la sección de información de usuario.**
+
+- **Severidad: 3 Heurística violada: Visibility of System Status / Aesthetic and Minimalist Design**
+- Problema: En la sección "User information" (Admin), la información de solo lectura (ej. Email, Register Date, Plans) se presenta dentro de cajas de texto de color gris, que visualmente son demasiado similares a los campos editables (cajas blancas). Esto añade desorden visual y hace que el usuario se pregunte qué campos puede modificar y cuáles no.
+- Recomendación: Los datos de sólo lectura deben mostrarse como texto plano (sin bordes ni sombreado de caja) para una clara diferenciación visual.
+
+## **PROBLEMA \#9: Redundancia o falta de claridad en los filtros de la sección "My Service Requests".**
+
+- **Severidad: 2 Heurística violada: Aesthetic and Minimalist Design / Flexibility and Efficiency of Use**
+- Problema: En la sección "My Service Requests", los filtros están agrupados de forma redundante ("Filter by: ALL | Pending | Assigned | In progress | Done" y luego "ALL | Repair (Corrective) | Maintenance (Preventive)"). El doble uso de "ALL" es confuso. Además, el primer conjunto de filtros parece enfocarse en el Status, y el segundo en el Type, pero la repetición de "ALL" no es eficiente.
+- Recomendación: Fusionar los filtros en un único conjunto que permita seleccionar una opción de Status Y una opción de Type, o unificar el botón "ALL" si es un reset general de ambos filtros.
+
+**Respositorio de auditoria:** https://docs.google.com/document/d/12K22DituAE1HPKc8xQM8qvzI5G8edJ3c5FYTELsxBZM/edit?usp=sharing
+
+---
+
+## Proceso de Evaluacion para el grupo 1"
+
+## Evaluación Heurística de Usabilidad y Diseño Inclusivo para la Aplicación: "AgroApp"
+
+**UX Heuristics & Principles Evaluation**
+
+**Usability – Inclusive Design – Information Architecture**
+
+**CARRERA:** Ingeniería de Software
+
+**CURSO:** Aplicaciones Web
+
+**SECCIÓN:** 7380  
+
+**PROFESORES:** Todos
+
+**AUDITOR:** Ramirez Cabrera, Kenyi Efrain
+
+**CLIENTE(S)	:**
+
+	   **Bonifacio Jaramillo, Samuel Jesus**   
+
+	   **Castro Pariona, Jefferson Ernesto**   
+
+	   **Morales Sosa, Arnold Gabriel** 
+
+	   **Romero Meza, Jhimy Pool**
+
+	   **Seminario Castillo, Diego Vicente**
+
+**SITE o APP A EVALUAR:** AgroApp
+
+## TAREAS A EVALUAR:
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Visualización y navegación en la página principal
+2. Visualización del campo de Cultivo (galería, fichas, presentación de información)
+3. Navegación por la sección de Cultivos (flujo, claridad de información, pasos a seguir)
+4. Accesibilidad y claridad del menú lateral (ubicación, iconos, estructura)
+5. Visualizacion de los atributos de los campos y cultivos (nombre, dimensiones, producto, estado, etc)
+6. Diferenciación entre las secciones “Cultivos” y “Campos”
+7. Visualización de detalles del campo (tareas, estado, producto)
+8. Gestión de cultivos y sus campos (tareas, recordatorios)
+9. Claridad de iconografía y etiquetas
+10. Navegación lateral y localización de sección activa
+11. Estructura y claridad del formulario de registros
+12. Proceso de cambio de idioma
+13. Personalización y curva de aprendizaje
+
+## ESCALA DE SEVERIDAD:
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción                                                                                                                                                                                    |
+| :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                  |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                              |
+
+## TABLA RESUMEN:
+
+| \#    | Problema                                                                                               | Escala de severidad | Heurística/Principio violada(o)                                     |
+| :---: | :----------------------------------------------------------------------------------------------------- | :-----------------: | :------------------------------------------------------------------ |
+| 1	    | Dificultad para identificar el contenido principal y navegar desde la página inicial.	                 | 3	                  | Visibility of System Status / Aesthetic and Minimalist Design       |
+| 2	    | La visualización del campo de Cultivo no es consistente entre galería, fichas y vista detallada.	      | 3	                  | Consistency and Standards / Match Between System and the Real World |
+| 3	    | El flujo dentro de la sección de Cultivos no guía al usuario en los pasos a seguir.                    |	3	                  | User Control and Freedom / Recognition Rather Than Recall           | 
+| 4	    | El menú lateral presenta baja claridad en su estructura e iconos poco representativos.	                | 2	                  | Recognition Rather Than Recall / Aesthetic and Minimalist Design    |
+| 5	    | Los atributos de campos y cultivos no están claramente organizados o priorizados.	                     | 3	                  | Aesthetic and Minimalist Design / Visibility of System Status       |
+| 6	    | Confusión entre las secciones “Cultivos” y “Campos”, sin una diferenciación conceptual o visual clara.	| 3	                  | Match Between System and the Real World / Consistency and Standards |
+| 7	    | La vista de detalles del campo muestra información incompleta o poco jerarquizada.	                    | 3	                  | Visibility of System Status / Aesthetic and Minimalist Design       |
+| 8	    | El proceso de gestión de cultivos y tareas no es intuitivo, generando pérdida de control.	             | 3	                  | User Control and Freedom / Flexibility and Efficiency of Use        |
+| 9	    | La iconografía y etiquetas no son claras ni coherentes con su propósito.	                              | 2	                  | Recognition Rather Than Recall / Consistency and Standards          |
+| 10	   | El usuario no puede identificar fácilmente qué sección del menú está activa.	                          | 2	                  | Visibility of System Status                                         |
+| 11	   | El formulario de registros presenta desorden visual y campos sin jerarquía clara.	                     | 3	                  | Aesthetic and Minimalist Design / Error Prevention                  |
+| 12	   | El proceso de cambio de idioma no es visible o requiere demasiados pasos.	                             | 2	                  | Visibility of System Status / Flexibility and Efficiency of Use     |
+| 13    | Falta de personalización y una curva de aprendizaje elevada para nuevos usuarios.	                     | 2	                  | Flexibility and Efficiency of Use / Help and Documentation          |
+
+## DESCRIPCIÓN DE PROBLEMAS:
+
+## PROBLEMA #1: Dificultad para identificar el contenido principal y navegar desde la página inicial.
+
+- Severidad: 3 — Heurística violada: Visibility of System Status / Aesthetic and Minimalist Design
+- Problema: En la página principal, la información está distribuida de manera poco jerárquica, lo que dificulta identificar rápidamente el contenido más relevante. No existe un punto focal claro ni un orden visual que guíe la exploración inicial del usuario. Esto genera incertidumbre sobre qué acciones pueden realizarse desde esta vista.
+- Recomendación: Organizar el contenido siguiendo una estructura clara de prioridades (ej. “Resumen del campo”, “Acciones rápidas”, “Alertas”). Incorporar títulos visibles, secciones delimitadas y un diseño que facilite la exploración inicial.
+
+## PROBLEMA #2: La visualización del campo de Cultivo no es consistente entre galería, fichas y vista detallada.
+
+- Severidad: 3 — Heurística violada: Consistency and Standards / Match Between System and the Real World
+- Problema: Las vistas del Cultivo presentan variaciones en etiquetas, tamaños de tarjeta, iconografía y disposición del contenido. En la galería el Cultivo aparece con un estilo visual, mientras que en las fichas o vista detallada adopta otro, generando confusión y dificultando la continuidad visual.
+- Recomendación: Unificar criterios de diseño: usar la misma estructura básica, iconografía, tipografía y orden de atributos en todas las vistas relacionadas al Cultivo.
+
+## PROBLEMA #3: El flujo dentro de la sección de Cultivos no guía al usuario en los pasos a seguir.
+
+- Severidad: 3 — Heurística violada: User Control and Freedom / Recognition Rather Than Recall
+- Problema: La sección de Cultivos no ofrece una guía clara sobre qué debe hacerse primero (visualizar el campo, asignar tareas, seleccionar un cultivo, ver su detalle, etc.). El usuario debe recordar rutas previas y elementos relacionados, lo cual incrementa la carga cognitiva.
+- Recomendación: Agregar breadcrumbs, indicadores de progreso o acciones guiadas (ej. “Ver cultivos”, “Seleccionar un campo”, “Asignar tarea”). Presentar una navegación más lineal o explicar mediante subtítulos qué representa cada sección.
+
+## PROBLEMA #4: El menú lateral presenta baja claridad en su estructura e iconos poco representativos.
+
+- Severidad: 2 — Heurística violada: Recognition Rather Than Recall / Aesthetic and Minimalist Design
+- Problema: Los iconos del menú lateral no representan claramente la función de cada sección. Algunos iconos son genéricos y requieren que el usuario memorice su propósito. La estructura del menú tampoco facilita diferenciar secciones que son conceptualmente distintas.
+- Recomendación: Actualizar iconografía para que represente directamente la función (ej. “Campos”, “Cultivos”, “Tareas”). Organizar el menú en categorías o grupos visuales para mejorar la escaneabilidad.
+
+## PROBLEMA #5: Los atributos de campos y cultivos no están claramente organizados o priorizados.
+
+- Severidad: 3 — Heurística violada: Aesthetic and Minimalist Design / Visibility of System Status
+- Problema: Los atributos, como nombre del campo, dimensiones, estado del cultivo o características del producto, aparecen sin una jerarquía visual clara. Algunos datos críticos quedan en posiciones secundarias o con poca visibilidad, y datos menos relevantes aparecen más destacados.
+- Recomendación: Crear una estructura estándar: encabezado para nombre, sección para atributos clave, subsección para información secundaria. Utilizar tipografías y colores que indiquen importancia.
+
+## PROBLEMA #6: Confusión entre las secciones “Cultivos” y “Campos”.
+
+- Severidad: 3 — Heurística violada: Match Between System and the Real World / Consistency and Standards
+- Problema: Las secciones “Cultivos” y “Campos” presentan información que parece solaparse, generando confusión sobre cuál es la unidad principal que se está gestionando. No existe una distinción clara entre ambas categorías ni visual ni conceptual.
+- Recomendación: Definir de manera explícita la diferencia entre un Campo y un Cultivo y reflejarlo en los textos, iconos, títulos y estructura de navegación.
+
+## PROBLEMA #7: La vista de detalles del campo muestra información incompleta o poco jerarquizada.
+
+- Severidad: 3 — Heurística violada: Visibility of System Status / Aesthetic and Minimalist Design
+- Problema: La vista de detalles del campo combina tareas, estado del producto, información del cultivo y datos generales sin un orden claro. Esto dificulta que el usuario encuentre rápidamente lo que busca, como tareas pendientes o etapas críticas del cultivo.
+- Recomendación: Separar la información en secciones: “Información del Campo”, “Estado del Cultivo”, “Tareas asociadas”, “Historial”. Utilizar encabezados y etiquetas visualmente claras.
+
+## PROBLEMA #8: El proceso de gestión de cultivos y tareas no es intuitivo, generando pérdida de control.
+
+- Severidad: 3 — Heurística violada: User Control and Freedom / Flexibility and Efficiency of Use
+- Problema: Asignar tareas, crear recordatorios o gestionar el avance del cultivo requiere varios pasos no evidentes o difíciles de encontrar. El flujo no ofrece atajos ni una vista clara del estado actual.
+- Recomendación: Simplificar el flujo: agregar botones directos como “+ Tarea”, “Añadir recordatorio”, y resaltar el estado actual del cultivo. Permitir acciones rápidas desde la vista principal.
+
+## PROBLEMA #9: La iconografía y etiquetas no son claras ni coherentes con su propósito.
+
+- Severidad: 2 — Heurística violada: Recognition Rather Than Recall / Consistency and Standards
+- Problema: Muchas etiquetas no describen la acción real que ejecutan (ej. botones genéricos como “Details” o “Info”). Algunas iconografías no representan claramente su función, generando ambigüedad.
+- Recomendación: Usar verbos de acción (ej. “Ver campo”, “Editar cultivo”, “Registrar tarea”) y elegir iconos universales relacionados con agricultura, edición, tareas, alertas y navegación.
+
+## PROBLEMA #10: El usuario no puede identificar fácilmente qué sección del menú está activa.
+
+- Severidad: 2 — Heurística violada: Visibility of System Status
+- Problema: La sección activa del menú no presenta indicadores visuales fuertes. El contraste es insuficiente y no hay un borde resaltado o un marcador claro. El usuario debe detenerse a leer cada etiqueta para saber dónde se encuentra.
+- Recomendación: Agregar indicadores claros: un borde lateral grueso, color de fondo más intenso o iconos resaltados cuando están activos.
+
+## PROBLEMA #11: El formulario de registros presenta desorden visual y campos sin jerarquía clara.
+
+- Severidad: 3 — Heurística violada: Aesthetic and Minimalist Design / Error Prevention
+- Problema: Los formularios contienen campos sin orden lógico, sin separación entre categorías y sin ayudas visuales para evitar errores. Algunos campos obligatorios no están diferenciados y el usuario puede cometer errores fácilmente.
+- Recomendación: Agrupar campos por categorías, usar títulos (“Datos del campo”, “Características del cultivo”), indicar claramente los campos obligatorios y validar entradas en tiempo real.
+
+## PROBLEMA #12: El proceso de cambio de idioma no es visible o requiere demasiados pasos.
+
+- Severidad: 2 — Heurística violada: Visibility of System Status / Flexibility and Efficiency of Use
+- Problema: El cambio de idioma no está fácilmente accesible. Puede estar oculto en un menú profundo o no ser evidente para usuarios nuevos. Requiere varios clics o pasos innecesarios.
+- Recomendación: Colocar el selector de idioma en una ubicación visible (preferiblemente en la parte superior derecha), usar iconos de banderas y reducir el proceso a un solo clic.
+
+## PROBLEMA #13: Falta de personalización y una curva de aprendizaje elevada para nuevos usuarios.
+
+- Severidad: 2 — Heurística violada: Flexibility and Efficiency of Use / Help and Documentation
+- Problema: La plataforma no ofrece recomendaciones, guías iniciales o personalización de vistas. Los usuarios nuevos deben aprender la navegación por ensayo y error, lo cual incrementa la curva de aprendizaje y reduce la eficiencia.
+- Recomendación: Agregar un onboarding inicial, brindar tooltips explicativos y permitir que el usuario configure vistas rápidas o favoritos.
+
+**Respositorio de auditoria:** https://docs.google.com/document/d/1yUM-z9TAOwkcqBh12h8XKnBpV6gf2EIMYIysLJnMgsc/edit?usp=sharing
+
+# Conclusiones
+
+## Conclusiones y recomendaciones
+
+- El desarrollo del backend permitió establecer una base sólida para garantizar el funcionamiento estable y seguro de la plataforma IceTrack. Gracias a la implementación de servicios bien estructurados y una arquitectura organizada, se logró asegurar la comunicación eficiente entre el frontend y los registros almacenados en el servidor.
+- La API creada permitió gestionar de manera centralizada la información de los equipos de refrigeración, asegurando que los datos enviados y recibidos por los usuarios se mantengan consistentes, actualizados y accesibles en tiempo real. Esto contribuyó a mejorar la confiabilidad del sistema y su capacidad para escalar en futuros módulos y nuevas funcionalidades.
+- La integración de controladores, modelos y rutas permitió manejar de forma ordenada cada funcionalidad del sistema. Este enfoque de diseño facilita la mantenibilidad del código y asegura que nuevas implementaciones o actualizaciones puedan realizarse sin comprometer la estabilidad general de la plataforma.
+- El trabajo con bases de datos permitió estructurar adecuadamente la información de los equipos monitoreados, lo que contribuyó a garantizar integridad, seguridad y disponibilidad de los datos. La correcta definición de entidades y relaciones permitió optimizar consultas, mejorar tiempos de respuesta y garantizar un acceso eficiente a la información clave.
+- En el entorno colaborativo, la organización del backend mediante ramas, commits descriptivos y revisiones en GitHub permitió mantener un flujo de trabajo ordenado. Cada integrante aportó código claro, documentado y funcional, lo que facilitó la integración continua y la resolución rápida de incidencias.
+- Se recomienda continuar optimizando la arquitectura del backend mediante la implementación de patrones de diseño que faciliten la escalabilidad, como el uso de servicios independientes o microservicios, considerando el crecimiento futuro de IceTrack.
+- Es importante añadir pruebas unitarias y pruebas de integración que aseguren que cada funcionalidad del backend responda correctamente ante diferentes escenarios, reduciendo errores y fortaleciendo la calidad del producto final.
+- Se sugiere mejorar los mecanismos de autenticación y autorización mediante tokens más seguros y control de accesos avanzado, con el fin de garantizar que solo usuarios autorizados puedan acceder a los servicios sensibles de la plataforma.
+- Para garantizar un rendimiento óptimo, se recomienda implementar técnicas de caché, balanceo de carga o manejo eficiente de solicitudes en caso de alto tráfico, especialmente cuando IceTrack escale a más usuarios o clientes.
+- Se debe documentar continuamente los endpoints, modelos y procesos internos a través de herramientas como Swagger, facilitando el mantenimiento del backend y permitiendo que futuros desarrolladores comprendan rápidamente la estructura del sistema.
 
 # Conclusiones
 

@@ -3239,17 +3239,37 @@ Validar la usabilidad, efectividad y propuesta de valor de la plataforma IceTrac
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
-### 5.3.3. Evaluaciones según heurísticas
 
 # Conclusiones
 
-- El presente trabajo nos permitió documentar y desarrollar una plataforma que tiene como objetivo mejorar la gestión de equipos de refrigeración, brindando herramientas que permitan monitorear el estado de las mismas en tiempo real de manera eficiente.
+## Conclusiones y recomendaciones
 
-- La Landing Page fue diseñada priorizando una experiencia clara, amigable y accesible, facilitando que los visitantes comprendan rápidamente los beneficios de IceTrack. Cada sección contribuye en comunicar el valor y objetivos que IceTrack ofrece.
+- El desarrollo del backend permitió establecer una base sólida para garantizar el funcionamiento estable y seguro de la plataforma IceTrack. Gracias a la implementación de servicios bien estructurados y una arquitectura organizada, se logró asegurar la comunicación eficiente entre el frontend y los registros almacenados en el servidor.
+- La API creada permitió gestionar de manera centralizada la información de los equipos de refrigeración, asegurando que los datos enviados y recibidos por los usuarios se mantengan consistentes, actualizados y accesibles en tiempo real. Esto contribuyó a mejorar la confiabilidad del sistema y su capacidad para escalar en futuros módulos y nuevas funcionalidades.
+- La integración de controladores, modelos y rutas permitió manejar de forma ordenada cada funcionalidad del sistema. Este enfoque de diseño facilita la mantenibilidad del código y asegura que nuevas implementaciones o actualizaciones puedan realizarse sin comprometer la estabilidad general de la plataforma.
+- El trabajo con bases de datos permitió estructurar adecuadamente la información de los equipos monitoreados, lo que contribuyó a garantizar integridad, seguridad y disponibilidad de los datos. La correcta definición de entidades y relaciones permitió optimizar consultas, mejorar tiempos de respuesta y garantizar un acceso eficiente a la información clave.
+- En el entorno colaborativo, la organización del backend mediante ramas, commits descriptivos y revisiones en GitHub permitió mantener un flujo de trabajo ordenado. Cada integrante aportó código claro, documentado y funcional, lo que facilitó la integración continua y la resolución rápida de incidencias.
+- Se recomienda continuar optimizando la arquitectura del backend mediante la implementación de patrones de diseño que faciliten la escalabilidad, como el uso de servicios independientes o microservicios, considerando el crecimiento futuro de IceTrack.
+- Es importante añadir pruebas unitarias y pruebas de integración que aseguren que cada funcionalidad del backend responda correctamente ante diferentes escenarios, reduciendo errores y fortaleciendo la calidad del producto final.
+- Se sugiere mejorar los mecanismos de autenticación y autorización mediante tokens más seguros y control de accesos avanzado, con el fin de garantizar que solo usuarios autorizados puedan acceder a los servicios sensibles de la plataforma.
+- Para garantizar un rendimiento óptimo, se recomienda implementar técnicas de caché, balanceo de carga o manejo eficiente de solicitudes en caso de alto tráfico, especialmente cuando IceTrack escale a más usuarios o clientes.
+- Se debe documentar continuamente los endpoints, modelos y procesos internos a través de herramientas como Swagger, facilitando el mantenimiento del backend y permitiendo que futuros desarrolladores comprendan rápidamente la estructura del sistema.
 
-- La interfaz del Web Application (frontend) será intuitiva y fácil de usar, de manera que los usuarios puedan hacer uso de la funcionalidades de la plataforma de manera eficiente.
+## Video About-the-Team
 
-- El trabajo se desarrolló en un entorno colaborativo a través de la plataforma Github, donde cada integrante colaboró y asumió tareas claves para cumplir con los objetivos establecidos.
+Cada integrante cuenta su experiencia dentro del proyecto, explicando qué tareas asumió, qué dificultades aparecieron durante el proceso y de qué manera las superó. También se destacan los principales avances logrados, como la creación de una interfaz fácil de usar, la colaboración con distintos refugios y la incorporación de funciones esenciales para fomentar una adopción responsable.
+
+El video cierra con una reflexión grupal sobre todo lo aprendido, resaltando tanto el crecimiento técnico como el fortalecimiento de las habilidades sociales. Finalmente, el equipo expresa su agradecimiento y comenta de forma breve cuál fue su aporte personal al proyecto.
+
+**Imagen representativa del video:**
+
+<p align="center">
+    <img src="assets/chapter05/about_team.png" alt="about_team"/>    
+</p>
+
+**URLs de la Versión Publicada**
+
+- Link en OneDrive: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQCbkEjCpbx-S44VBM-4bmjrASr_-R7yb5ajrTRVoCqDd_M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LYPOfe
 
 # Bibliografía
 

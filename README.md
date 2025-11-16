@@ -3207,7 +3207,7 @@ En conjunto, el video no solo presenta el producto, sino que lo posiciona como u
 **Video Explicativo**
 
 <p align="center">
-    <img src="assets/images/resources/about_product.jpeg" alt="about_product"/>    
+    <img src="assets/chapter05/about_product.png" alt="about_product"/>    
 </p>
 
 **URL de la Versión Publicada**
@@ -3238,7 +3238,7 @@ El video cierra con una reflexión grupal sobre todo lo aprendido, resaltando ta
 **Imagen representativa del video:**
 
 <p align="center">
-    <img src="assets/images/resources/about_team.png" alt="about_team"/>    
+    <img src="assets/chapter05/about_team.png" alt="about_team"/>    
 </p>
 
 **URLs de la Versión Publicada**

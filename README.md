@@ -2922,6 +2922,23 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113432_upc_edu_pe/IQ
 ##### Entrevista 1
 Análisis: Henrry Aiquipa, 25 años, dueño de una bodega en San Martín de Porres, tuvo una experiencia en general positiva con la plataforma para negocios con equipos de refrigeración. Percibió el registro e inicio de sesión como simples y sin errores, y encontró el dashboard intuitivo, con un resumen útil del estado de sus equipos. Destacó que las secciones de “Sites” y “Equipments” están bien organizadas, con información relevante y estados de equipos fáciles de identificar. Valoró también la claridad de las alertas y la facilidad para acceder a reportes y solicitar servicios o programar mantenimientos. Ubicó sin problema la sección de configuración y confirmó que los cambios se guardan correctamente. En conjunto, considera que la aplicación es visualmente agradable, coherente e intuitiva, mencionando solo pequeños retrasos puntuales que no afectan su uso general.
 
+---
+
+#### Segmento Objetivo 2 - Técnicos y empresas de mantenimiento:
+
+##### **Entrevista 1:**
+
+- **Nombres y apellidos:** Alvaro Piettro Salazar Urbina
+- **Edad:** 24
+- **Distrito:** Comas
+- **Inicio:** 0:28 min
+- **Duración:** 14:49 min
+- **Url:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQDZJDCV5rVLQJHq_pq3M0RWAUE1DYc9RgFExcF1eUADwTQ?e=qGTIh4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQDZJDCV5rVLQJHq_pq3M0RWAUE1DYc9RgFExcF1eUADwTQ?e=qGTIh4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+![ValidationInterview1-Segmento2](assets/chapter05/ValidationInterview1-Segmento2.png)
+
+- **Resumen:** Alvaro Salazar, 24 años, técnico especializado en servicios de mantenimiento en máquinas de refrigeración. Ante su experiencia en este rubro, comparte su opinión y retroalimentación acerca de nuestra aplicación IceTrack. Tras haber hecho uso de la aplicación, comenta que la interfaz fue sencilla y fácil de entender. Así mismo, cree que el flujo de la aplicación es sencilla y no cuenta con dificultades o elementos que distraigan la atención. Considera que el tiempo de espera se encuentra en el tiempo promedio que se espera de este tipo de aplicaciones y considera apropiado la creación de reportes para mejorar su eficiencia en servicios de mantenimiento. En conclusión, Alvaro considera que nuestra aplicación cumple con el objetivo de resolver las necesidades de los usuarios con una interfaz sencilla de entender y visualmente agradable.
+
 
 ### 5.3.3. Evaluaciones según heurísticas
 

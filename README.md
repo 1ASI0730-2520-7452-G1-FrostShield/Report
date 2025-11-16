@@ -2856,12 +2856,233 @@ Para el presente sprint, se realizó el proceso de despliegue para la primera ve
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
 
+Durante este tercer Sprint, el equipo se enfocó principalmente en el desarrollo, la mejora estructural y visual del frontend y en más de l% de los endpoints asociados al alcance de nuestro proyecto en el backend asegurando la integración entre ellas.
+Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha elaborado la matriz de Liderazgo y Colaboración (LACX). Esta matriz asigna responsabilidades específicas a cada miembro del equipo en relación con los aspectos clave del Sprint.
+
+<table border="1">
+  <tr>
+    <td colspan="2"><strong>Team Member (Last Name, First Name)</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Implementacion de la gestión de equipos de refrigeracion (Frontend Applications)<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Responsividad y pruebas en distintos dispositivos<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Despliegue de la aplicación web<br>Leader (L) / Collaborator (C)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Ramírez Cabrera, Kenyi Efrain</td>
+    <td>Kenyi15upc</td>
+    <td>L</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Galindo Montero, Alejandro Manuel </td>
+    <td>AlejandroG12970</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Guillen Galindo, Julio Adolfo </td>
+    <td>julio645</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">La Madrid Lozano, Ivan Jeanpierre</td>
+    <td>ivanlamadrid</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td colspan="2">Nanfuñay Liza, Pedro Jesus</td>
+    <td>PedroJ18</td>
+    <td>C</td>
+    <td>L</td>
+    <td>L</td>
+  </tr>
+</table>
+
 #### 5.2.3.3. Sprint Backlog 3
+
+Nuestro enfoque principal para este Sprint ha sido el desarrollo del frontend y backend de la plataforma IceTrack. Hemos estructurado nuestras tareas siguiendo las User Stories y Technical Stories que hemos detallado, asegurando un progreso claro y alineado con los objetivos de negocio y la arquitectura técnica.
+
+Enlace: 
+
+<table border="1">
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint Backend</th>
+</tr>
+<tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+</tr>
+<tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation (Hours)</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-01</td>
+    <td colspan="2">Registro de usuario</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Crear endpoint /api/v1/users</td>
+    <td colspan="3">Implementar registro con validación de email único y hash de contraseña.</td>
+    <td colspan="1">6</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-01</td>
+    <td colspan="2">Registro de usuario</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Validación de contraseñas</td>
+    <td colspan="3">Verificar longitud, complejidad y confirmación de contraseña.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-02</td>
+    <td colspan="2">Inicio de sesión</td>
+    <td colspan="1">UT-03</td>
+    <td colspan="2">Crear endpoint /api/v1/auth/login</td>
+    <td colspan="3">Implementar autenticación con JWT y validación de usuario/contraseña.</td>
+    <td colspan="1">6</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-03</td>
+    <td colspan="2">Gestionar equipos</td>
+    <td colspan="1">UT-04</td>
+    <td colspan="2">Crear CRUD de equipos</td>
+    <td colspan="3">Endpoints para crear, editar, listar y eliminar equipos.</td>
+    <td colspan="1">8</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-03</td>
+    <td colspan="2">Gestionar equipos</td>
+    <td colspan="1">UT-05</td>
+    <td colspan="2">Validaciones de datos</td>
+    <td colspan="3">Validar modelo, número de serie y estado del equipo.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-08</td>
+    <td colspan="2">Solicitar servicios</td>
+    <td colspan="1">UT-06</td>
+    <td colspan="2">Endpoint POST /api/v1/service-requests</td>
+    <td colspan="3">Crear solicitud con datos del equipo, tipo y descripción del problema.</td>
+    <td colspan="1">7</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-09</td>
+    <td colspan="2">Seguimiento del servicio</td>
+    <td colspan="1">UT-07</td>
+    <td colspan="2">Endpoint GET /api/v1/service-status/{id}</td>
+    <td colspan="3">Devolver estado actual: pendiente, asignado, en progreso, completado.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-10</td>
+    <td colspan="2">Reporte de servicio</td>
+    <td colspan="1">UT-08</td>
+    <td colspan="2">Generar reporte PDF</td>
+    <td colspan="3">Crear documento con resultados, repuestos y observaciones.</td>
+    <td colspan="1">6</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-14</td>
+    <td colspan="2">Registrar técnicos</td>
+    <td colspan="1">UT-09</td>
+    <td colspan="2">CRUD de técnicos</td>
+    <td colspan="3">Registro, edición y asignación de roles (técnico).</td>
+    <td colspan="1">7</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-16</td>
+    <td colspan="2">Asignar técnicos a servicios</td>
+    <td colspan="1">UT-10</td>
+    <td colspan="2">Endpoint asignación técnica</td>
+    <td colspan="3">Asignar un técnico a una solicitud y enviar notificación.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-21</td>
+    <td colspan="2">Notificaciones de eventos</td>
+    <td colspan="1">UT-11</td>
+    <td colspan="2">Integrar sistema de notificaciones</td>
+    <td colspan="3">Enviar alertas ante cambios de estado o problemas del servicio.</td>
+    <td colspan="1">6</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-22</td>
+    <td colspan="2">Evaluar servicio</td>
+    <td colspan="1">UT-12</td>
+    <td colspan="2">Endpoint POST /api/v1/reviews</td>
+    <td colspan="3">Registrar calificación y permitir edición dentro del plazo.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+</table>
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
-#### 5.2.3.5. Execution Evidence for Sprint Review
+En esta sección se presentan los commits realizados en el repositorio de backend y frontend durante el sprint 3.
 
+**Commits realizados en el repositorio de frontend durante el sprint 3:**
+
+A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra aplicación. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
+
+
+
+
+**Commits realizados en el repositorio de backend durante el sprint 3:**
+
+A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados a la parte de backend. Cada entrada incluye el identificador único del commit (ID), descripciones realizados durante la elaboracion de esta.
+
+
+
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
@@ -2869,79 +3090,156 @@ Para el presente sprint, se realizó el proceso de despliegue para la primera ve
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 ## 5.3. Validation Interviews
+
 ### 5.3.1. Diseño de Entrevistas
 
-#### Registro y Autenticación de Usuario
-¿Los campos solicitados (nombre, email, contraseña) te parecieron apropiados para crear tu cuenta?
-¿El inicio de sesión fue rápido y sin errores inesperados?
+## **Objetivo de la Entrevista**
 
-#### Dashboard
-Al ingresar al panel principal, ¿lograste entender rápidamente cómo navegar por las diferentes secciones?
-¿La información de resumen que se muestra es útil para tener una visión general?
-Sites
-¿La información de los sitios en listas facilita su identificación y organización?
-¿Encontraste sin problemas la opción para ver el listado de equipos de refrigeración?
-¿La visualización de direcciones o IDs fue clara y coherente con lo esperado?
+Validar la usabilidad, efectividad y propuesta de valor de la plataforma IceTrack enfocada en el monitoreo de equipos de refrigeración para los segmentos clave. Se evaluará si las funcionalidades cubren las necesidades reales de operación, mantenimiento y supervisión, y si los flujos son intuitivos para usuarios con distintos perfiles técnicos.
 
-#### Equipments
-Al visualizar los equipos, ¿la información mostrada es relevante para tus necesidades?
-¿Pudiste distinguir fácilmente el estado de cada equipo?
-¿Los botones de acción (por ejemplo, “More”, “Equipment detail”) respondieron correctamente?
-Alertas y Reportes
-¿Te resultó fácil interpretar las alertas (colores, tipo, severidad)?
-¿Pudiste acceder fácilmente a los reportes generados?
-¿Los filtros y botones (por ejemplo, “Ver Reporte” o “View Equipment”) funcionaron como esperabas?
+## **Elementos de Validación**
 
-#### Servicios
-¿Cómo fue tu experiencia solicitando un servicio?
-¿La opción para programar mantenimiento estaba visible y disponible?¿Qué te pareció su implementación?
+**Landing Page**
 
-#### Configuración y Perfil
-¿Ubicaste la sección de Configuración sin dificultad?
-¿Los cambios realizados (idioma, tema) se mantuvieron al recargar la página o volver a iniciar sesión?
+- Claridad de la propuesta de valor.
+- Acceso rápido a funcionalidades clave.
 
-#### Experiencia General
-¿La aplicación te pareció visualmente atractiva y coherente en todas sus secciones?
-¿Consideras que el flujo general (inicio, navegación, reportes) es lógico e intuitivo?
-¿Tuviste algún problema técnico (errores, lentitud, fallos de carga)?
+**Aplicación Web**
 
-### 5.3.2. Registro de Entrevistas
+- Registro de equipos de refrigeración.
+- Configuración de sensores (temperatura, humedad, consumo).
+- Visualización del estado en tiempo real.
+- Generación y recepción de alertas.
+- Solicitud de mantenimiento.
+- Visualización de reportes de uso, consumo y fallas.
+- Gestión de técnicos y mantenimientos programados.
 
-##### Entrevista 1
+## **Para el Segmento 1: Negocios con equipos de refrigeración**
 
-<img width="883" height="595" alt="image" src="https://github.com/user-attachments/assets/4d49311b-5bb0-4e04-a74d-f8be1432e27f" />
+- Agregar equipos
+- Monitoreo y alertas
+- Ver dashboards
+- Recibir alertas por alta temperatura, apertura prolongada, fallas eléctricas
+- Visualización de reportes
+- Histórico de temperatura
+- Consumo energético
+- Horas de funcionamiento
 
-Nombre completo: Henrry Aiquipa
-Edad: 25
-Distrito de residencia: San Martín de Porres
-Rol en su empresa: Dueño de bodega
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113432_upc_edu_pe/IQCaiC094zRKQo6eAGmwePKAAftIQ1MElQl_m34jcR_dOg0?e=DIiU2t&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+## **Para el Segmento 2: Técnicos y empresas de mantenimiento**
 
-#### Análisis de entrevista
+- Gestión de técnicos
+- Ver disponibilidad y ubicación
+- Intervenciones previas por equipo
+- Generación de reportes
+- Rendimiento de técnicos
+- Equipos por cliente
+- Mantenimientos programados
 
-##### Entrevista 1
-Análisis: Henrry Aiquipa, 25 años, dueño de una bodega en San Martín de Porres, tuvo una experiencia en general positiva con la plataforma para negocios con equipos de refrigeración. Percibió el registro e inicio de sesión como simples y sin errores, y encontró el dashboard intuitivo, con un resumen útil del estado de sus equipos. Destacó que las secciones de “Sites” y “Equipments” están bien organizadas, con información relevante y estados de equipos fáciles de identificar. Valoró también la claridad de las alertas y la facilidad para acceder a reportes y solicitar servicios o programar mantenimientos. Ubicó sin problema la sección de configuración y confirmó que los cambios se guardan correctamente. En conjunto, considera que la aplicación es visualmente agradable, coherente e intuitiva, mencionando solo pequeños retrasos puntuales que no afectan su uso general.
+## **Formato de Registro de Entrevista**
+
+- Nombre completo
+- Edad
+- Distrito de residencia
+-  Rol en su empresa
+-  Dispositivo utilizado para la prueba
+
+## **Preguntas para el Segmento**
+
+**Registro y Autenticación de Usuario**
+- ¿Los campos solicitados (nombre, email, contraseña) te parecieron apropiados para crear tu cuenta?
+- ¿El inicio de sesión fue rápido y sin errores inesperados?
+  
+**Dashboard**
+
+- Al ingresar al panel principal, ¿lograste entender rápidamente cómo navegar por las diferentes secciones?
+- ¿La información de resumen que se muestra es útil para tener una visión general?
+  
+**Sites**
+
+- ¿La información de los sitios en listas facilita su identificación y organización?
+- ¿Encontraste sin problemas la opción para ver el listado de equipos de refrigeración?
+- ¿La visualización de direcciones o IDs fue clara y coherente con lo esperado?
+  
+**Equipments**
+
+- Al visualizar los equipos, ¿la información mostrada es relevante para tus necesidades?
+- ¿Pudiste distinguir fácilmente el estado de cada equipo?
+- ¿Los botones de acción (por ejemplo, “More”, “Equipment detail”) respondieron correctamente?
+  
+**Alertas y Reportes**
+
+- ¿Te resultó fácil interpretar las alertas (colores, tipo, severidad)?
+- ¿Pudiste acceder fácilmente a los reportes generados?
+- ¿Los filtros y botones (por ejemplo, “Ver Reporte” o “View Equipment”) funcionaron como esperabas?
+
+**Servicios**
+
+- ¿Cómo fue tu experiencia solicitando un servicio?
+- ¿La opción para programar mantenimiento estaba visible y disponible?¿Qué te pareció su implementación?
+
+**Configuración y Perfil**
+
+- ¿Ubicaste la sección de Configuración sin dificultad?
+- ¿Los cambios realizados (idioma, tema) se mantuvieron al recargar la página o volver a iniciar sesión?
+
+**Experiencia General**
+
+- ¿La aplicación te pareció visualmente atractiva y coherente en todas sus secciones?
+- ¿Consideras que el flujo general (inicio, navegación, reportes) es lógico e intuitivo?
+- ¿Tuviste algún problema técnico (errores, lentitud, fallos de carga)?
+
+### 5.3.2. Registro de Entrevistas.
+
+## Segmento objetivo #1: Negocios con equipos de refrigeración
+
+**Entrevista 1:**
+
+- **Nombres y apellidos:** Henrry Aiquipa
+- **Edad:** 25
+- **Distrito:** San Martín de Porres
+
+![Interview-1-segment-1.png](assets/chapter05/entrevista-2-segmento-1.png)
+
+- **Inicio:** 0:00
+- **Duración:** 14:49 min
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQDZJDCV5rVLQJHq_pq3M0RWAZbT8M6ee7V0Eo77-ESq_0U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fUbOGP
+- **Resumen:** Análisis: Henrry Aiquipa, 25 años, dueño de una bodega en San Martín de Porres, tuvo una experiencia en general positiva con la plataforma para negocios con equipos de refrigeración. Percibió el registro e inicio de sesión como simples y sin errores, y encontró el dashboard intuitivo, con un resumen útil del estado de sus equipos. Destacó que las secciones de “Sites” y “Equipments” están bien organizadas, con información relevante y estados de equipos fáciles de identificar. Valoró también la claridad de las alertas y la facilidad para acceder a reportes y solicitar servicios o programar mantenimientos. Ubicó sin problema la sección de configuración y confirmó que los cambios se guardan correctamente. En conjunto, considera que la aplicación es visualmente agradable, coherente e intuitiva, mencionando solo pequeños retrasos puntuales que no afectan su uso general.
+
+**Entrevista 2:**
+
+- **Nombres y apellidos:** Sonia Rocio
+- **Edad:** 59
+- **Distrito:** Lima
+
+![Interview-1-segment-1.png](assets/chapter05/entrevista-1-segmento-1.png)
+
+- **Inicio:** 0:00
+- **Duración:** 5:21 min
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQCK3Oq7XMaZRL7U5QnkIAKuAeHFhMJhaovEMp5L-PuTANE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5HVhkd
+- **Resumen:** La señora Rocío Galindo, comenta que la plataforma para negocios con equipos de refrigeración le resultó clara y sencilla de usar: el registro y el ingreso fueron fáciles, el panel principal le mostró de inmediato el estado de sus equipos y las secciones de “Sites” y “Equipments” le parecieron muy ordenadas. Destaca que las alertas son comprensibles, los reportes y las solicitudes de mantenimiento están al alcance y que la configuración permite hacer cambios sin dificultad. En general, afirma que la aplicación es visualmente agradable, coherente y práctica para su día a día.
 
 ---
 
-#### Segmento Objetivo 2 - Técnicos y empresas de mantenimiento:
+## Segmento Objetivo 2 - Técnicos y empresas de mantenimiento:
 
-##### **Entrevista 1:**
+**Entrevista 1:**
 
 - **Nombres y apellidos:** Alvaro Piettro Salazar Urbina
 - **Edad:** 24
 - **Distrito:** Comas
+
+![Interview-1-segment-1.png](assets/chapter05/ValidationInterview1-Segmento2.png)
+
 - **Inicio:** 0:28 min
 - **Duración:** 14:49 min
-- **Url:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQDZJDCV5rVLQJHq_pq3M0RWAUE1DYc9RgFExcF1eUADwTQ?e=qGTIh4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQDZJDCV5rVLQJHq_pq3M0RWAUE1DYc9RgFExcF1eUADwTQ?e=qGTIh4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-![ValidationInterview1-Segmento2](assets/chapter05/ValidationInterview1-Segmento2.png)
-
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQDZJDCV5rVLQJHq_pq3M0RWAZbT8M6ee7V0Eo77-ESq_0U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fUbOGP
 - **Resumen:** Alvaro Salazar, 24 años, técnico especializado en servicios de mantenimiento en máquinas de refrigeración. Ante su experiencia en este rubro, comparte su opinión y retroalimentación acerca de nuestra aplicación IceTrack. Tras haber hecho uso de la aplicación, comenta que la interfaz fue sencilla y fácil de entender. Así mismo, cree que el flujo de la aplicación es sencilla y no cuenta con dificultades o elementos que distraigan la atención. Considera que el tiempo de espera se encuentra en el tiempo promedio que se espera de este tipo de aplicaciones y considera apropiado la creación de reportes para mejorar su eficiencia en servicios de mantenimiento. En conclusión, Alvaro considera que nuestra aplicación cumple con el objetivo de resolver las necesidades de los usuarios con una interfaz sencilla de entender y visualmente agradable.
 
+---
+
+### 5.3.3. Evaluaciones según heurísticas.
 
 ### 5.3.3. Evaluaciones según heurísticas
-
 
 # Conclusiones
 

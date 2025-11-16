@@ -3146,6 +3146,21 @@ En el Sprint 3 se desplegó la segunda versión de la Web Application de IceTrac
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+**ReportController**
+
+Gestión de reportes generados.
+
+| Verbo HTTP | Endpoint | Descripción |
+| ---------- | -------- | ----------- |
+| POST | /api/v1/report | Crear un nuevo reporte |
+| GET | /api/v1/report | Obtener un reporte por el ID de un equipo o empresa |
+| GET | /api/v1/report/{id} | Obtener un reporte por su ID |
+
+![ReportEndpointsBackendV1](./assets/chapter05/ReportEndpointsBackendV1.png)
+![PostReportBackendV1](./assets/chapter05/PostReportBackendV1.png)
+![GetReportByEquipmentOrTenantIdBackendV1](./assets/chapter05/GetReportByEquipmentOrTenantIdBackendV1.png)
+![GetReportByIdBackendV1](./assets/chapter05/GetReportByIdBackendV1.png)
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint

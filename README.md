@@ -3075,10 +3075,189 @@ En esta sección se presentan los commits realizados en el repositorio de backen
 
 A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra aplicación. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
 
-
-
+<table>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(auth): create login UI for monitoring platform</td>
+	    <td colspan="2">Implemented login screen with form validation and error messages.</td>
+	    <td colspan="2">02/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(auth): integrate login API with JWT</td>
+	    <td colspan="2">Connected login form with authentication endpoint, added token handling.</td>
+	    <td colspan="2">01/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(users): add UI for registering admin/owners</td>
+	    <td colspan="2">Created registration form with fields for admin user creation.</td>
+	    <td colspan="2">01/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(technicians): create technician registration interface</td>
+	    <td colspan="2">Designed form to add new technicians with validation rules.</td>
+	    <td colspan="2">05/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(technicians): implement technicians table with actions</td>
+	    <td colspan="2">Added list view with edit / delete options and dynamic state updates.</td>
+	    <td colspan="2">07/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(equipment): create refrigeration equipment list UI</td>
+	    <td colspan="2">Added table view showing equipment name, model, status and installation date.</td>
+	    <td colspan="2">03/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(equipment): add new equipment registration form</td>
+	    <td colspan="2">Implemented form for adding refrigeration units with basic validation.</td>
+	    <td colspan="2">07/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(api): connect equipment views to backend</td>
+	    <td colspan="2">Integrated equipment screens with API `/api/v1/equipment` for CRUD operations.</td>
+	    <td colspan="2">08/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">fix(ui): correct login redirection</td>
+	    <td colspan="2">Fixed landing-page navigation to correctly route users to login.</td>
+	    <td colspan="2">09/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">chore: merge develop into feature/frontend-sprint2</td>
+	    <td colspan="2">Merged all completed frontend features from Sprint 2.</td>
+	    <td colspan="2">09/11/2025</td>
+	</tr>
+</table>
 
 **Commits realizados en el repositorio de backend durante el sprint 3:**
+
+<table>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(auth): create user registration endpoint</td>
+	    <td colspan="2">Added POST /api/v1/auth/register with DTO, validation, hashing and persistence.</td>
+	    <td colspan="2">12/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(validation): add email & password validation rules</td>
+	    <td colspan="2">Implemented strong password validator and unique email constraint.</td>
+	    <td colspan="2">12/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(auth): implement user registration service & mapper</td>
+	    <td colspan="2">Connected controller → service → repository for user registration flow.</td>
+	    <td colspan="2">11/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(auth): add login endpoint with JWT</td>
+	    <td colspan="2">Created POST /api/v1/auth/login issuing JWT tokens and refresh tokens.</td>
+	    <td colspan="2">11/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(security): configure JWT filters & authentication manager</td>
+	    <td colspan="2">Added token validation, secured routes and role-based access (admin/tech/client).</td>
+	    <td colspan="2">11/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(technicians): add technician creation endpoint</td>
+	    <td colspan="2">Implemented POST /api/v1/technicians with entity, repository and service.</td>
+	    <td colspan="2">15/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(technicians): add CRUD for technicians</td>
+	    <td colspan="2">Added GET/PUT/DELETE routes for technician management.</td>
+	    <td colspan="2">17/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(equipment): list refrigeration equipment</td>
+	    <td colspan="2">Added GET /api/v1/equipment returning filtered & paginated units.</td>
+	    <td colspan="2">13/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(equipment): create equipment registration endpoint</td>
+	    <td colspan="2">Implemented POST /api/v1/equipment with validation and repository operations.</td>
+	    <td colspan="2">07/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(api): integrate equipment service with domain layer</td>
+	    <td colspan="2">Connected controllers → services → unit repository for CRUD operations.</td>
+	    <td colspan="2">08/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">fix(auth): correct login redirect & unauthorized handler</td>
+	    <td colspan="2">Fixed unauthorized responses returning 401 and improved error messages.</td>
+	    <td colspan="2">09/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">Merge branch 'develop' into feature/backend-sprint2</td>
+	    <td colspan="2">Merged backend tasks for Sprint 2 including auth, technicians & equipment modules.</td>
+	    <td colspan="2">09/11/2025</td>
+	</tr>
+</table>
 
 A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados a la parte de backend. Cada entrada incluye el identificador único del commit (ID), descripciones realizados durante la elaboracion de esta.
 

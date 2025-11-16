@@ -2909,11 +2909,13 @@ Alertas y Reportes
 
 ##### Entrevista 1
 
+<img width="883" height="595" alt="image" src="https://github.com/user-attachments/assets/4d49311b-5bb0-4e04-a74d-f8be1432e27f" />
+
 Nombre completo: Henrry Aiquipa
 Edad: 25
 Distrito de residencia: San Martín de Porres
 Rol en su empresa: Dueño de bodega
-Link: 
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113432_upc_edu_pe/IQCaiC094zRKQo6eAGmwePKAAftIQ1MElQl_m34jcR_dOg0?e=DIiU2t&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 #### Análisis de entrevista
 

@@ -2868,6 +2868,60 @@ Para el presente sprint, se realizó el proceso de despliegue para la primera ve
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+
+#### Registro y Autenticación de Usuario
+¿Los campos solicitados (nombre, email, contraseña) te parecieron apropiados para crear tu cuenta?
+¿El inicio de sesión fue rápido y sin errores inesperados?
+
+#### Dashboard
+Al ingresar al panel principal, ¿lograste entender rápidamente cómo navegar por las diferentes secciones?
+¿La información de resumen que se muestra es útil para tener una visión general?
+Sites
+¿La información de los sitios en listas facilita su identificación y organización?
+¿Encontraste sin problemas la opción para ver el listado de equipos de refrigeración?
+¿La visualización de direcciones o IDs fue clara y coherente con lo esperado?
+
+#### Equipments
+Al visualizar los equipos, ¿la información mostrada es relevante para tus necesidades?
+¿Pudiste distinguir fácilmente el estado de cada equipo?
+¿Los botones de acción (por ejemplo, “More”, “Equipment detail”) respondieron correctamente?
+Alertas y Reportes
+¿Te resultó fácil interpretar las alertas (colores, tipo, severidad)?
+¿Pudiste acceder fácilmente a los reportes generados?
+¿Los filtros y botones (por ejemplo, “Ver Reporte” o “View Equipment”) funcionaron como esperabas?
+
+####Servicios
+¿Cómo fue tu experiencia solicitando un servicio?
+¿La opción para programar mantenimiento estaba visible y disponible?¿Qué te pareció su implementación?
+
+####Configuración y Perfil
+¿Ubicaste la sección de Configuración sin dificultad?
+¿Los cambios realizados (idioma, tema) se mantuvieron al recargar la página o volver a iniciar sesión?
+
+####Experiencia General
+¿La aplicación te pareció visualmente atractiva y coherente en todas sus secciones?
+¿Consideras que el flujo general (inicio, navegación, reportes) es lógico e intuitivo?
+¿Tuviste algún problema técnico (errores, lentitud, fallos de carga)?
+
+### 5.3.2. Registro de Entrevistas
+
+Nombre completo: Henrry Aiquipa
+Edad: 25
+Distrito de residencia: San Martín de Porres
+Rol en su empresa: Dueño de bodega
+Link: 
+
+##### Análisis de entrevista
+
+##### Henrry Aiquipa
+Análisis: 
+
+
+
+### 5.3.3. Evaluaciones según heurísticas
+
 
 # Conclusiones
 

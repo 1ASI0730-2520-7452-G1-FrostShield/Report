@@ -3192,6 +3192,40 @@ Validar la usabilidad, efectividad y propuesta de valor de la plataforma IceTrac
 
 ### 5.3.2. Registro de Entrevistas.
 
+## Segmento objetivo #1: Negocios con equipos de refrigeración
+
+**Entrevista 1:**
+
+- **Nombres y apellidos:** Sonia Rocio
+- **Edad:** 59
+- **Distrito:** Lima
+
+![Interview-1-segment-1.png](assets/chapter05/entrevista-1-segmento-1.png)
+
+- **Inicio:** 0:00
+- **Duración:** 5:21 min
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQCK3Oq7XMaZRL7U5QnkIAKuAeHFhMJhaovEMp5L-PuTANE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5HVhkd
+- **Resumen:** 
+
+---
+
+## Segmento Objetivo 2 - Técnicos y empresas de mantenimiento:
+
+**Entrevista 1:**
+
+- **Nombres y apellidos:** 
+- **Edad:** 
+- **Distrito:** Lima
+
+![Interview-1-segment-1.png](assets/chapter05/entrevista-1-segmento-2.png)
+
+- **Inicio:** 0:00
+- **Duración:** 14:49 min
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQDZJDCV5rVLQJHq_pq3M0RWAZbT8M6ee7V0Eo77-ESq_0U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fUbOGP
+- **Resumen:** 
+
+---
+
 ### 5.3.3. Evaluaciones según heurísticas.
 
 ### 5.4. Video About-the-Product.

@@ -3271,6 +3271,12 @@ Validar la usabilidad, efectividad y propuesta de valor de la plataforma IceTrac
 - **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQCK3Oq7XMaZRL7U5QnkIAKuAeHFhMJhaovEMp5L-PuTANE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5HVhkd
 - **Resumen:** La señora Rocío Galindo, comenta que la plataforma para negocios con equipos de refrigeración le resultó clara y sencilla de usar: el registro y el ingreso fueron fáciles, el panel principal le mostró de inmediato el estado de sus equipos y las secciones de “Sites” y “Equipments” le parecieron muy ordenadas. Destaca que las alertas son comprensibles, los reportes y las solicitudes de mantenimiento están al alcance y que la configuración permite hacer cambios sin dificultad. En general, afirma que la aplicación es visualmente agradable, coherente y práctica para su día a día.
 
+**Entrevista 3:**
+
+- **Nombres y apellidos:** Mauricio Mego
+- **Edad:** 22
+- **Distrito:** Lima
+
 ![Interview-1-segment-1.png](assets/chapter05/entrevista-alejandro.png)
 
 - **Inicio:** 0:00

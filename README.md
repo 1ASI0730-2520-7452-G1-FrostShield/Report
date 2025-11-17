@@ -3449,8 +3449,13 @@ En el Sprint 3 se desplegó la segunda versión de la Web Application de IceTrac
 ![ReportEndpointsBackendV1](./assets/chapter05/post-alertas.png)
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
-
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Frontend:
+![Insights-TB2FRONT.png](assets/chapter05/Insights-TB2FRONT.png)
+
+Backend:
+![InsightsTB2BACKEND.png](assets/chapter05/InsightsTB2BACKEND.png)
 
 ## 5.3. Validation Interviews
 

@@ -3382,6 +3382,15 @@ En el Sprint 3 se desplegó la segunda versión de la Web Application de IceTrac
 | POST		 | /api/v1/authentication/sign-in | Iniciar sesión |
 | POST		 | /api/v1/authentication/sign-up | Registrarse    |
 
+**Alerts**
+
+| Verbo HTTP | Endpoint 		  			  | Descripción	                                 |
+| :--------: | :----------------------------- | :--------------------------------------------|                          
+| POST		 | /api/v1/authentication/sign-in | Crear alerta                                 |
+| GET		 | /api/v1/alert                  | Tener alerta por equipmentid y tenantid      |
+| GET		 | /api/v1/alert/{id}             | Tener alerta por Id                          |
+
+
 ---
 
 **Dashboard**
@@ -3434,6 +3443,10 @@ En el Sprint 3 se desplegó la segunda versión de la Web Application de IceTrac
 ![ReportEndpointsBackendV1](./assets/chapter05/authentication_0.png)
 ![PostReportBackendV1](./assets/chapter05/authentication_1.png)
 ![GetReportByEquipmentOrTenantIdBackendV1](./assets/chapter05/authentication_2.png)
+
+**Alerts**
+![ReportEndpointsBackendV1](./assets/chapter05/metodos-alertas.png)
+![ReportEndpointsBackendV1](./assets/chapter05/post-alertas.png)
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -3908,6 +3921,26 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 - Se sugiere mejorar los mecanismos de autenticación y autorización mediante tokens más seguros y control de accesos avanzado, con el fin de garantizar que solo usuarios autorizados puedan acceder a los servicios sensibles de la plataforma.
 - Para garantizar un rendimiento óptimo, se recomienda implementar técnicas de caché, balanceo de carga o manejo eficiente de solicitudes en caso de alto tráfico, especialmente cuando IceTrack escale a más usuarios o clientes.
 - Se debe documentar continuamente los endpoints, modelos y procesos internos a través de herramientas como Swagger, facilitando el mantenimiento del backend y permitiendo que futuros desarrolladores comprendan rápidamente la estructura del sistema.
+
+## 5.4. Video About-the-Product
+
+En esta parte, el equipo ofrece una síntesis de los puntos más importantes de IceTrack. El contenido audiovisual describe detalladamente las funciones principales de la aplicación, mostrando cómo cada una fue creada para atender las necesidades de los sistemas de refrigeración, ya sea en entornos domésticos o comerciales.
+
+El video incluye demostraciones visuales del uso de la app, mostrando pasos esenciales como el monitoreo de temperatura y consumo energético, alertas de fallos, historial de rendimiento y reportes generales sobre los equipos registrados.
+
+La narración guía al espectador por toda la experiencia de uso, mientras que testimonios reales aportan credibilidad al compartir cómo la aplicación ha facilitado la supervisión de sistemas de refrigeración, tanto para técnicos como para usuarios sin experiencia. Estos relatos destacan la facilidad de uso y la mejora en la eficiencia y confiabilidad de los equipos.
+
+En conjunto, el video no solo presenta el producto, sino que lo posiciona como una solución digital efectiva para apoyar el mantenimiento y control responsable de la refrigeración, demostrando su utilidad, su usabilidad y su impacto positivo.
+
+**Video Explicativo**
+
+<p align="center">
+    <img src="assets/chapter05/about_product.png" alt="about_product"/>    
+</p>
+
+URL de la Versión Publicada
+
+- **Link de OneDrive:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220138_upc_edu_pe/IQDqUJmb8HpsQ7D88N1V05G-AWhir566m1pHdZ75Tv07gzk?e=hCdsaI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D about the product
 
 # Conclusiones
 

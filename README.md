@@ -8,7 +8,7 @@
   <h2>Sección: 7452</h2>
   <h2>Profesor: Hugo Allan Mori Paiva</h2>
 <br>
- <h1>Informe TB1</h1>
+ <h1>Informe TB2</h1>
   <h2>Startup: Frostshield </h2>
   <h2>Producto: IceTrack </h2>
 <br>
@@ -17,7 +17,7 @@
 <div align="center">
  
 | <div style="width:500px">Alumno</div> | <div style="width:200px">Código</div> |
-|:-------------------------------------:|:-------------------------------------:|
+| :-----------------------------------: | :-----------------------------------: |
 |   Galindo Montero, Alejandro Manuel   |              u202321264               |
 |     Guillen Galindo, Julio Adolfo     |              u20241a352               |
 |   La Madrid Lozano, Ivan Jeanpierre   |              u202113432               |
@@ -27,6 +27,7 @@
 </div>
 
 <br>
+
    <h3>Setiembre 2025</h3>
 
 </div>
@@ -35,37 +36,32 @@
 
 <div align="center">
  
-| Versión | Fecha      | Autor               | Descripción de modificación                                      |
-|---------|------------|----------------------|-----------------------------------------------------------------|
-| 0.1     | 13/09/2025 | Kenyi Ramírez        | Elaboración de la estructura inicial del reporte                |
-| 0.2     | 13/09/2025 | Alejandro Galindo    | Desarrollo del Capitulo I                                       |
-| TB1 | 13/09/2025 | FrostShield | Se redactaron los capítulos: <br> - Capítulo I: Introducción <br> - Capítulo II: Requirements Elicitation & Analysis <br> - Capítulo III: Requirements Specification <br> - Capítulo IV: Product Design <br> - Capítulo V: Product Implementation, Validation & Deployment (Sprint 1) |
-| TP1 | 13/09/2025 | FrostShield | Se modificaron los capítulos: <br> - Capítulo II: Requirements Elicitation & Analysis <br> - Capítulo III: Requirements Specification <br> - Capítulo IV: Product Design <br> <br> Se redactaron los capítulos: <br>- Capítulo V: Product Implementation, Validation & Deployment (Sprint 2) |
-
+| Versión | Fecha      | Autor             | Descripción de modificación                        |
+| :-----: | :--------: | :---------------: | :------------------------------------------------- |
+| 0.1     | 13/09/2025 | Kenyi Ramírez     | Elaboración de la estructura inicial del reporte   |
+| 0.2     | 13/09/2025 | Alejandro Galindo | Desarrollo del Capitulo I                          |
+| 0.3     | 14/09/2025 | Julio Guillen     | Desarrollo del Capitulo III                        |
+| 0.4     | 15/09/2025 | Ivan Lozano       | Desarrollo del Capitulo II                         |
+| 0.5     | 18/09/2025 | Pedro Nanfuñay    | Desarrollo del Capitulo IV                         |
+| 0.6     | 11/10/2025 | FrostShield       | Desarrollo del Capitulo V, Landing Page y Frontend |
+| 0.7     | 16/11/2025 | Kenyi Ramírez     | Pull Request del projecto                          |
+| 0.8     | 16/11/2025 | FrostShield       | Desarrollo del Capitulo V, Frontend y BackEnd      |
 
 </div>
 
 ## Project Report Collaboration Insights
 
 - **URL de la organización del proyecto:**  [https://github.com/1ASI0730-2520-7452-G1-FrostShield](https://github.com/1ASI0730-2520-7452-G1-FrostShield)
-
 - **URL del repositorio del informe del proyecto:**  [https://github.com/1ASI0730-2520-7452-G1-FrostShield/Report](https://github.com/1ASI0730-2520-7452-G1-FrostShield/Report)
-
 - **URL del repositorio del landing page del proyecto:**  [https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page](https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page)
-  
 - **URL de repositorio Frontend Applications del proyecto** [https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack-Frontend](https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack-Frontend)
-
-**TB1:** Las tareas asignadas a la TB1 han sido finalizadas y se encuentran correctamente documentadas en el repositorio de GitHub.
 
 Durante la fase de preparación del informe, se llevaron a cabo las siguientes actividades:
 
 - Se redactaron y crearon los contenidos asignados a cada miembro utilizando formato Markdown, y se realizaron "Conventional Commits" para documentar el avance en el repositorio.
-
 - Se generaron los recursos necesarios y se añadieron las imágenes al repositorio en la carpeta "assets" correspondiente a cada rama del informe.
-
 - Se organizaron reuniones para coordinar el progreso de los componentes del informe y del Sprint 1, que estuvo enfocado en el desarrollo de la Landing Page.
   
-
 ![InsightsTB1](assets/chapter01/Insights-TB1.png)
 
 ![NetworkGraph](assets/chapter01/NetworkGraph-TB1.png)
@@ -76,12 +72,15 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
 
 - Se generaron los recursos necesarios y se añadieron las imágenes al repositorio en la carpeta "assets" correspondiente a cada rama del informe.
 
-- Se organizaron reuniones para coordinar el progreso de los componentes del informe y del Sprint 2, enfocado en los FrontEnd Applications y en su despliegue.
+- Se organizaron reuniones para coordinar el progreso de los componentes del informe y del Sprint 2, enfocado en los FrontEnd Applications y en su despliegue. 
 
+**TB2:** Las tareas asignadas a la TB2 han sido completadas y se encuentran debidamente documentadas en el repositorio de GitHub.
 
+- Se implementaron los bounded contexts correspondientes a las aplicaciones Frontend del proyecto, y actualmente se han comenzado a desarrollar y estructurar los componentes principales del Backend, avanzando en la definición de entidades, casos de uso y servicios necesarios.
 
+- Se generaron los recursos requeridos y se añadieron las imágenes al repositorio dentro de la carpeta "assets" correspondiente a cada rama del informe.
 
-  
+- Además, se organizaron reuniones de coordinación para revisar el progreso tanto del informe como del Sprint 3, inicialmente centrado en el mejoramiento de los FrontEnd Applications y ahora también en la construcción y consolidación del Backend y su despliegue.
 
 ## Contenido
 
@@ -176,6 +175,15 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
             - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
             - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
             - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+        - [5.2.3. Sprint 3](#523-sprint-3)
+            - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+            - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+            - [5.2.3.3. Sprint Backlog 2](#5233-sprint-backlog-2)
+            - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+            - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+            - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+            - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+            - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
 
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
@@ -197,8 +205,8 @@ del ABET – EAC - Student Outcome 5.
 
 | Criterio específico                                                                             | Acciones realizadas                                                      | Conclusiones                   |
 |-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                 | <ul><li><b>Galindo Montero, Alejandro Manuel</b><br><b>TB1</b>: Durante el proyecto participé de manera activa en la coordinación del equipo y la organización de tareas y la búsqueda conjunta de soluciones para cumplir con los objetivos establecidos. <br><b>TP1</b>: Durante el desarrollo de esta entrega, apoyé a mis compañeros en la realización de diversas tareas y en la resolución de dudas. Asimismo, corregí secciones de la TB1 como User Stories y Product Backlog, y colaboré en el desarrollo del Sprint 2 y del capítulo 5, promoviendo el liderazgo compartido dentro del grupo. </li><li><b>Guillen Galindo, Julio Adolfo</b><br><b>TB1</b>: Durante el desarrollo del trabajo, he colaborado de forma continua en la parte del capitulo IV, mostrando soluciones apropiados a las especificaciones necesarias de cada parte. <br><b>TP1</b>: Participé en la elaboración y mejora de los wireframes, optimizando la experiencia del usuario y facilitando la comunicación entre los miembros del equipo de diseño y desarrollo. </li><li><b>La Madrid Lozano, Ivan Jeanpierre</b><br><b>TB1</b>: He colaborado en equipo en lso principales canales de comunicación como whatsapp y discord. También estuve presente en las distintas reuniones y trabajado colaborativamente. <br><b>TP1</b>: Organicé las tareas pendientes del equipo para definir su correcta distribución entre los integrantes, contribuyendo a mantener la eficiencia y el cumplimiento de los plazos establecidos. </li><li><b>Nanfuñay Liza, Pedro Jesus</b> <br><b>TB1</b>: Durante el desarrollo del presente proyecto, participé activamente en las reuniones y toma de decisiones del equipo. Así mismo, contribuí a la coordinación de tareas y propuesta de soluciones, demostrando capacidad de liderazgo de forma colaborativa y responsabilidad con el desarrollo del proyecto y del equipo. <br><b>TP1</b>: Realicé la identificación de fallas y observaciones dentro del proyecto, asegurando la mejora continua del trabajo en equipo. <li><b>Ramirez Cabrera, Kenyi Efrain</b><br><b>TB1</b>: A lo largo del desarrollo, colaboré en la organización de las tareas y en la generación de propuestas para resolver problemas, mostrando liderazgo colaborativo y compromiso tanto con el progreso del proyecto como con el crecimiento del equipo. <br><b>TP1</b>: Participé activamente en las reuniones de coordinación, colaborando en la toma de decisiones junto con mis compañeros y reforzando la comunicación y el liderazgo compartido del grupo. </ul>        | <ul><li><b>TB1</b>: Como equipo logramos identificar y desarrollar ideas de negocio; realizamos entrevistas y construimos modelos de los capitulos, con el fin de obtener una visión más precisa sobre cómo funcionará el software. <br> </li><li><b>TP1</b>: El liderazgo fue ejercido de manera colaborativa entre los miembros del equipo, promoviendo la organización, la comunicación constante y el cumplimiento de los objetivos planteados.</li></ul> |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | <ul><li><b>Galindo Montero, Alejandro Manuel</b><br><b>TB1</b>: Empleeé una organización para estructurar y gestionar las tareas de forma colaborativa, priorizando actividades según los plazos planificados, para maximizar la eficiencia del equipo y el cumplimiento de metas. <br><b>TP1</b>: Diseñé el formato de organización en Trello y, junto con mi equipo, definí los bounded contexts de la aplicación web. Además, destaqué observaciones y puntos de mejora para optimizar la planificación del proyecto. </li><li><b>Guillen Galindo, Julio Adolfo</b><br><b>TB1</b>: Organize mi timepo apra realizar lapropuesta de trabajo, ademas de organizar entrevistas que eran un requerimiento en los objetivos a realizar. <br><b>TP1</b>: Desarrollé prototipos visuales y mockups interactivos que facilitaron la comunicación entre el equipo de diseño y el desarrollo frontend, contribuyendo a la alineación de los objetivos visuales del producto. </li><li><b>La Madrid Lozano, Ivan Jeanpierre</b> <br><b>TB1</b>: Fui responsable del diseño de los wireframes de la Landing Page y de la organización de las ramas y la estructura del repositorio en GitHub. <br><b>TB1</b>: Fui participé en las decisiones del equipo asu como su planificación y desarrollo. Mediante aplicaicones como Trello se desplego y evidenció las distintas tareas del equipo. </li><li><b>Nanfuñay Liza, Pedro Jesus</b><br><b>TB1</b>: Trabajé activamente en el desarrollo del proyecto mediante una organización en Github, plataforma que permite realizar avances en un entorno colaborativo para cumplir con los objetivos establecidos mediante tareas asignadas en plazos previamente planificados. <br><b>TP1</b>: Elaboré los wireflows y userflows del proyecto, aplicando principios de diseño UX para mejorar la usabilidad y experiencia del usuario. </li><li><b>Ramirez Cabrera, Kenyi Efrain</b><br><b>TB1</b>: Participé de forma activa en el desarrollo del proyecto usando una organización en GitHub, a través de ella se gestionaron los avances, se asignaron tareas y se cumplieron los objetivos dentro de los plazos previamente establecidos. <br><b>TP1</b>: Actualicé el Database Diagram, el Class Diagram y los Lean UX Assumptions, contribuyendo a la documentación técnica y coherencia del sistema</li></ul>        | <ul><li><b>TB1</b>: Fomentamos un ambiente de trabajo colaborativo e inclusivo, fijamos metas claras, organizamos las tareas y alcanzamos los objetivos propuestos. <br> </li><li><b>TP1</b>: Se fortaleció un entorno colaborativo e inclusivo mediante una planificación conjunta y una comunicación efectiva. Cada integrante participó activamente en la consecución de los entregables, consolidando el compromiso del equipo y el cumplimiento de los objetivos. </li></ul> |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                 | <ul><li><b>Galindo Montero, Alejandro Manuel</b><br><b>TB1</b>: Durante el proyecto participé de manera activa en la coordinación del equipo y la organización de tareas y la búsqueda conjunta de soluciones para cumplir con los objetivos establecidos. <br><b>TP1</b>: Durante el desarrollo de esta entrega, apoyé a mis compañeros en la realización de diversas tareas y en la resolución de dudas. Asimismo, corregí secciones de la TB1 como User Stories y Product Backlog, y colaboré en el desarrollo del Sprint 2 y del capítulo 5, promoviendo el liderazgo compartido dentro del grupo. <br><b>TB2</b>: A nivel backend, brindé soporte en la revisión de la estructura general de los endpoints, validando la coherencia entre controladores, servicios y modelos. Además, participé en discusiones técnicas para asegurar que el diseño de la API se mantuviera escalable y alineado con las necesidades del sistema. </li><li><b>Guillen Galindo, Julio Adolfo</b><br><b>TB1</b>: Durante el desarrollo del trabajo, he colaborado de forma continua en la parte del capitulo IV, mostrando soluciones apropiados a las especificaciones necesarias de cada parte. <br><b>TP1</b>: Participé en la elaboración y mejora de los wireframes, optimizando la experiencia del usuario y facilitando la comunicación entre los miembros del equipo de diseño y desarrollo. <br> <b>TB2</b>: En el ámbito backend, contribuí con observaciones relacionadas a la lógica de negocio y la estructura de datos necesaria para implementar las funcionalidades propuestas. Brindé recomendaciones sobre la organización de los endpoints para mantener un backend modular y mantenible. </li><li><b>La Madrid Lozano, Ivan Jeanpierre</b><br><b>TB1</b>: He colaborado en equipo en lso principales canales de comunicación como whatsapp y discord. También estuve presente en las distintas reuniones y trabajado colaborativamente. <br><b>TP1</b>: Organicé las tareas pendientes del equipo para definir su correcta distribución entre los integrantes, contribuyendo a mantener la eficiencia y el cumplimiento de los plazos establecidos. <br> <b>TB2</b>: Desde el enfoque backend, apoyé en la definición de las rutas principales y en la validación de los esquemas base para los controladores. También coordiné con el equipo para asegurar consistencia entre los documentos técnicos (diagramas y estructura de clases) y la implementación futura del servidor </li><li><b>Nanfuñay Liza, Pedro Jesus</b> <br><b>TB1</b>: Durante el desarrollo del presente proyecto, participé activamente en las reuniones y toma de decisiones del equipo. Así mismo, contribuí a la coordinación de tareas y propuesta de soluciones, demostrando capacidad de liderazgo de forma colaborativa y responsabilidad con el desarrollo del proyecto y del equipo. <br><b>TP1</b>: Realicé la identificación de fallas y observaciones dentro del proyecto, asegurando la mejora continua del trabajo en equipo. <br> <b>TB2</b>: Con respecto al backend, realicé observaciones sobre la estructura del modelo de datos, proponiendo ajustes para mejorar la integridad y relación entre entidades. Además, participé en la identificación de potenciales flujos críticos donde la API debe manejar validaciones adicionales. <li><b>Ramirez Cabrera, Kenyi Efrain</b><br><b>TB1</b>: A lo largo del desarrollo, colaboré en la organización de las tareas y en la generación de propuestas para resolver problemas, mostrando liderazgo colaborativo y compromiso tanto con el progreso del proyecto como con el crecimiento del equipo. <br><b>TP1</b>: Participé activamente en las reuniones de coordinación, colaborando en la toma de decisiones junto con mis compañeros y reforzando la comunicación y el liderazgo compartido del grupo. <br><b>TB2</b>: En cuanto al backend, apoyé en la definición y actualización del diagrama de clases y la estructura de la base de datos, asegurando que el backend mantenga cohesión con los requerimientos funcionales. También facilité discusiones para definir responsabilidades entre módulos backend. </ul> | <ul><li><b>TB1</b>: Como equipo logramos identificar y desarrollar ideas de negocio; realizamos entrevistas y construimos modelos de los capitulos, con el fin de obtener una visión más precisa sobre cómo funcionará el software. <br> </li><li><b>TP1</b>: El liderazgo fue ejercido de manera colaborativa entre los miembros del equipo, promoviendo la organización, la comunicación constante y el cumplimiento de los objetivos planteados. <br> </li><li><b>TB2</b>: En el aspecto backend, el equipo demostró liderazgo compartido al coordinar decisiones técnicas relacionadas con la estructura de la API, los modelos de datos y la organización de módulos. Cada integrante aportó desde su rol para mantener coherencia en la arquitectura, promover buenas prácticas y alinear el diseño backend con los objetivos funcionales del sistema. </li></ul> |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | <ul><li><b>Galindo Montero, Alejandro Manuel</b><br><b>TB1</b>: Empleeé una organización para estructurar y gestionar las tareas de forma colaborativa, priorizando actividades según los plazos planificados, para maximizar la eficiencia del equipo y el cumplimiento de metas. <br><b>TP1</b>: Diseñé el formato de organización en Trello y, junto con mi equipo, definí los bounded contexts de la aplicación web. Además, destaqué observaciones y puntos de mejora para optimizar la planificación del proyecto. <br> <b>TB2</b>: Para el backend, colaboré revisando la separación de responsabilidades en los contextos y asegurando que los módulos backend tuvieran límites claros y coherentes con la arquitectura planificada. </li><li><b>Guillen Galindo, Julio Adolfo</b><br><b>TB1</b>: Organize mi timepo apra realizar lapropuesta de trabajo, ademas de organizar entrevistas que eran un requerimiento en los objetivos a realizar. <br><b>TP1</b>: Desarrollé prototipos visuales y mockups interactivos que facilitaron la comunicación entre el equipo de diseño y el desarrollo frontend, contribuyendo a la alineación de los objetivos visuales del producto. <br> <b>TB2</b>: Brindé aportes generales sobre cómo las vistas propuestas debían conectarse con los endpoints del backend, identificando qué datos serían necesarios y anticipando posibles validaciones desde la API. </li><li><b>La Madrid Lozano, Ivan Jeanpierre</b> <br><b>TB1</b>: Fui responsable del diseño de los wireframes de la Landing Page y de la organización de las ramas y la estructura del repositorio en GitHub. <br><b>TB1</b>: Fui participé en las decisiones del equipo asu como su planificación y desarrollo. Mediante aplicaicones como Trello se desplego y evidenció las distintas tareas del equipo. <br> <b>TB2</b>: Aporté al backend organizando adecuadamente las ramas del repositorio, facilitando la futura integración del backend mediante una estructura clara para desarrollo conjunto y control de versiones. </li><li><b>Nanfuñay Liza, Pedro Jesus</b><br><b>TB1</b>: Trabajé activamente en el desarrollo del proyecto mediante una organización en Github, plataforma que permite realizar avances en un entorno colaborativo para cumplir con los objetivos establecidos mediante tareas asignadas en plazos previamente planificados. <br><b>TP1</b>: Elaboré los wireflows y userflows del proyecto, aplicando principios de diseño UX para mejorar la usabilidad y experiencia del usuario. <br> <b>TB2</b>: Desde el backend, apoyé revisando los flujos para asegurar que los endpoints requeridos fueran viables y que los datos circularan correctamente entre cliente y servidor. </li><li><b>Ramirez Cabrera, Kenyi Efrain</b><br><b>TB1</b>: Participé de forma activa en el desarrollo del proyecto usando una organización en GitHub, a través de ella se gestionaron los avances, se asignaron tareas y se cumplieron los objetivos dentro de los plazos previamente establecidos. <br><b>TP1</b>: Actualicé el Database Diagram, el Class Diagram y los Lean UX Assumptions, contribuyendo a la documentación técnica y coherencia del sistema <br> <b>TB2</b>: Apoyé al backend mediante la actualización y refinamiento del modelo de datos, asegurando que las relaciones entre entidades sean adecuadas para el funcionamiento correcto del backend y sus endpoints. </li></ul> | <ul><li><b>TB1</b>: Fomentamos un ambiente de trabajo colaborativo e inclusivo, fijamos metas claras, organizamos las tareas y alcanzamos los objetivos propuestos. <br> </li><li><b>TP1</b>: Se fortaleció un entorno colaborativo e inclusivo mediante una planificación conjunta y una comunicación efectiva. Cada integrante participó activamente en la consecución de los entregables, consolidando el compromiso del equipo y el cumplimiento de los objetivos. <br> </li><li><b>TB2</b> En relación al backend, se fortaleció un entorno colaborativo mediante la planificación conjunta de la estructura del sistema, la revisión colectiva de diagramas técnicos y la validación de los flujos de datos. Esto permitió consolidar una base backend organizada, escalable y coherente, logrando una visión unificada del desarrollo y asegurando la integración futura entre los módulos del proyecto. </li></ul> |
 
 # Capitulo 1: Introducción
 
@@ -2008,7 +2016,6 @@ Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha 
   </tr>
 </table>
 
-
 #### 5.2.1.3. Sprint Backlog 1
 
 El objetivo principal de este Sprint es elaborar la Landing Page de nuestra plataforma. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en Landing Page. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
@@ -2789,15 +2796,1256 @@ Para el presente sprint, se realizó el proceso de despliegue para la primera ve
 
 ![insights2-landingpage.png](assets/chapter05/insights2-landingpage.png)
 
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+<table>
+<tr>
+    <th colspan="5">Sprint 3</th>
+    <th colspan="9">Sprint 3</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-11-02</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">2:30 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Pedro Nanfuñay</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Alejandr Galindo, Julio Guillen, Ivan La Madrid, Kenyi Ramírez</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Review Summary</td>
+    <td colspan="8">Se realizó el primer despliegue de la web application, implementando funcionalidades orientadas al primer segmento objetivo.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Retrospective Summary</td>
+    <td colspan="8">El equipo se comprometió a cumplir sus partes asignadas, así también como colaborar con otras secciones del trabajo para cumplir nuestro objetivo.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Goal</td>
+       <td colspan="8">El enfoque para este sprint es establecer el núcleo integrado de la plataforma IceTrack. Esto implica conectar la página de inicio pública con la aplicación de usuario funcional (frontend) y un sistema de gestión de datos fundamental (backend). Se espera que esta unificación asegure un punto de entrada sencillo para los usuarios a nuestra aplicación y posibilite la gestión de información esencial, elevando la calidad de la experiencia inicial del usuario y proveyendo al equipo de un cimiento estable para el desarrollo futuro. El resultado exitoso se verificará cuando los usuarios puedan entrar y navegar por la aplicación web central sin obstáculos desde la página de aterrizaje; el sistema de gestión de datos respalde las operaciones para entidades críticas como equipos, solicitudes de servicio, técnicos, reportes y alertas; y la interfaz de usuario logre comunicarse con el sistema de gestión de datos para presentar y manejar dichas entidades principales, probando una conexión operativa entre todos los niveles del sistema./td>
+
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Velocity</td>
+    <td colspan="8">100</td>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">97</td>
+</tr>
+</table>
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+Durante este tercer Sprint, el equipo se enfocó principalmente en el desarrollo, la mejora estructural y visual del frontend y en más de l% de los endpoints asociados al alcance de nuestro proyecto en el backend asegurando la integración entre ellas.
+Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha elaborado la matriz de Liderazgo y Colaboración (LACX). Esta matriz asigna responsabilidades específicas a cada miembro del equipo en relación con los aspectos clave del Sprint.
+
+<table border="1">
+  <tr>
+    <td colspan="2"><strong>Team Member (Last Name, First Name)</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Implementacion de la gestión de equipos de refrigeracion (Frontend Applications)<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Responsividad y pruebas en distintos dispositivos<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Despliegue de la aplicación web<br>Leader (L) / Collaborator (C)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Ramírez Cabrera, Kenyi Efrain</td>
+    <td>Kenyi15upc</td>
+    <td>L</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Galindo Montero, Alejandro Manuel </td>
+    <td>AlejandroG12970</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Guillen Galindo, Julio Adolfo </td>
+    <td>julio645</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">La Madrid Lozano, Ivan Jeanpierre</td>
+    <td>ivanlamadrid</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td colspan="2">Nanfuñay Liza, Pedro Jesus</td>
+    <td>PedroJ18</td>
+    <td>C</td>
+    <td>L</td>
+    <td>L</td>
+  </tr>
+</table>
+
+#### 5.2.3.3. Sprint Backlog 3
+
+Nuestro enfoque principal para este Sprint ha sido el desarrollo del frontend y backend de la plataforma IceTrack. Hemos estructurado nuestras tareas siguiendo las User Stories y Technical Stories que hemos detallado, asegurando un progreso claro y alineado con los objetivos de negocio y la arquitectura técnica.
+
+Enlace: https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717b7d5e39eba218930f0541704BF/frontshield
+
+![Sprint1-Trello.png](assets/chapter05/Sprint3-Trello.png)
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Sprint Backlog 1.
+  </figcaption>
+
+<table border="1">
+<tr>
+    <th colspan="3">Sprint 3</th>
+    <th colspan="10">Sprint Backend</th>
+</tr>
+<tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+</tr>
+<tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation (Hours)</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-01</td>
+    <td colspan="2">Registro de usuario</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Crear endpoint /api/v1/users</td>
+    <td colspan="3">Implementar registro con validación de email único y hash de contraseña.</td>
+    <td colspan="1">6</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-01</td>
+    <td colspan="2">Registro de usuario</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Validación de contraseñas</td>
+    <td colspan="3">Verificar longitud, complejidad y confirmación de contraseña.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-02</td>
+    <td colspan="2">Inicio de sesión</td>
+    <td colspan="1">UT-03</td>
+    <td colspan="2">Crear endpoint /api/v1/auth/login</td>
+    <td colspan="3">Implementar autenticación con JWT y validación de usuario/contraseña.</td>
+    <td colspan="1">6</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-03</td>
+    <td colspan="2">Gestionar equipos</td>
+    <td colspan="1">UT-04</td>
+    <td colspan="2">Crear CRUD de equipos</td>
+    <td colspan="3">Endpoints para crear, editar, listar y eliminar equipos.</td>
+    <td colspan="1">8</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-03</td>
+    <td colspan="2">Gestionar equipos</td>
+    <td colspan="1">UT-05</td>
+    <td colspan="2">Validaciones de datos</td>
+    <td colspan="3">Validar modelo, número de serie y estado del equipo.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-08</td>
+    <td colspan="2">Solicitar servicios</td>
+    <td colspan="1">UT-06</td>
+    <td colspan="2">Endpoint POST /api/v1/service-requests</td>
+    <td colspan="3">Crear solicitud con datos del equipo, tipo y descripción del problema.</td>
+    <td colspan="1">7</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-09</td>
+    <td colspan="2">Seguimiento del servicio</td>
+    <td colspan="1">UT-07</td>
+    <td colspan="2">Endpoint GET /api/v1/service-status/{id}</td>
+    <td colspan="3">Devolver estado actual: pendiente, asignado, en progreso, completado.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-10</td>
+    <td colspan="2">Reporte de servicio</td>
+    <td colspan="1">UT-08</td>
+    <td colspan="2">Generar reporte PDF</td>
+    <td colspan="3">Crear documento con resultados, repuestos y observaciones.</td>
+    <td colspan="1">6</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-14</td>
+    <td colspan="2">Registrar técnicos</td>
+    <td colspan="1">UT-09</td>
+    <td colspan="2">CRUD de técnicos</td>
+    <td colspan="3">Registro, edición y asignación de roles (técnico).</td>
+    <td colspan="1">7</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-16</td>
+    <td colspan="2">Asignar técnicos a servicios</td>
+    <td colspan="1">UT-10</td>
+    <td colspan="2">Endpoint asignación técnica</td>
+    <td colspan="3">Asignar un técnico a una solicitud y enviar notificación.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-21</td>
+    <td colspan="2">Notificaciones de eventos</td>
+    <td colspan="1">UT-11</td>
+    <td colspan="2">Integrar sistema de notificaciones</td>
+    <td colspan="3">Enviar alertas ante cambios de estado o problemas del servicio.</td>
+    <td colspan="1">6</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+<tr>
+    <td colspan="1">US-22</td>
+    <td colspan="2">Evaluar servicio</td>
+    <td colspan="1">UT-12</td>
+    <td colspan="2">Endpoint POST /api/v1/reviews</td>
+    <td colspan="3">Registrar calificación y permitir edición dentro del plazo.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Backend Team</td>
+    <td colspan="1">To Do</td>
+</tr>
+</table>
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+En esta sección se presentan los commits realizados en el repositorio de backend y frontend durante el sprint 3.
+
+**Commits realizados en el repositorio de frontend durante el sprint 3:**
+
+A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra aplicación. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
+
+<table>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(auth): create login UI for monitoring platform</td>
+	    <td colspan="2">Implemented login screen with form validation and error messages.</td>
+	    <td colspan="2">02/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(auth): integrate login API with JWT</td>
+	    <td colspan="2">Connected login form with authentication endpoint, added token handling.</td>
+	    <td colspan="2">01/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(users): add UI for registering admin/owners</td>
+	    <td colspan="2">Created registration form with fields for admin user creation.</td>
+	    <td colspan="2">01/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(technicians): create technician registration interface</td>
+	    <td colspan="2">Designed form to add new technicians with validation rules.</td>
+	    <td colspan="2">05/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(technicians): implement technicians table with actions</td>
+	    <td colspan="2">Added list view with edit / delete options and dynamic state updates.</td>
+	    <td colspan="2">07/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(equipment): create refrigeration equipment list UI</td>
+	    <td colspan="2">Added table view showing equipment name, model, status and installation date.</td>
+	    <td colspan="2">03/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(equipment): add new equipment registration form</td>
+	    <td colspan="2">Implemented form for adding refrigeration units with basic validation.</td>
+	    <td colspan="2">07/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(api): connect equipment views to backend</td>
+	    <td colspan="2">Integrated equipment screens with API `/api/v1/equipment` for CRUD operations.</td>
+	    <td colspan="2">08/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">fix(ui): correct login redirection</td>
+	    <td colspan="2">Fixed landing-page navigation to correctly route users to login.</td>
+	    <td colspan="2">09/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">chore: merge develop into feature/frontend-sprint2</td>
+	    <td colspan="2">Merged all completed frontend features from Sprint 2.</td>
+	    <td colspan="2">09/11/2025</td>
+	</tr>
+</table>
+
+**Commits realizados en el repositorio de backend durante el sprint 3:**
+
+<table>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(auth): create user registration endpoint</td>
+	    <td colspan="2">Added POST /api/v1/auth/register with DTO, validation, hashing and persistence.</td>
+	    <td colspan="2">12/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(validation): add email & password validation rules</td>
+	    <td colspan="2">Implemented strong password validator and unique email constraint.</td>
+	    <td colspan="2">12/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(auth): implement user registration service & mapper</td>
+	    <td colspan="2">Connected controller → service → repository for user registration flow.</td>
+	    <td colspan="2">11/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(auth): add login endpoint with JWT</td>
+	    <td colspan="2">Created POST /api/v1/auth/login issuing JWT tokens and refresh tokens.</td>
+	    <td colspan="2">11/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(security): configure JWT filters & authentication manager</td>
+	    <td colspan="2">Added token validation, secured routes and role-based access (admin/tech/client).</td>
+	    <td colspan="2">11/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(technicians): add technician creation endpoint</td>
+	    <td colspan="2">Implemented POST /api/v1/technicians with entity, repository and service.</td>
+	    <td colspan="2">15/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(technicians): add CRUD for technicians</td>
+	    <td colspan="2">Added GET/PUT/DELETE routes for technician management.</td>
+	    <td colspan="2">17/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(equipment): list refrigeration equipment</td>
+	    <td colspan="2">Added GET /api/v1/equipment returning filtered & paginated units.</td>
+	    <td colspan="2">13/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(equipment): create equipment registration endpoint</td>
+	    <td colspan="2">Implemented POST /api/v1/equipment with validation and repository operations.</td>
+	    <td colspan="2">07/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(api): integrate equipment service with domain layer</td>
+	    <td colspan="2">Connected controllers → services → unit repository for CRUD operations.</td>
+	    <td colspan="2">08/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">fix(auth): correct login redirect & unauthorized handler</td>
+	    <td colspan="2">Fixed unauthorized responses returning 401 and improved error messages.</td>
+	    <td colspan="2">09/11/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">Merge branch 'develop' into feature/backend-sprint2</td>
+	    <td colspan="2">Merged backend tasks for Sprint 2 including auth, technicians & equipment modules.</td>
+	    <td colspan="2">09/11/2025</td>
+	</tr>
+</table>
+
+A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados a la parte de backend. Cada entrada incluye el identificador único del commit (ID), descripciones realizados durante la elaboracion de esta.
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+En el Sprint 3 se desplegó la segunda versión de la Web Application de IceTrack, implementando funcionalidades complementarias y esenciales en cada una de las secciones de la aplicación. Así mismo, se implementaron mejoras respectivas a la retroalimentación brindada en el sprint anterior. A continuación, se presentan las evidencias:
+
+**Register:**
+
+![RegisterFrontV2](./assets/chapter05/RegisterFrontV2.png)
+
+<br>
+
+**Login:**
+
+![LoginFrontV2](./assets/chapter05/LoginFrontV2.png)
+
+<br>
+
+**Dashboard:**
+
+![DashboardFrontV2](./assets/chapter05/DashboardFrontV2.png)
+
+<br>
+
+**Sites:**
+
+![SitesFrontV2](./assets/chapter05/SitesFrontV2.png)
+![SitesDetailFrontV2](./assets/chapter05/SitesDetailFrontV2.png)
+
+<br>
+
+**Equipments:**
+
+![EquipmentsFrontV2](./assets/chapter05/EquipmentsFrontV2.png)
+![EquipmentsDetailFrontV2](./assets/chapter05/EquipmentsDetailFrontV2.png)
+
+<br>
+
+**Services:**
+
+![ServicesFrontV2](./assets/chapter05/ServicesFrontV2.png)
+![CreateServiceFrontV2](./assets/chapter05/CreateServiceFrontV2.png)
+
+<br>
+
+**Alerts:**
+
+![AlertsFrontV2](./assets/chapter05/AlertsFrontV2.png)
+
+<br>
+
+**Reports:**
+
+![ReportsFrontV2](./assets/chapter05/ReportsFrontV2.png)
+![CreateReportFrontV2](./assets/chapter05/CreateReportFrontV2.png)
+![EditReportFrontV2](./assets/chapter05/EditReportFrontV2.png)
+
+<br>
+
+**Profile:**
+
+![ProfileFrontV2](./assets/chapter05/ProfileFrontV2.png)
+![SettingsFrontV2](./assets/chapter05/SettingsFrontV2.png)
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+**Dashboard**
+
+| Verbo HTTP | Endpoint 		 					    | Descripción 				   |
+| :--------: | :--------------------------------------- | :--------------------------- |
+| GET		 | /api/v1/dashboard-config/{id}     		| Obtener ID				   |
+| PUT		 | /api/v1/dashboard-config/{id}  	  	    | Actualizar ID 			   |
+| DELETE 	 | /api/v1/dashboard-config/{id}			| Eliminar ID 				   |
+| GET 		 | /api/v1/dashboard-config/user/{userId}   | Obtener configuracion por ID |
+| POST 		 | /api/v1/dashboard-config					| Crea configuracion		   |
+| POST 		 | /api/v1/dashboard-config/{id}/cards 		| Añade cartas				   |
+| GET 		 | /api/v1/dashboard-config/available-cards | Obtener cartas disponible	   |
+
+**ReportController**
+
+| Verbo HTTP | Endpoint 		   | Descripción 										 |
+| :--------: | :------------------ | :-------------------------------------------------- |
+| POST		 | /api/v1/report      | Crear un nuevo reporte 							 |
+| GET		 | /api/v1/report 	   | Obtener un reporte por el ID de un equipo o empresa |
+| GET 		 | /api/v1/report/{id} | Obtener un reporte por su ID 						 |
+
+**Equipment**
+
+| Verbo HTTP | Endpoint 		  	  | Descripción	 			|
+| :--------: | :--------------------- | :---------------------- |
+| POST		 | /api/v1/equipment	  | Crear equipo 			|
+| GET		 | /api/v1/equipment 	  | Tener todos los equipos |
+| GET		 | /api/v1/equipment/{id} | Tener equipo por ID     |
+
+**Site**
+
+| Verbo HTTP | Endpoint 	     | Descripción	 		  |
+| :--------: | :---------------- | :--------------------- |
+| POST		 | /api/v1/site	  	 | Crear site 			  |
+| GET		 | /api/v1/site 	 | Tener todos los sitios |
+| GET		 | /api/v1/site/{id} | Tener sitio por ID     |
+
+**Report**
+
+| Verbo HTTP | Endpoint      	   | Descripción	   	  |
+| :--------: | :------------------ | :------------------- |
+| POST		 | /api/v1/report 	   | Crear reporte   	  |
+| GET		 | /api/v1/report 	   | Tener reportes    	  |
+| GET		 | /api/v1/report/{id} | Tener reporte por ID |
+
+**User**
+
+| Verbo HTTP | Endpoint      	   | Descripción	   |
+| :--------: | :------------------ | :---------------- |
+| GET		 | /api/v1/report/{id} | Tener user por ID |
+| GET		 | /api/v1/users 	   | Tener usuarios    |
+
+**Authentication**
+
+| Verbo HTTP | Endpoint 		  			  | Descripción	   |
+| :--------: | :----------------------------- | :------------- |
+| POST		 | /api/v1/authentication/sign-in | Iniciar sesión |
+| POST		 | /api/v1/authentication/sign-up | Registrarse    |
+
+**Alerts**
+
+| Verbo HTTP | Endpoint 		  			  | Descripción	                                 |
+| :--------: | :----------------------------- | :--------------------------------------------|                          
+| POST		 | /api/v1/authentication/sign-in | Crear alerta                                 |
+| GET		 | /api/v1/alert                  | Tener alerta por equipmentid y tenantid      |
+| GET		 | /api/v1/alert/{id}             | Tener alerta por Id                          |
+
+
+---
+
+**Dashboard**
+
+![ReportEndpointsBackendV1](./assets/chapter05/dashboard_0.jpeg)
+![PostReportBackendV1](./assets/chapter05/dashboard_1.jpeg)
+![GetReportByEquipmentOrTenantIdBackendV1](./assets/chapter05/dashboard_2.jpeg)
+![GetReportByIdBackendV1](./assets/chapter05/dashboard_3.jpeg)
+![PostReportBackendV1](./assets/chapter05/dashboard_4.jpeg)
+![GetReportByEquipmentOrTenantIdBackendV1](./assets/chapter05/dashboard_5.jpeg)
+![GetReportByIdBackendV1](./assets/chapter05/dashboard_6.jpeg)
+![PostReportBackendV1](./assets/chapter05/dashboard_7.jpeg)
+
+**ReportController**
+
+![ReportEndpointsBackendV1](./assets/chapter05/ReportEndpointsBackendV1.png)
+![PostReportBackendV1](./assets/chapter05/PostReportBackendV1.png)
+![GetReportByEquipmentOrTenantIdBackendV1](./assets/chapter05/GetReportByEquipmentOrTenantIdBackendV1.png)
+![GetReportByIdBackendV1](./assets/chapter05/GetReportByIdBackendV1.png)
+
+**Equipment**
+
+![ReportEndpointsBackendV1](./assets/chapter05/equipment_0.png)
+![PostReportBackendV1](./assets/chapter05/equipment_1.png)
+![GetReportByEquipmentOrTenantIdBackendV1](./assets/chapter05/equipment_2.png)
+![GetReportByIdBackendV1](./assets/chapter05/equipment_3.png)
+
+**Site**
+
+![ReportEndpointsBackendV1](./assets/chapter05/site_0.png)
+![PostReportBackendV1](./assets/chapter05/site_1.png)
+![GetReportByEquipmentOrTenantIdBackendV1](./assets/chapter05/site_2.png)
+![GetReportByIdBackendV1](./assets/chapter05/site_3.png)
+
+**Report**
+
+![ReportEndpointsBackendV1](./assets/chapter05/report_0.png)
+![PostReportBackendV1](./assets/chapter05/report_1.png)
+![GetReportByEquipmentOrTenantIdBackendV1](./assets/chapter05/report_2.png)
+![GetReportByIdBackendV1](./assets/chapter05/report_3.png)
+
+**User**
+
+![ReportEndpointsBackendV1](./assets/chapter05/users_0.png)
+![PostReportBackendV1](./assets/chapter05/users1.png)
+![GetReportByEquipmentOrTenantIdBackendV1](./assets/chapter05/users2.png)
+
+**Authentication**
+
+![ReportEndpointsBackendV1](./assets/chapter05/authentication_0.png)
+![PostReportBackendV1](./assets/chapter05/authentication_1.png)
+![GetReportByEquipmentOrTenantIdBackendV1](./assets/chapter05/authentication_2.png)
+
+**Alerts**
+![ReportEndpointsBackendV1](./assets/chapter05/metodos-alertas.png)
+![ReportEndpointsBackendV1](./assets/chapter05/post-alertas.png)
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+**Register:**
+
+![RegisterFrontV2](./assets/chapter05/RegisterFrontV2.png)
+
+
+<br>
+
+**Login:**
+
+![LoginFrontV2](./assets/chapter05/LoginFrontV2.png)
+
+<br>
+
+**Dashboard:**
+
+![DashboardFrontV2](./assets/chapter05/DashboardFrontV2.png)
+
+<br>
+
+**Sites:**
+
+![SitesFrontV2](./assets/chapter05/SitesFrontV2.png)
+![SitesDetailFrontV2](./assets/chapter05/SitesDetailFrontV2.png)
+
+<br>
+
+**Equipments:**
+
+![EquipmentsFrontV2](./assets/chapter05/EquipmentsFrontV2.png)
+![EquipmentsDetailFrontV2](./assets/chapter05/EquipmentsDetailFrontV2.png)
+
+<br>
+
+**Services:**
+
+![ServicesFrontV2](./assets/chapter05/ServicesFrontV2.png)
+![CreateServiceFrontV2](./assets/chapter05/CreateServiceFrontV2.png)
+
+<br>
+
+**Alerts:**
+
+![AlertsFrontV2](./assets/chapter05/AlertsFrontV2.png)
+
+<br>
+
+**Reports:**
+
+![ReportsFrontV2](./assets/chapter05/ReportsFrontV2.png)
+![CreateReportFrontV2](./assets/chapter05/CreateReportFrontV2.png)
+![EditReportFrontV2](./assets/chapter05/EditReportFrontV2.png)
+
+<br>
+
+**Profile:**
+
+![ProfileFrontV2](./assets/chapter05/ProfileFrontV2.png)
+![SettingsFrontV2](./assets/chapter05/SettingsFrontV2.png)
+
+
+BACKEND:
+![BACKDEPLOY1.png](assets/chapter05/BACKDEPLOY1.png)
+
+![BACKDEPLOY2.png](assets/chapter05/BACKDEPLOY2.png)
+
+![BACKDEPLOY3.png](assets/chapter05/BACKDEPLOY3.png)
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Frontend:
+![Insights-TB2FRONT.png](assets/chapter05/Insights-TB2FRONT.png)
+
+Backend:
+![InsightsTB2BACKEND.png](assets/chapter05/InsightsTB2BACKEND.png)
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+## **Objetivo de la Entrevista**
+
+Validar la usabilidad, efectividad y propuesta de valor de la plataforma IceTrack enfocada en el monitoreo de equipos de refrigeración para los segmentos clave. Se evaluará si las funcionalidades cubren las necesidades reales de operación, mantenimiento y supervisión, y si los flujos son intuitivos para usuarios con distintos perfiles técnicos.
+
+## **Elementos de Validación**
+
+**Landing Page**
+
+- Claridad de la propuesta de valor.
+- Acceso rápido a funcionalidades clave.
+
+**Aplicación Web**
+
+- Registro de equipos de refrigeración.
+- Configuración de sensores (temperatura, humedad, consumo). 
+- Visualización del estado en tiempo real.
+- Generación y recepción de alertas.
+- Solicitud de mantenimiento.
+- Visualización de reportes de uso, consumo y fallas.
+- Gestión de técnicos y mantenimientos programados.
+
+## **Para el Segmento 1: Negocios con equipos de refrigeración**
+
+- Agregar equipos
+- Monitoreo y alertas
+- Ver dashboards
+- Recibir alertas por alta temperatura, apertura prolongada, fallas eléctricas
+- Visualización de reportes
+- Histórico de temperatura
+- Consumo energético
+- Horas de funcionamiento
+
+## **Para el Segmento 2: Técnicos y empresas de mantenimiento**
+
+- Gestión de técnicos
+- Ver disponibilidad y ubicación
+- Intervenciones previas por equipo
+- Generación de reportes
+- Rendimiento de técnicos
+- Equipos por cliente
+- Mantenimientos programados
+
+## **Formato de Registro de Entrevista**
+
+- Nombre completo
+- Edad
+- Distrito de residencia
+-  Rol en su empresa
+-  Dispositivo utilizado para la prueba
+
+## **Preguntas para el Segmento**
+
+**Registro y Autenticación de Usuario**
+- ¿Los campos solicitados (nombre, email, contraseña) te parecieron apropiados para crear tu cuenta?
+- ¿El inicio de sesión fue rápido y sin errores inesperados?
+  
+**Dashboard**
+
+- Al ingresar al panel principal, ¿lograste entender rápidamente cómo navegar por las diferentes secciones?
+- ¿La información de resumen que se muestra es útil para tener una visión general?
+  
+**Sites**
+
+- ¿La información de los sitios en listas facilita su identificación y organización?
+- ¿Encontraste sin problemas la opción para ver el listado de equipos de refrigeración?
+- ¿La visualización de direcciones o IDs fue clara y coherente con lo esperado?
+  
+**Equipments**
+
+- Al visualizar los equipos, ¿la información mostrada es relevante para tus necesidades?
+- ¿Pudiste distinguir fácilmente el estado de cada equipo?
+- ¿Los botones de acción (por ejemplo, “More”, “Equipment detail”) respondieron correctamente?
+  
+**Alertas y Reportes**
+
+- ¿Te resultó fácil interpretar las alertas (colores, tipo, severidad)?
+- ¿Pudiste acceder fácilmente a los reportes generados?
+- ¿Los filtros y botones (por ejemplo, “Ver Reporte” o “View Equipment”) funcionaron como esperabas?
+
+**Servicios**
+
+- ¿Cómo fue tu experiencia solicitando un servicio?
+- ¿La opción para programar mantenimiento estaba visible y disponible?¿Qué te pareció su implementación?
+
+**Configuración y Perfil**
+
+- ¿Ubicaste la sección de Configuración sin dificultad?
+- ¿Los cambios realizados (idioma, tema) se mantuvieron al recargar la página o volver a iniciar sesión?
+
+**Experiencia General**
+
+- ¿La aplicación te pareció visualmente atractiva y coherente en todas sus secciones?
+- ¿Consideras que el flujo general (inicio, navegación, reportes) es lógico e intuitivo?
+- ¿Tuviste algún problema técnico (errores, lentitud, fallos de carga)?
+
+### 5.3.2. Registro de Entrevistas.
+
+## Segmento objetivo #1: Negocios con equipos de refrigeración
+
+**Entrevista 1:**
+
+- **Nombres y apellidos:** Henrry Aiquipa
+- **Edad:** 25
+- **Distrito:** San Martín de Porres
+
+![Interview-1-segment-1.png](assets/chapter05/entrevista-2-segmento-1.png)
+
+- **Inicio:** 0:00
+- **Duración:** 14:49 min
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQDZJDCV5rVLQJHq_pq3M0RWAZbT8M6ee7V0Eo77-ESq_0U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fUbOGP
+- **Resumen:** Análisis: Henrry Aiquipa, 25 años, dueño de una bodega en San Martín de Porres, tuvo una experiencia en general positiva con la plataforma para negocios con equipos de refrigeración. Percibió el registro e inicio de sesión como simples y sin errores, y encontró el dashboard intuitivo, con un resumen útil del estado de sus equipos. Destacó que las secciones de “Sites” y “Equipments” están bien organizadas, con información relevante y estados de equipos fáciles de identificar. Valoró también la claridad de las alertas y la facilidad para acceder a reportes y solicitar servicios o programar mantenimientos. Ubicó sin problema la sección de configuración y confirmó que los cambios se guardan correctamente. En conjunto, considera que la aplicación es visualmente agradable, coherente e intuitiva, mencionando solo pequeños retrasos puntuales que no afectan su uso general.
+
+**Entrevista 2:**
+
+- **Nombres y apellidos:** Sonia Rocio
+- **Edad:** 59
+- **Distrito:** Lima
+
+![Interview-1-segment-1.png](assets/chapter05/entrevista-1-segmento-1.png)
+
+- **Inicio:** 0:00
+- **Duración:** 5:21 min
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQCK3Oq7XMaZRL7U5QnkIAKuAeHFhMJhaovEMp5L-PuTANE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5HVhkd
+- **Resumen:** La señora Rocío Galindo, comenta que la plataforma para negocios con equipos de refrigeración le resultó clara y sencilla de usar: el registro y el ingreso fueron fáciles, el panel principal le mostró de inmediato el estado de sus equipos y las secciones de “Sites” y “Equipments” le parecieron muy ordenadas. Destaca que las alertas son comprensibles, los reportes y las solicitudes de mantenimiento están al alcance y que la configuración permite hacer cambios sin dificultad. En general, afirma que la aplicación es visualmente agradable, coherente y práctica para su día a día.
+
+**Entrevista 3:**
+
+- **Nombres y apellidos:** Mauricio Mego
+- **Edad:** 22
+- **Distrito:** Lima
+
+![Interview-1-segment-1.png](assets/chapter05/entrevista-alejandro.png)
+
+- **Inicio:** 0:00
+- **Duración:** 6:02 min
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQBJ0SiZQ9aMR6QPa0IBM5jrAQxA99usZN4RQIdTMA8w49Y?e=Yl7TId&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- **Resumen:** Análisis: Mauricio administra junto a su padre un minimarket que contiene varios equipos de refrigeración, por lo que depende de ellos para poder conservar alimentos. Él en la entrevista menciona que le pareció atractiva e intuitiva. El dashboard le pareció conciso y facil de entender, al igual que las alertas, servicios, equipos y sitios. Sí recomendaría utilizar la aplicación a otras personas y la utilizaría para poder tener mejor control sobre sus equipos y poder solicitar servicios por si alguno falla.
+
+---
+
+## Segmento Objetivo 2 - Técnicos y empresas de mantenimiento:
+
+**Entrevista 1:**
+
+- **Nombres y apellidos:** Alvaro Piettro Salazar Urbina
+- **Edad:** 24
+- **Distrito:** Comas
+
+![Interview-1-segment-1.png](assets/chapter05/ValidationInterview1-Segmento2.png)
+
+- **Inicio:** 0:28 min
+- **Duración:** 14:49 min
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQDZJDCV5rVLQJHq_pq3M0RWAZbT8M6ee7V0Eo77-ESq_0U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fUbOGP
+- **Resumen:** Alvaro Salazar, 24 años, técnico especializado en servicios de mantenimiento en máquinas de refrigeración. Ante su experiencia en este rubro, comparte su opinión y retroalimentación acerca de nuestra aplicación IceTrack. Tras haber hecho uso de la aplicación, comenta que la interfaz fue sencilla y fácil de entender. Así mismo, cree que el flujo de la aplicación es sencilla y no cuenta con dificultades o elementos que distraigan la atención. Considera que el tiempo de espera se encuentra en el tiempo promedio que se espera de este tipo de aplicaciones y considera apropiado la creación de reportes para mejorar su eficiencia en servicios de mantenimiento. En conclusión, Alvaro considera que nuestra aplicación cumple con el objetivo de resolver las necesidades de los usuarios con una interfaz sencilla de entender y visualmente agradable.
+
+---
+
+### 5.3.3. Evaluaciones según heurísticas
+
+**Esta evaluacion fue hecho con el Grupo 4:**
+
+## Evaluación Heurística de Usabilidad y Diseño Inclusivo para la Aplicación: "IceTrack"
+
+**UX Heuristics & Principles Evaluation**
+
+**Usability – Inclusive Design – Information Architecture**
+
+**CARRERA	: Ingeniería de Software**
+
+**CURSO	: Aplicaciones Web**
+
+**SECCIÓN	: 7452**
+
+**PROFESORES	: Todos**
+
+**AUDITOR	: Samuel Jesus Bonifacio Jaramillo**
+
+**CLIENTE(S)	:**
+
+	   **Galindo Montero, Alejandro Manuel**   
+
+	   **Guillen Galindo, Julio Adolfo**   
+
+	   **La Madrid Lozano, Ivan Jeanpierre** 
+
+	   **Nanfuñay Liza, Pedro Jesus**
+
+	   **Ramirez Cabrera, Kenyi Efrain**
+
+**SITE o APP A EVALUAR:** IceTrack
+
+## TAREAS A EVALUAR:
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Ambigüedad en la terminología y las unidades de las temperaturas máximas.
+2. Falta de retroalimentación visual prominente al seleccionar un elemento en el menú lateral.
+3. La acción "Acknowledge (ACK)" aparece en alertas cuyo estado ya es "Resolved" o "Closed".
+4. Etiquetado "5 puntos" en el filtro del gráfico de temperatura es poco claro.
+5. Botones de acción principal (ej. "Equipment detail") están mal etiquetados, no indican la acción de creación.
+6. Uso de identificadores internos ("e1", "s1", "t2") en las tablas principales de activos y alertas.
+7. Las fechas y horas en los detalles de equipos se muestran en formato UTC/Z sin conversión a hora local.
+8. Confusión visual entre campos editables y no editables en la sección de información de usuario.
+9. Redundancia o falta de claridad en los filtros de la sección "My Service Requests".
+
+## ESCALA DE SEVERIDAD:
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción                                                                                                                                                                                    |
+| :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                  |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                              |
+
+## TABLA RESUMEN:
+
+| \#  | Problema                                                                                                      | Escala de severidad | Heurística/Principio violada(o)                                          |
+| :-: | :------------------------------------------------------------------------------------------------------------ | :-----------------: | :----------------------------------------------------------------------- |
+| 1   | Ambigüedad en la terminología y las unidades de las temperaturas máximas.                                     | 3                   | Visibility of System Status / Consistency and Standards                  |
+| 2   | Falta de retroalimentación visual prominente al seleccionar un elemento en el menú lateral.                   | 2                   | Visibility of System Status                                              |
+| 3   | La acción "Acknowledge (ACK)" aparece en alertas cuyo estado ya es "Resolved" o "Closed".                     | 3                   | Error Prevention / Consistency and Standards                             |
+| 4   | Etiquetado "5 puntos" en el filtro del gráfico de temperatura es poco claro.                                  | 2                   | Recognition Rather Than Recall / Aesthetic and Minimalist Design         |
+| 5   | Botones de acción principal (ej. "Equipment detail") están mal etiquetados, no indican la acción de creación. | 3                   | Consistency and Standards / Match Between System and the Real World      |
+| 6   | Uso de identificadores internos ("e1", "s1", "t2") en las tablas principales de alertas.                      | 3                   | Recognition Rather Than Recall / Match Between System and the Real World |
+| 7   | Las fechas y horas en los detalles de equipos se muestran en formato UTC/Z sin conversión a hora local.       | 4                   | Match Between System and the Real World                                  |
+| 8   | Confusión visual entre campos editables y no editables en la sección de información de usuario.               | 3                   | Visibility of System Status / Aesthetic and Minimalist Design            |
+| 9   | Redundancia o falta de claridad en los filtros de la sección "My Service Requests".                           | 2                   | Aesthetic and Minimalist Design / Flexibility and Efficiency of Use      |
+
+## DESCRIPCIÓN DE PROBLEMAS:
+
+## PROBLEMA \#1: Ambigüedad en la terminología y las unidades de las temperaturas máximas.
+
+- **Severidad: 3 Heurística violada: Visibility of System Status / Consistency and Standards**
+- Problema: En el Dashboard, la sección superior derecha muestra "Max: 3.8°" y "Max: 4.3°". No hay una etiqueta que explique si estos son límites preconfigurados, los máximos históricos, o los máximos registrados en las últimas 24h. Esta falta de contexto clave impide al usuario entender el significado de estas métricas. Además, la unidad de temperatura usa ° en estos máximos, mientras que el promedio usa °C, mostrando una inconsistencia.
+- Recomendación: Etiquetar claramente los valores, por ejemplo, "Límite Alto" o "Máximo Histórico". Unificar el símbolo de temperatura a °C en toda la interfaz.
+
+## PROBLEMA \#2: Falta de retroalimentación visual prominente al seleccionar un elemento en el menú lateral.
+
+- **Severidad: 2 Heurística violada: Visibility of System Status**
+- Problema: El elemento del menú lateral activo ("Equipments" en su vista) se indica con un sutil color de fondo azul que podría no ser lo suficientemente visible o contrastante para algunos usuarios. Esto dificulta la confirmación instantánea de la ubicación actual del usuario en la aplicación.
+- Recomendación: Reforzar la indicación del elemento activo. Sugerencia: Añadir un borde vertical (ej. una línea gruesa azul) al lado izquierdo del elemento seleccionado para un contraste más fuerte.
+
+## PROBLEMA \#3: La acción "Acknowledge (ACK)" aparece en alertas cuyo estado ya es "Resolved" o "Closed".
+
+- **Severidad: 3 Heurística violada: Error Prevention / Consistency and Standards**
+- Problema: En la tabla "Recent Alerts" del Dashboard, se ofrece la acción "Acknowledge (ACK)" para alertas que ya tienen un estado de "Resolved" o "Closed". Lógicamente, no se requiere o no debería ser posible "reconocer" una alerta que el sistema ya considera - - finalizada. Esto genera confusión e impulsa acciones innecesarias.
+- Recomendación: Hacer que la columna ACTION sea contextual: debe desaparecer o cambiar a una opción como "View Log" o "View Details" cuando el Status sea finalizado.
+
+## PROBLEMA \#4: Etiquetado "5 puntos" en el filtro del gráfico de temperatura es poco claro.
+
+- **Severidad: 2 Heurística violada: Recognition Rather Than Recall / Aesthetic and Minimalist Design**
+- Problema: El texto "5 pontos" sobre el gráfico de temperatura es técnico o está mal traducido/etiquetado. El usuario no puede saber fácilmente si se refiere a 5 sensores, 5 días, o la granularidad de los datos. Esto obliga al usuario a recordar su significado.
+- Recomendación: Utilizar una etiqueta clara y orientada al usuario, como "5 Sensores", "Granularidad" o el parámetro real que se esté filtrando.
+
+## PROBLEMA \#5: Botones de acción principal (ej. "Equipment detail") están mal etiquetados, no indican la acción de creación.
+
+- **Severidad: 3 Heurística violada: Consistency and Standards / Match Between System and the Real World**
+- Problema: En las vistas de listas de activos (Sites y Equipments), el botón azul global en la esquina superior derecha está etiquetado como "Site detail" o "Equipment detail". Este etiquetado sugiere que llevará al detalle de un elemento seleccionado, cuando lo más probable es que su función principal sea agregar un nuevo activo. Esto es inconsistente con el estándar de UX de usar verbos de acción.
+- Recomendación: Cambiar la etiqueta del botón por un texto que indique la acción de creación, como "+ New Site" o "+ New Equipment". Si su función es realmente ver el detalle, esta acción debe estar en la fila del activo o deshabilitada si no hay selección.
+
+## PROBLEMA \#6: Uso de identificadores internos ("e1", "s1", "t2") en las tablas principales de activos y alertas.
+
+- **Severidad: 3 Heurística violada: Recognition Rather Than Recall / Match Between System and the Real World**
+- Problema: La tabla de Alerts utiliza IDs del sistema como e1 (Equipment), s1 (Site) y t2 (Tenant). Estos IDs no son significativos para el usuario, obligándolo a recordar o consultar constantemente su significado. Esta abstracción aumenta la carga cognitiva y reduce la velocidad de comprensión del estado del sistema.
+- Recomendación: Reemplazar los IDs en las vistas de lista con los nombres reales de los activos (mostrar "Minimarket San Miguel" en lugar de s1, y el "Model" del equipo en lugar de e1).
+
+## **PROBLEMA \#7: Las fechas y horas en los detalles de equipos se muestran en formato UTC/Z sin conversión a hora local.**
+
+- **Severidad: 4 Heurística violada: Match Between System and the Real World**
+- Problema: En la vista "Equipment detail", las fechas como 2025-09-21T14:10:00Z están en formato UTC. En un sistema de monitoreo, donde el tiempo es crítico, obligar al usuario a calcular la diferencia horaria manualmente para correlacionar eventos con la hora local es un error crítico que puede llevar a errores operacionales.
+- Recomendación: Implementar la conversión automática de todas las marcas de tiempo a la zona horaria local del usuario y mostrarlas en un formato legible (ej. DD/MM/AAAA HH:MM:SS).
+
+## **PROBLEMA \#8: Confusión visual entre campos editables y no editables en la sección de información de usuario.**
+
+- **Severidad: 3 Heurística violada: Visibility of System Status / Aesthetic and Minimalist Design**
+- Problema: En la sección "User information" (Admin), la información de solo lectura (ej. Email, Register Date, Plans) se presenta dentro de cajas de texto de color gris, que visualmente son demasiado similares a los campos editables (cajas blancas). Esto añade desorden visual y hace que el usuario se pregunte qué campos puede modificar y cuáles no.
+- Recomendación: Los datos de sólo lectura deben mostrarse como texto plano (sin bordes ni sombreado de caja) para una clara diferenciación visual.
+
+## **PROBLEMA \#9: Redundancia o falta de claridad en los filtros de la sección "My Service Requests".**
+
+- **Severidad: 2 Heurística violada: Aesthetic and Minimalist Design / Flexibility and Efficiency of Use**
+- Problema: En la sección "My Service Requests", los filtros están agrupados de forma redundante ("Filter by: ALL | Pending | Assigned | In progress | Done" y luego "ALL | Repair (Corrective) | Maintenance (Preventive)"). El doble uso de "ALL" es confuso. Además, el primer conjunto de filtros parece enfocarse en el Status, y el segundo en el Type, pero la repetición de "ALL" no es eficiente.
+- Recomendación: Fusionar los filtros en un único conjunto que permita seleccionar una opción de Status Y una opción de Type, o unificar el botón "ALL" si es un reset general de ambos filtros.
+
+**Respositorio de auditoria:** https://docs.google.com/document/d/12K22DituAE1HPKc8xQM8qvzI5G8edJ3c5FYTELsxBZM/edit?usp=sharing
+
+---
+
+## Proceso de Evaluacion para el grupo 1"
+
+## Evaluación Heurística de Usabilidad y Diseño Inclusivo para la Aplicación: "AgroApp"
+
+**UX Heuristics & Principles Evaluation**
+
+**Usability – Inclusive Design – Information Architecture**
+
+**CARRERA:** Ingeniería de Software
+
+**CURSO:** Aplicaciones Web
+
+**SECCIÓN:** 7380  
+
+**PROFESORES:** Todos
+
+**AUDITOR:** Ramirez Cabrera, Kenyi Efrain
+
+**CLIENTE(S)	:**
+
+	   **Bonifacio Jaramillo, Samuel Jesus**   
+
+	   **Castro Pariona, Jefferson Ernesto**   
+
+	   **Morales Sosa, Arnold Gabriel** 
+
+	   **Romero Meza, Jhimy Pool**
+
+	   **Seminario Castillo, Diego Vicente**
+
+**SITE o APP A EVALUAR:** AgroApp
+
+## TAREAS A EVALUAR:
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Visualización y navegación en la página principal
+2. Visualización del campo de Cultivo (galería, fichas, presentación de información)
+3. Navegación por la sección de Cultivos (flujo, claridad de información, pasos a seguir)
+4. Accesibilidad y claridad del menú lateral (ubicación, iconos, estructura)
+5. Visualizacion de los atributos de los campos y cultivos (nombre, dimensiones, producto, estado, etc)
+6. Diferenciación entre las secciones “Cultivos” y “Campos”
+7. Visualización de detalles del campo (tareas, estado, producto)
+8. Gestión de cultivos y sus campos (tareas, recordatorios)
+9. Claridad de iconografía y etiquetas
+10. Navegación lateral y localización de sección activa
+11. Estructura y claridad del formulario de registros
+12. Proceso de cambio de idioma
+13. Personalización y curva de aprendizaje
+
+## ESCALA DE SEVERIDAD:
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción                                                                                                                                                                                    |
+| :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                  |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                              |
+
+## TABLA RESUMEN:
+
+| \#    | Problema                                                                                               | Escala de severidad | Heurística/Principio violada(o)                                     |
+| :---: | :----------------------------------------------------------------------------------------------------- | :-----------------: | :------------------------------------------------------------------ |
+| 1	    | Dificultad para identificar el contenido principal y navegar desde la página inicial.	                 | 3	                  | Visibility of System Status / Aesthetic and Minimalist Design       |
+| 2	    | La visualización del campo de Cultivo no es consistente entre galería, fichas y vista detallada.	      | 3	                  | Consistency and Standards / Match Between System and the Real World |
+| 3	    | El flujo dentro de la sección de Cultivos no guía al usuario en los pasos a seguir.                    |	3	                  | User Control and Freedom / Recognition Rather Than Recall           | 
+| 4	    | El menú lateral presenta baja claridad en su estructura e iconos poco representativos.	                | 2	                  | Recognition Rather Than Recall / Aesthetic and Minimalist Design    |
+| 5	    | Los atributos de campos y cultivos no están claramente organizados o priorizados.	                     | 3	                  | Aesthetic and Minimalist Design / Visibility of System Status       |
+| 6	    | Confusión entre las secciones “Cultivos” y “Campos”, sin una diferenciación conceptual o visual clara.	| 3	                  | Match Between System and the Real World / Consistency and Standards |
+| 7	    | La vista de detalles del campo muestra información incompleta o poco jerarquizada.	                    | 3	                  | Visibility of System Status / Aesthetic and Minimalist Design       |
+| 8	    | El proceso de gestión de cultivos y tareas no es intuitivo, generando pérdida de control.	             | 3	                  | User Control and Freedom / Flexibility and Efficiency of Use        |
+| 9	    | La iconografía y etiquetas no son claras ni coherentes con su propósito.	                              | 2	                  | Recognition Rather Than Recall / Consistency and Standards          |
+| 10	   | El usuario no puede identificar fácilmente qué sección del menú está activa.	                          | 2	                  | Visibility of System Status                                         |
+| 11	   | El formulario de registros presenta desorden visual y campos sin jerarquía clara.	                     | 3	                  | Aesthetic and Minimalist Design / Error Prevention                  |
+| 12	   | El proceso de cambio de idioma no es visible o requiere demasiados pasos.	                             | 2	                  | Visibility of System Status / Flexibility and Efficiency of Use     |
+| 13    | Falta de personalización y una curva de aprendizaje elevada para nuevos usuarios.	                     | 2	                  | Flexibility and Efficiency of Use / Help and Documentation          |
+
+## DESCRIPCIÓN DE PROBLEMAS:
+
+## PROBLEMA #1: Dificultad para identificar el contenido principal y navegar desde la página inicial.
+
+- Severidad: 3 — Heurística violada: Visibility of System Status / Aesthetic and Minimalist Design
+- Problema: En la página principal, la información está distribuida de manera poco jerárquica, lo que dificulta identificar rápidamente el contenido más relevante. No existe un punto focal claro ni un orden visual que guíe la exploración inicial del usuario. Esto genera incertidumbre sobre qué acciones pueden realizarse desde esta vista.
+- Recomendación: Organizar el contenido siguiendo una estructura clara de prioridades (ej. “Resumen del campo”, “Acciones rápidas”, “Alertas”). Incorporar títulos visibles, secciones delimitadas y un diseño que facilite la exploración inicial.
+
+## PROBLEMA #2: La visualización del campo de Cultivo no es consistente entre galería, fichas y vista detallada.
+
+- Severidad: 3 — Heurística violada: Consistency and Standards / Match Between System and the Real World
+- Problema: Las vistas del Cultivo presentan variaciones en etiquetas, tamaños de tarjeta, iconografía y disposición del contenido. En la galería el Cultivo aparece con un estilo visual, mientras que en las fichas o vista detallada adopta otro, generando confusión y dificultando la continuidad visual.
+- Recomendación: Unificar criterios de diseño: usar la misma estructura básica, iconografía, tipografía y orden de atributos en todas las vistas relacionadas al Cultivo.
+
+## PROBLEMA #3: El flujo dentro de la sección de Cultivos no guía al usuario en los pasos a seguir.
+
+- Severidad: 3 — Heurística violada: User Control and Freedom / Recognition Rather Than Recall
+- Problema: La sección de Cultivos no ofrece una guía clara sobre qué debe hacerse primero (visualizar el campo, asignar tareas, seleccionar un cultivo, ver su detalle, etc.). El usuario debe recordar rutas previas y elementos relacionados, lo cual incrementa la carga cognitiva.
+- Recomendación: Agregar breadcrumbs, indicadores de progreso o acciones guiadas (ej. “Ver cultivos”, “Seleccionar un campo”, “Asignar tarea”). Presentar una navegación más lineal o explicar mediante subtítulos qué representa cada sección.
+
+## PROBLEMA #4: El menú lateral presenta baja claridad en su estructura e iconos poco representativos.
+
+- Severidad: 2 — Heurística violada: Recognition Rather Than Recall / Aesthetic and Minimalist Design
+- Problema: Los iconos del menú lateral no representan claramente la función de cada sección. Algunos iconos son genéricos y requieren que el usuario memorice su propósito. La estructura del menú tampoco facilita diferenciar secciones que son conceptualmente distintas.
+- Recomendación: Actualizar iconografía para que represente directamente la función (ej. “Campos”, “Cultivos”, “Tareas”). Organizar el menú en categorías o grupos visuales para mejorar la escaneabilidad.
+
+## PROBLEMA #5: Los atributos de campos y cultivos no están claramente organizados o priorizados.
+
+- Severidad: 3 — Heurística violada: Aesthetic and Minimalist Design / Visibility of System Status
+- Problema: Los atributos, como nombre del campo, dimensiones, estado del cultivo o características del producto, aparecen sin una jerarquía visual clara. Algunos datos críticos quedan en posiciones secundarias o con poca visibilidad, y datos menos relevantes aparecen más destacados.
+- Recomendación: Crear una estructura estándar: encabezado para nombre, sección para atributos clave, subsección para información secundaria. Utilizar tipografías y colores que indiquen importancia.
+
+## PROBLEMA #6: Confusión entre las secciones “Cultivos” y “Campos”.
+
+- Severidad: 3 — Heurística violada: Match Between System and the Real World / Consistency and Standards
+- Problema: Las secciones “Cultivos” y “Campos” presentan información que parece solaparse, generando confusión sobre cuál es la unidad principal que se está gestionando. No existe una distinción clara entre ambas categorías ni visual ni conceptual.
+- Recomendación: Definir de manera explícita la diferencia entre un Campo y un Cultivo y reflejarlo en los textos, iconos, títulos y estructura de navegación.
+
+## PROBLEMA #7: La vista de detalles del campo muestra información incompleta o poco jerarquizada.
+
+- Severidad: 3 — Heurística violada: Visibility of System Status / Aesthetic and Minimalist Design
+- Problema: La vista de detalles del campo combina tareas, estado del producto, información del cultivo y datos generales sin un orden claro. Esto dificulta que el usuario encuentre rápidamente lo que busca, como tareas pendientes o etapas críticas del cultivo.
+- Recomendación: Separar la información en secciones: “Información del Campo”, “Estado del Cultivo”, “Tareas asociadas”, “Historial”. Utilizar encabezados y etiquetas visualmente claras.
+
+## PROBLEMA #8: El proceso de gestión de cultivos y tareas no es intuitivo, generando pérdida de control.
+
+- Severidad: 3 — Heurística violada: User Control and Freedom / Flexibility and Efficiency of Use
+- Problema: Asignar tareas, crear recordatorios o gestionar el avance del cultivo requiere varios pasos no evidentes o difíciles de encontrar. El flujo no ofrece atajos ni una vista clara del estado actual.
+- Recomendación: Simplificar el flujo: agregar botones directos como “+ Tarea”, “Añadir recordatorio”, y resaltar el estado actual del cultivo. Permitir acciones rápidas desde la vista principal.
+
+## PROBLEMA #9: La iconografía y etiquetas no son claras ni coherentes con su propósito.
+
+- Severidad: 2 — Heurística violada: Recognition Rather Than Recall / Consistency and Standards
+- Problema: Muchas etiquetas no describen la acción real que ejecutan (ej. botones genéricos como “Details” o “Info”). Algunas iconografías no representan claramente su función, generando ambigüedad.
+- Recomendación: Usar verbos de acción (ej. “Ver campo”, “Editar cultivo”, “Registrar tarea”) y elegir iconos universales relacionados con agricultura, edición, tareas, alertas y navegación.
+
+## PROBLEMA #10: El usuario no puede identificar fácilmente qué sección del menú está activa.
+
+- Severidad: 2 — Heurística violada: Visibility of System Status
+- Problema: La sección activa del menú no presenta indicadores visuales fuertes. El contraste es insuficiente y no hay un borde resaltado o un marcador claro. El usuario debe detenerse a leer cada etiqueta para saber dónde se encuentra.
+- Recomendación: Agregar indicadores claros: un borde lateral grueso, color de fondo más intenso o iconos resaltados cuando están activos.
+
+## PROBLEMA #11: El formulario de registros presenta desorden visual y campos sin jerarquía clara.
+
+- Severidad: 3 — Heurística violada: Aesthetic and Minimalist Design / Error Prevention
+- Problema: Los formularios contienen campos sin orden lógico, sin separación entre categorías y sin ayudas visuales para evitar errores. Algunos campos obligatorios no están diferenciados y el usuario puede cometer errores fácilmente.
+- Recomendación: Agrupar campos por categorías, usar títulos (“Datos del campo”, “Características del cultivo”), indicar claramente los campos obligatorios y validar entradas en tiempo real.
+
+## PROBLEMA #12: El proceso de cambio de idioma no es visible o requiere demasiados pasos.
+
+- Severidad: 2 — Heurística violada: Visibility of System Status / Flexibility and Efficiency of Use
+- Problema: El cambio de idioma no está fácilmente accesible. Puede estar oculto en un menú profundo o no ser evidente para usuarios nuevos. Requiere varios clics o pasos innecesarios.
+- Recomendación: Colocar el selector de idioma en una ubicación visible (preferiblemente en la parte superior derecha), usar iconos de banderas y reducir el proceso a un solo clic.
+
+## PROBLEMA #13: Falta de personalización y una curva de aprendizaje elevada para nuevos usuarios.
+
+- Severidad: 2 — Heurística violada: Flexibility and Efficiency of Use / Help and Documentation
+- Problema: La plataforma no ofrece recomendaciones, guías iniciales o personalización de vistas. Los usuarios nuevos deben aprender la navegación por ensayo y error, lo cual incrementa la curva de aprendizaje y reduce la eficiencia.
+- Recomendación: Agregar un onboarding inicial, brindar tooltips explicativos y permitir que el usuario configure vistas rápidas o favoritos.
+
+**Respositorio de auditoria:** https://docs.google.com/document/d/1yUM-z9TAOwkcqBh12h8XKnBpV6gf2EIMYIysLJnMgsc/edit?usp=sharing
+
 # Conclusiones
 
-- El presente trabajo nos permitió documentar y desarrollar una plataforma que tiene como objetivo mejorar la gestión de equipos de refrigeración, brindando herramientas que permitan monitorear el estado de las mismas en tiempo real de manera eficiente.
+## Conclusiones y recomendaciones
 
-- La Landing Page fue diseñada priorizando una experiencia clara, amigable y accesible, facilitando que los visitantes comprendan rápidamente los beneficios de IceTrack. Cada sección contribuye en comunicar el valor y objetivos que IceTrack ofrece.
+- El desarrollo del backend permitió establecer una base sólida para garantizar el funcionamiento estable y seguro de la plataforma IceTrack. Gracias a la implementación de servicios bien estructurados y una arquitectura organizada, se logró asegurar la comunicación eficiente entre el frontend y los registros almacenados en el servidor.
+- La API creada permitió gestionar de manera centralizada la información de los equipos de refrigeración, asegurando que los datos enviados y recibidos por los usuarios se mantengan consistentes, actualizados y accesibles en tiempo real. Esto contribuyó a mejorar la confiabilidad del sistema y su capacidad para escalar en futuros módulos y nuevas funcionalidades.
+- La integración de controladores, modelos y rutas permitió manejar de forma ordenada cada funcionalidad del sistema. Este enfoque de diseño facilita la mantenibilidad del código y asegura que nuevas implementaciones o actualizaciones puedan realizarse sin comprometer la estabilidad general de la plataforma.
+- El trabajo con bases de datos permitió estructurar adecuadamente la información de los equipos monitoreados, lo que contribuyó a garantizar integridad, seguridad y disponibilidad de los datos. La correcta definición de entidades y relaciones permitió optimizar consultas, mejorar tiempos de respuesta y garantizar un acceso eficiente a la información clave.
+- En el entorno colaborativo, la organización del backend mediante ramas, commits descriptivos y revisiones en GitHub permitió mantener un flujo de trabajo ordenado. Cada integrante aportó código claro, documentado y funcional, lo que facilitó la integración continua y la resolución rápida de incidencias.
+- Se recomienda continuar optimizando la arquitectura del backend mediante la implementación de patrones de diseño que faciliten la escalabilidad, como el uso de servicios independientes o microservicios, considerando el crecimiento futuro de IceTrack.
+- Es importante añadir pruebas unitarias y pruebas de integración que aseguren que cada funcionalidad del backend responda correctamente ante diferentes escenarios, reduciendo errores y fortaleciendo la calidad del producto final.
+- Se sugiere mejorar los mecanismos de autenticación y autorización mediante tokens más seguros y control de accesos avanzado, con el fin de garantizar que solo usuarios autorizados puedan acceder a los servicios sensibles de la plataforma.
+- Para garantizar un rendimiento óptimo, se recomienda implementar técnicas de caché, balanceo de carga o manejo eficiente de solicitudes en caso de alto tráfico, especialmente cuando IceTrack escale a más usuarios o clientes.
+- Se debe documentar continuamente los endpoints, modelos y procesos internos a través de herramientas como Swagger, facilitando el mantenimiento del backend y permitiendo que futuros desarrolladores comprendan rápidamente la estructura del sistema.
 
-- La interfaz del Web Application (frontend) será intuitiva y fácil de usar, de manera que los usuarios puedan hacer uso de la funcionalidades de la plataforma de manera eficiente.
+## 5.4. Video About-the-Product
 
-- El trabajo se desarrolló en un entorno colaborativo a través de la plataforma Github, donde cada integrante colaboró y asumió tareas claves para cumplir con los objetivos establecidos.
+En esta parte, el equipo ofrece una síntesis de los puntos más importantes de IceTrack. El contenido audiovisual describe detalladamente las funciones principales de la aplicación, mostrando cómo cada una fue creada para atender las necesidades de los sistemas de refrigeración, ya sea en entornos domésticos o comerciales.
+
+El video incluye demostraciones visuales del uso de la app, mostrando pasos esenciales como el monitoreo de temperatura y consumo energético, alertas de fallos, historial de rendimiento y reportes generales sobre los equipos registrados.
+
+La narración guía al espectador por toda la experiencia de uso, mientras que testimonios reales aportan credibilidad al compartir cómo la aplicación ha facilitado la supervisión de sistemas de refrigeración, tanto para técnicos como para usuarios sin experiencia. Estos relatos destacan la facilidad de uso y la mejora en la eficiencia y confiabilidad de los equipos.
+
+En conjunto, el video no solo presenta el producto, sino que lo posiciona como una solución digital efectiva para apoyar el mantenimiento y control responsable de la refrigeración, demostrando su utilidad, su usabilidad y su impacto positivo.
+
+**Video Explicativo**
+
+<p align="center">
+    <img src="assets/chapter05/about_product.png" alt="about_product"/>    
+</p>
+
+URL de la Versión Publicada
+
+- **Link de OneDrive:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220138_upc_edu_pe/IQDqUJmb8HpsQ7D88N1V05G-AWhir566m1pHdZ75Tv07gzk?e=hCdsaI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D about the product
+
+# Conclusiones
+
+## Conclusiones y recomendaciones
+
+- El desarrollo del backend permitió establecer una base sólida para garantizar el funcionamiento estable y seguro de la plataforma IceTrack. Gracias a la implementación de servicios bien estructurados y una arquitectura organizada, se logró asegurar la comunicación eficiente entre el frontend y los registros almacenados en el servidor.
+- La API creada permitió gestionar de manera centralizada la información de los equipos de refrigeración, asegurando que los datos enviados y recibidos por los usuarios se mantengan consistentes, actualizados y accesibles en tiempo real. Esto contribuyó a mejorar la confiabilidad del sistema y su capacidad para escalar en futuros módulos y nuevas funcionalidades.
+- La integración de controladores, modelos y rutas permitió manejar de forma ordenada cada funcionalidad del sistema. Este enfoque de diseño facilita la mantenibilidad del código y asegura que nuevas implementaciones o actualizaciones puedan realizarse sin comprometer la estabilidad general de la plataforma.
+- El trabajo con bases de datos permitió estructurar adecuadamente la información de los equipos monitoreados, lo que contribuyó a garantizar integridad, seguridad y disponibilidad de los datos. La correcta definición de entidades y relaciones permitió optimizar consultas, mejorar tiempos de respuesta y garantizar un acceso eficiente a la información clave.
+- En el entorno colaborativo, la organización del backend mediante ramas, commits descriptivos y revisiones en GitHub permitió mantener un flujo de trabajo ordenado. Cada integrante aportó código claro, documentado y funcional, lo que facilitó la integración continua y la resolución rápida de incidencias.
+- Se recomienda continuar optimizando la arquitectura del backend mediante la implementación de patrones de diseño que faciliten la escalabilidad, como el uso de servicios independientes o microservicios, considerando el crecimiento futuro de IceTrack.
+- Es importante añadir pruebas unitarias y pruebas de integración que aseguren que cada funcionalidad del backend responda correctamente ante diferentes escenarios, reduciendo errores y fortaleciendo la calidad del producto final.
+- Se sugiere mejorar los mecanismos de autenticación y autorización mediante tokens más seguros y control de accesos avanzado, con el fin de garantizar que solo usuarios autorizados puedan acceder a los servicios sensibles de la plataforma.
+- Para garantizar un rendimiento óptimo, se recomienda implementar técnicas de caché, balanceo de carga o manejo eficiente de solicitudes en caso de alto tráfico, especialmente cuando IceTrack escale a más usuarios o clientes.
+- Se debe documentar continuamente los endpoints, modelos y procesos internos a través de herramientas como Swagger, facilitando el mantenimiento del backend y permitiendo que futuros desarrolladores comprendan rápidamente la estructura del sistema.
+
+## Video About-the-Team
+
+Cada integrante cuenta su experiencia dentro del proyecto, explicando qué tareas asumió, qué dificultades aparecieron durante el proceso y de qué manera las superó. También se destacan los principales avances logrados, como la creación de una interfaz fácil de usar, la colaboración con distintos refugios y la incorporación de funciones esenciales para fomentar una adopción responsable.
+
+El video cierra con una reflexión grupal sobre todo lo aprendido, resaltando tanto el crecimiento técnico como el fortalecimiento de las habilidades sociales. Finalmente, el equipo expresa su agradecimiento y comenta de forma breve cuál fue su aporte personal al proyecto.
+
+**Imagen representativa del video:**
+
+<p align="center">
+    <img src="assets/chapter05/about_team.png" alt="about_team"/>    
+</p>
+
+**URLs de la Versión Publicada**
+
+- Link en OneDrive: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQCbkEjCpbx-S44VBM-4bmjrASr_-R7yb5ajrTRVoCqDd_M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LYPOfe
 
 # Bibliografía
 
@@ -2808,3 +4056,6 @@ Para el presente sprint, se realizó el proceso de despliegue para la primera ve
 **Despliegue de Fake API:** [https://icetrack-json-api.onrender.com/](https://icetrack-json-api.onrender.com/)
 
 **Despliegue del Frontend:** [https://ice-track-frontend.vercel.app/](https://ice-track-frontend.vercel.app/)
+
+**Despliegue del Backend:** https://api-icetrack-platform.onrender.com/
+

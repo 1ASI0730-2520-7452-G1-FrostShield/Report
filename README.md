@@ -4056,3 +4056,6 @@ El video cierra con una reflexión grupal sobre todo lo aprendido, resaltando ta
 **Despliegue de Fake API:** [https://icetrack-json-api.onrender.com/](https://icetrack-json-api.onrender.com/)
 
 **Despliegue del Frontend:** [https://ice-track-frontend.vercel.app/](https://ice-track-frontend.vercel.app/)
+
+**Despliegue del Backend:** https://api-icetrack-platform.onrender.com/
+

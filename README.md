@@ -3382,6 +3382,15 @@ En el Sprint 3 se desplegó la segunda versión de la Web Application de IceTrac
 | POST		 | /api/v1/authentication/sign-in | Iniciar sesión |
 | POST		 | /api/v1/authentication/sign-up | Registrarse    |
 
+**Alerts**
+
+| Verbo HTTP | Endpoint 		  			  | Descripción	                                 |
+| :--------: | :----------------------------- | :--------------------------------------------|                          
+| POST		 | /api/v1/authentication/sign-in | Crear alerta                                 |
+| GET		 | /api/v1/alert                  | Tener alerta por equipmentid y tenantid      |
+| GET		 | /api/v1/alert/{id}             | Tener alerta por Id                          |
+
+
 ---
 
 **Dashboard**
@@ -3434,6 +3443,10 @@ En el Sprint 3 se desplegó la segunda versión de la Web Application de IceTrac
 ![ReportEndpointsBackendV1](./assets/chapter05/authentication_0.png)
 ![PostReportBackendV1](./assets/chapter05/authentication_1.png)
 ![GetReportByEquipmentOrTenantIdBackendV1](./assets/chapter05/authentication_2.png)
+
+**Alerts**
+![ReportEndpointsBackendV1](./assets/chapter05/metodos-alertas.png)
+![ReportEndpointsBackendV1](./assets/chapter05/post-alertas.png)
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 

@@ -2,13 +2,13 @@
  <h1>Universidad Peruana de Ciencias Aplicadas</h1>
  <img style="height: 200px" src="assets/chapter01/upc.png">
   <h2>Carrera: Ingeniería de Software</h2>
-  <h2>Ciclo: 2025-20</h2>
+  <h2>Periodo: 2025-20</h2>
 <br>
-  <h2>Curso: 1ASI0730 Aplicaciones Web</h2>
-  <h2>Sección: 7452</h2>
+  <h2>Curso: Aplicaciones Web</h2>
+  <h2>NRC: 7452</h2>
   <h2>Profesor: Hugo Allan Mori Paiva</h2>
 <br>
- <h1>Informe TB2</h1>
+ <h1>Informe del Trabajo Final</h1>
   <h2>Startup: Frostshield </h2>
   <h2>Producto: IceTrack </h2>
 <br>
@@ -28,7 +28,7 @@
 
 <br>
 
-   <h3>Setiembre 2025</h3>
+   <h3>Diciembre 2025</h3>
 
 </div>
 

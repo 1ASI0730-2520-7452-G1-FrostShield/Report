@@ -1641,7 +1641,7 @@ Aquí se notifican y gestionan todas las incidencias importantes. Por ejemplo, s
 
 La sección de Prototipado de Aplicaciones Web muestra un modelo interactivo y funcional de la aplicación IceTrack antes de su desarrollo final. Este proceso permite simular el flujo de usuario, la navegación y las interacciones principales, garantizando que el diseño sea intuitivo y que la experiencia de usuario sea la mejor posible. Es la fase donde las ideas se validan con un producto tangible.
 
-URL: https://www.figma.com/proto/ssl7G9KRip9XbC0tBXqUnc/Untitled?node-id=1-2&p=f&t=Kj4CziPHI6VX6P3M-1&scaling=contain&content-scaling=responsive&page-id=0%3A1
+URL: `https://www.figma.com/proto/ssl7G9KRip9XbC0tBXqUnc/Untitled?node-id=1-2&p=f&t=Kj4CziPHI6VX6P3M-1&scaling=contain&content-scaling=responsive&page-id=0%3A1`
 ---
 
 ## 4.6. Domain-Driven Software Architecture
@@ -1691,9 +1691,9 @@ Para la administración del proyecto, se utilizaron varias herramientas para la 
 
 | Plataforma                   | Descripción                                                                                                                                                                                                                                                       | Enlace                |
 |------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
-| Trello                       | Esta plataforma de gestión de proyectos ofrece funcionalidades para el seguimiento detallado del progreso de cada tarea a lo largo de su ciclo de vida, además de permitir la designación clara de responsables para cada actividad dentro del equipo de trabajo. | https://trello.com    |
-| Herramientas de Comunicación | La comunicación interna del equipo se gestionó a través de Discord y WhatsApp para reuniones y mensajes rápidos, respectivamente.                                                                                                                                 | https://discord.com/ |
-| GitHub                       | Se creó una organización para centralizar el código fuente y su versionado, lo que permitió un control de versiones eficiente y una gestión ordenada.                                                                                                             | https://github.com    |
+| Trello                       | Esta plataforma de gestión de proyectos ofrece funcionalidades para el seguimiento detallado del progreso de cada tarea a lo largo de su ciclo de vida, además de permitir la designación clara de responsables para cada actividad dentro del equipo de trabajo. | `https://trello.com`    |
+| Herramientas de Comunicación | La comunicación interna del equipo se gestionó a través de Discord y WhatsApp para reuniones y mensajes rápidos, respectivamente.                                                                                                                                 | `https://discord.com/` |
+| GitHub                       | Se creó una organización para centralizar el código fuente y su versionado, lo que permitió un control de versiones eficiente y una gestión ordenada.                                                                                                             | `https://github.com`    |
 
 **Requirement Management**
 
@@ -1701,8 +1701,8 @@ En la fase inicial, se emplearon herramientas para la recolección y organizaci�
 
 | Plataforma | Descripción                                                                                                                                                                                                                            | Enlace                 |
 |------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
-| UXPressia  | Fue la herramienta principal para el diseño de productos digitales. Permitió al equipo crear y validar propuestas de diseño con wireframes, mockups y prototipos interactivos, lo que aseguró un producto final efectivo y atractivo.  | https://uxpressia.com/ |
-| Miro       | Esta herramienta se usó para visualizar y desarrollar los escenarios "As-Is" (estado actual) y "To-Be" (estado futuro), lo que ayudó a planificar la evolución del proyecto.                                                           | https://miro.com/es/   |
+| UXPressia  | Fue la herramienta principal para el diseño de productos digitales. Permitió al equipo crear y validar propuestas de diseño con wireframes, mockups y prototipos interactivos, lo que aseguró un producto final efectivo y atractivo.  | `https://uxpressia.com/` |
+| Miro       | Esta herramienta se usó para visualizar y desarrollar los escenarios "As-Is" (estado actual) y "To-Be" (estado futuro), lo que ayudó a planificar la evolución del proyecto.                                                           | `https://miro.com/es/ `  |
 
 
 **Product UX/UI Desing**
@@ -1711,7 +1711,7 @@ Para el diseño de la experiencia y la interfaz de usuario, se usó una platafor
 
 | Plataforma | Descripción                                                                                                                                                                                                                            | Link                                                    |
 |------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
-| Figma      | Fue la herramienta principal para el diseño de productos digitales. Permitió al equipo crear y validar propuestas de diseño con wireframes, mockups y prototipos interactivos, lo que aseguró un producto final efectivo y atractivo.  | https://www.figma.com |
+| Figma      | Fue la herramienta principal para el diseño de productos digitales. Permitió al equipo crear y validar propuestas de diseño con wireframes, mockups y prototipos interactivos, lo que aseguró un producto final efectivo y atractivo.  | `https://www.figma.com` |
 
 **Software Development**
 
@@ -1719,11 +1719,11 @@ El desarrollo se realizó utilizando un conjunto de lenguajes y entornos de prog
 
 | Plataforma          | Descripción                                                                                                                                    | Link                                      |
 |---------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
-| HTML                | Sirve para definir la estructura y el contenido de una página web.                                                                             | https://www.w3schools.com/html/default.asp |
-| CSS                 | Se encarga de la presentación visual y el estilo de la página web.                                                                             | https://www.w3schools.com/css/default.asp |
-| JS                  | Añade interactividad y dinamismo a la página web.                                                                                              | https://www.w3schools.com/js/default.asp  |
-| Visual Studio Code  | Entorno de desarrollo que facilita la escritura, edición, depuración y gestión de código para una amplia gama de lenguajes y proyectos.        | https://code.visualstudio.com             |
-| JetBrains ToolBox   | Aplicación de gestión que contiene IDEs como IntelliJ IDEA, WebStorm y Rider (cada miembro del equipo trabajó en alguna de estas herramientas) | https://www.jetbrains.com/toolbox-app/    |
+| HTML                | Sirve para definir la estructura y el contenido de una página web.                                                                             | `https://www.w3schools.com/html/default.asp` |
+| CSS                 | Se encarga de la presentación visual y el estilo de la página web.                                                                             | `https://www.w3schools.com/css/default.asp `|
+| JS                  | Añade interactividad y dinamismo a la página web.                                                                                              | `https://www.w3schools.com/js/default.asp ` |
+| Visual Studio Code  | Entorno de desarrollo que facilita la escritura, edición, depuración y gestión de código para una amplia gama de lenguajes y proyectos.        | `https://code.visualstudio.com `            |
+| JetBrains ToolBox   | Aplicación de gestión que contiene IDEs como IntelliJ IDEA, WebStorm y Rider (cada miembro del equipo trabajó en alguna de estas herramientas) | `https://www.jetbrains.com/toolbox-app/ `   |
 
 **Software Documentation**
 
@@ -1731,8 +1731,8 @@ La documentación y la publicación del proyecto se manejaron con herramientas q
 
 | Plataforma | Descripción                                             | Link                                                              |
 |------------|---------------------------------------------------------|-------------------------------------------------------------------|
-| GitHub     | Gestión de la documentación en función a repositorios y organizaciones | https://github.com          |
-| Markdown   | Formato base para la presentación y documentación del proyecto | https://markdown.es/                     |
+| GitHub     | Gestión de la documentación en función a repositorios y organizaciones | `https://github.com`          |
+| Markdown   | Formato base para la presentación y documentación del proyecto | `https://markdown.es/  `                   |
 
 Se utilizó la estrategia GitHub Flow para la colaboración y el control de versiones, usando ramas específicas para cada funcionalidad. Esto mantuvo el proyecto organizado. También sirvió como repositorio central para toda la documentación.
 Para el despliegue de la Landing Page se utilizó GitHub Pages, una herramienta perfecta para publicar sitios web estáticos.
@@ -1800,9 +1800,9 @@ A continuación, se detallan las convenciones de nomenclatura para diferentes ti
 ---
 
 **Repositorio de Github:**
-- Enlace para acceder a la organizacion en Github: https://github.com/1ASI0730-2520-7452-G1-FrostShield
-- Enlace para acceder al repositorio de la Landing Page: https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page
-- Enlace para acceder al repositorio del Informe: https://github.com/1ASI0730-2520-7452-G1-FrostShield/Report
+- Enlace para acceder a la organizacion en Github: `https://github.com/1ASI0730-2520-7452-G1-FrostShield`
+- Enlace para acceder al repositorio de la Landing Page: `https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page`
+- Enlace para acceder al repositorio del Informe: `https://github.com/1ASI0730-2520-7452-G1-FrostShield/Report`
 
 ---
 
@@ -2020,7 +2020,7 @@ Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha 
 
 El objetivo principal de este Sprint es elaborar la Landing Page de nuestra plataforma. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en Landing Page. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
 
-Enlace: https://trello.com/b/sUPp1a6b/sprints
+Enlace: `https://trello.com/b/sUPp1a6b/sprints`
 
 ![Sprint1-Trello.png](assets/chapter05/Sprint1-Trello.png)
 <figcaption style="font-size: 0.9em; color: #555;">
@@ -2347,7 +2347,7 @@ A continuación, se presenta las  secciones principales de la Landing Page despl
 ![LPEvidenceContacto.png](assets/chapter05/LPEvidenceContacto.png)
 ---
 
-URL del Landing Page desplegado: https://1asi0730-2520-7452-g1-frostshield.github.io/IceTrack---Landing-Page/
+URL del Landing Page desplegado: `https://1asi0730-2520-7452-g1-frostshield.github.io/IceTrack---Landing-Page/`
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -2469,7 +2469,7 @@ Con el objetivo de optimizar la organización y la colaboración del equipo, se 
 #### 5.2.2.3. Sprint Backlog 2
 El objetivo principal de este Sprint es elaborar el Frontend de nuestra plataforma. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en la aplicacion web. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
 
-Enlace: https://trello.com/b/mLKlTDIY/frontend
+Enlace: `https://trello.com/b/mLKlTDIY/frontend`
 
 ![Sprint1-Trello.png](assets/chapter05/Sprint2-Trello.png)
 <figcaption style="font-size: 0.9em; color: #555;">
@@ -2906,7 +2906,7 @@ Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha 
 
 Nuestro enfoque principal para este Sprint ha sido el desarrollo del frontend y backend de la plataforma IceTrack. Hemos estructurado nuestras tareas siguiendo las User Stories y Technical Stories que hemos detallado, asegurando un progreso claro y alineado con los objetivos de negocio y la arquitectura técnica.
 
-Enlace: https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717b7d5e39eba218930f0541704BF/frontshield
+Enlace: `https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717b7d5e39eba218930f0541704BF/frontshield`
 
 ![Sprint1-Trello.png](assets/chapter05/Sprint3-Trello.png)
 <figcaption style="font-size: 0.9em; color: #555;">
@@ -3639,7 +3639,7 @@ Validar la usabilidad, efectividad y propuesta de valor de la plataforma IceTrac
 
 - **Inicio:** 0:00
 - **Duración:** 14:49 min
-- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQDZJDCV5rVLQJHq_pq3M0RWAZbT8M6ee7V0Eo77-ESq_0U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fUbOGP
+- **URL:** `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQDZJDCV5rVLQJHq_pq3M0RWAZbT8M6ee7V0Eo77-ESq_0U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fUbOGP`
 - **Resumen:** Análisis: Henrry Aiquipa, 25 años, dueño de una bodega en San Martín de Porres, tuvo una experiencia en general positiva con la plataforma para negocios con equipos de refrigeración. Percibió el registro e inicio de sesión como simples y sin errores, y encontró el dashboard intuitivo, con un resumen útil del estado de sus equipos. Destacó que las secciones de “Sites” y “Equipments” están bien organizadas, con información relevante y estados de equipos fáciles de identificar. Valoró también la claridad de las alertas y la facilidad para acceder a reportes y solicitar servicios o programar mantenimientos. Ubicó sin problema la sección de configuración y confirmó que los cambios se guardan correctamente. En conjunto, considera que la aplicación es visualmente agradable, coherente e intuitiva, mencionando solo pequeños retrasos puntuales que no afectan su uso general.
 
 **Entrevista 2:**
@@ -3652,7 +3652,7 @@ Validar la usabilidad, efectividad y propuesta de valor de la plataforma IceTrac
 
 - **Inicio:** 0:00
 - **Duración:** 5:21 min
-- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQCK3Oq7XMaZRL7U5QnkIAKuAeHFhMJhaovEMp5L-PuTANE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5HVhkd
+- **URL:** `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQCK3Oq7XMaZRL7U5QnkIAKuAeHFhMJhaovEMp5L-PuTANE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5HVhkd`
 - **Resumen:** La señora Rocío Galindo, comenta que la plataforma para negocios con equipos de refrigeración le resultó clara y sencilla de usar: el registro y el ingreso fueron fáciles, el panel principal le mostró de inmediato el estado de sus equipos y las secciones de “Sites” y “Equipments” le parecieron muy ordenadas. Destaca que las alertas son comprensibles, los reportes y las solicitudes de mantenimiento están al alcance y que la configuración permite hacer cambios sin dificultad. En general, afirma que la aplicación es visualmente agradable, coherente y práctica para su día a día.
 
 **Entrevista 3:**
@@ -3665,7 +3665,7 @@ Validar la usabilidad, efectividad y propuesta de valor de la plataforma IceTrac
 
 - **Inicio:** 0:00
 - **Duración:** 6:02 min
-- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQBJ0SiZQ9aMR6QPa0IBM5jrAQxA99usZN4RQIdTMA8w49Y?e=Yl7TId&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- **URL:** `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQBJ0SiZQ9aMR6QPa0IBM5jrAQxA99usZN4RQIdTMA8w49Y?e=Yl7TId&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
 - **Resumen:** Análisis: Mauricio administra junto a su padre un minimarket que contiene varios equipos de refrigeración, por lo que depende de ellos para poder conservar alimentos. Él en la entrevista menciona que le pareció atractiva e intuitiva. El dashboard le pareció conciso y facil de entender, al igual que las alertas, servicios, equipos y sitios. Sí recomendaría utilizar la aplicación a otras personas y la utilizaría para poder tener mejor control sobre sus equipos y poder solicitar servicios por si alguno falla.
 
 ---
@@ -3682,7 +3682,7 @@ Validar la usabilidad, efectividad y propuesta de valor de la plataforma IceTrac
 
 - **Inicio:** 0:28 min
 - **Duración:** 14:49 min
-- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQDZJDCV5rVLQJHq_pq3M0RWAZbT8M6ee7V0Eo77-ESq_0U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fUbOGP
+- **URL:** `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQDZJDCV5rVLQJHq_pq3M0RWAZbT8M6ee7V0Eo77-ESq_0U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fUbOGP`
 - **Resumen:** Alvaro Salazar, 24 años, técnico especializado en servicios de mantenimiento en máquinas de refrigeración. Ante su experiencia en este rubro, comparte su opinión y retroalimentación acerca de nuestra aplicación IceTrack. Tras haber hecho uso de la aplicación, comenta que la interfaz fue sencilla y fácil de entender. Así mismo, cree que el flujo de la aplicación es sencilla y no cuenta con dificultades o elementos que distraigan la atención. Considera que el tiempo de espera se encuentra en el tiempo promedio que se espera de este tipo de aplicaciones y considera apropiado la creación de reportes para mejorar su eficiencia en servicios de mantenimiento. En conclusión, Alvaro considera que nuestra aplicación cumple con el objetivo de resolver las necesidades de los usuarios con una interfaz sencilla de entender y visualmente agradable.
 
 ---
@@ -3816,7 +3816,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 - Problema: En la sección "My Service Requests", los filtros están agrupados de forma redundante ("Filter by: ALL | Pending | Assigned | In progress | Done" y luego "ALL | Repair (Corrective) | Maintenance (Preventive)"). El doble uso de "ALL" es confuso. Además, el primer conjunto de filtros parece enfocarse en el Status, y el segundo en el Type, pero la repetición de "ALL" no es eficiente.
 - Recomendación: Fusionar los filtros en un único conjunto que permita seleccionar una opción de Status Y una opción de Type, o unificar el botón "ALL" si es un reset general de ambos filtros.
 
-**Respositorio de auditoria:** https://docs.google.com/document/d/12K22DituAE1HPKc8xQM8qvzI5G8edJ3c5FYTELsxBZM/edit?usp=sharing
+**Respositorio de auditoria:** `https://docs.google.com/document/d/12K22DituAE1HPKc8xQM8qvzI5G8edJ3c5FYTELsxBZM/edit?usp=sharing`
 
 ---
 
@@ -3979,7 +3979,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 - Problema: La plataforma no ofrece recomendaciones, guías iniciales o personalización de vistas. Los usuarios nuevos deben aprender la navegación por ensayo y error, lo cual incrementa la curva de aprendizaje y reduce la eficiencia.
 - Recomendación: Agregar un onboarding inicial, brindar tooltips explicativos y permitir que el usuario configure vistas rápidas o favoritos.
 
-**Respositorio de auditoria:** https://docs.google.com/document/d/1yUM-z9TAOwkcqBh12h8XKnBpV6gf2EIMYIysLJnMgsc/edit?usp=sharing
+**Respositorio de auditoria:** `https://docs.google.com/document/d/1yUM-z9TAOwkcqBh12h8XKnBpV6gf2EIMYIysLJnMgsc/edit?usp=sharing`
 
 # Conclusiones
 
@@ -4014,7 +4014,7 @@ En conjunto, el video no solo presenta el producto, sino que lo posiciona como u
 
 URL de la Versión Publicada
 
-- **Link de OneDrive:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220138_upc_edu_pe/IQDqUJmb8HpsQ7D88N1V05G-AWhir566m1pHdZ75Tv07gzk?e=hCdsaI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D about the product
+- **Link de OneDrive:** `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220138_upc_edu_pe/IQDqUJmb8HpsQ7D88N1V05G-AWhir566m1pHdZ75Tv07gzk?e=hCdsaI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D` about the product
 
 # Conclusiones
 
@@ -4045,7 +4045,7 @@ El video cierra con una reflexión grupal sobre todo lo aprendido, resaltando ta
 
 **URLs de la Versión Publicada**
 
-- Link en OneDrive: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQCbkEjCpbx-S44VBM-4bmjrASr_-R7yb5ajrTRVoCqDd_M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LYPOfe
+- Link en OneDrive: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQCbkEjCpbx-S44VBM-4bmjrASr_-R7yb5ajrTRVoCqDd_M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LYPOfe`
 
 # Bibliografía
 

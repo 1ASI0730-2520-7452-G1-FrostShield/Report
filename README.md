@@ -5,6 +5,7 @@
   <h2>Periodo: 2025-20</h2>
 <br>
   <h2>Curso: Aplicaciones Web</h2>
+  <h2>Codigo del Curso: 1ASI0730</h2>
   <h2>NRC: 7452</h2>
   <h2>Profesor: Hugo Allan Mori Paiva</h2>
 <br>

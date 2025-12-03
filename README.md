@@ -1649,21 +1649,46 @@ URL: `https://www.figma.com/proto/ssl7G9KRip9XbC0tBXqUnc/Untitled?node-id=1-2&p=
 ### 4.6.1. Design-Level EventStorming
 
 ### 4.6.2. Software Architecture Context Diagram
-<img width="1297" height="591" alt="4 6 2  Software Architecture Context Diagram" src="https://github.com/user-attachments/assets/937dc662-94a6-4a84-93e8-1314bb718b74" />
+<img width="1297" height="591" alt="4 6 2  Software Architecture Context Diagram" src="assets/chapter05/context-diagram.png" />
 <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 1:</strong> Context Diagram.
   </figcaption>
 
 ### 4.6.3. Software Architecture Container Diagrams
-<img width="1170" height="579" alt="4 6 3  Software Architecture Container Diagrams" src="https://github.com/user-attachments/assets/a1237ca4-4b87-48f8-be42-c839fa2b179d" />
+<img width="1170" height="579" alt="4 6 3  Software Architecture Container Diagrams" src="assets/chapter05/containers-diagram.png" />
 <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 1:</strong> Container Diagrams.
   </figcaption>
 
 ### 4.6.4. Software Architecture Components Diagrams
-<img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="https://github.com/user-attachments/assets/678227bf-4118-481d-9574-a519a721196d" />
+<img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter05/apirest-component.png" />
 <figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 1:</strong> Components Diagrams.
+    <strong>Figura 1:</strong> API REST Component Diagrams.
+  </figcaption>
+
+  <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter05/assetsmanagement-component.png" />
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 2:</strong> Assets Management BC Component Diagrams.
+  </figcaption>
+
+  <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter05/dashboard-component.png" />
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 3:</strong> Dashboard BC Component Diagrams.
+  </figcaption>
+
+   <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter05/monitoring-component.png" />
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 4:</strong> Monitoring BC Component Diagrams.
+  </figcaption>
+
+  <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter05/reporting-component.png" />
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 5:</strong> Reporting BC Component Diagrams.
+  </figcaption>
+
+   <img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter05/services-component.png" />
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 6:</strong> Services BC Component Diagrams.
   </figcaption>
 
 ## 4.7. Software Object-Oriented Design

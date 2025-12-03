@@ -1661,7 +1661,7 @@ URL: `https://www.figma.com/proto/ssl7G9KRip9XbC0tBXqUnc/Untitled?node-id=1-2&p=
   </figcaption>
 
 ### 4.6.4. Software Architecture Components Diagrams
-<img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter05/apirest-component.png" />
+<img width="1614" height="1354" alt="4 6 4  Software Architecture Components Diagrams" src="assets/chapter05/apirest-diagram.png" />
 <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 1:</strong> API REST Component Diagrams.
   </figcaption>

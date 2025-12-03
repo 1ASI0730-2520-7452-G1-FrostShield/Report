@@ -37,25 +37,38 @@
 
 <div align="center">
  
-| Versión | Fecha      | Autor             | Descripción de modificación                        |
+| Versión | Fecha      | Autor             | Descripción de modificación                        	|
 | :-----: | :--------: | :---------------: | :------------------------------------------------- |
-| 0.1     | 13/09/2025 | Kenyi Ramírez     | Elaboración de la estructura inicial del reporte   |
-| 0.2     | 13/09/2025 | Alejandro Galindo | Desarrollo del Capitulo I                          |
-| 0.3     | 14/09/2025 | Julio Guillen     | Desarrollo del Capitulo III                        |
-| 0.4     | 15/09/2025 | Ivan Lozano       | Desarrollo del Capitulo II                         |
-| 0.5     | 18/09/2025 | Pedro Nanfuñay    | Desarrollo del Capitulo IV                         |
-| 0.6     | 11/10/2025 | FrostShield       | Desarrollo del Capitulo V, Landing Page y Frontend |
-| 0.7     | 16/11/2025 | Kenyi Ramírez     | Pull Request del projecto                          |
-| 0.8     | 16/11/2025 | FrostShield       | Desarrollo del Capitulo V, Frontend y BackEnd      |
+| 0.1     | 13/09/2025 | Kenyi Ramírez     | Elaboración de la estructura inicial del reporte   	|
+| 0.2     | 13/09/2025 | Alejandro Galindo | Desarrollo del Capitulo I                          	|
+| 0.3     | 14/09/2025 | Julio Guillen     | Desarrollo del Capitulo III                        	|
+| 0.4     | 15/09/2025 | Ivan Lozano       | Desarrollo del Capitulo II                         	|
+| 0.5     | 18/09/2025 | Pedro Nanfuñay    | Desarrollo del Capitulo IV                         	|
+| 0.6     | 11/10/2025 | FrostShield       | Desarrollo del Capitulo V, Landing Page y Frontend 	|
+| 0.7     | 16/11/2025 | Kenyi Ramírez     | Pull Request del projecto                          	|
+| 0.8     | 16/11/2025 | FrostShield       | Desarrollo del Capitulo V, Frontend y BackEnd     		|
+| 0.9     | 03/12/2025 | Kenyi Ramírez     | Desarrollo Frontend para el segundo segmento objetivo  |
+| 1.0     | 03/12/2025 | Alejandro Galindo | Desarrollo del nuevo C4 e historias de usuario 		|
+| 1.1     | 03/12/2025 | Julio Guillen     | Desarrollo BackEnd para Assets-Management y Monitoring |
 
 </div>
 
 ## Project Report Collaboration Insights
 
-- **URL de la organización del proyecto:**  [`https://github.com/1ASI0730-2520-7452-G1-FrostShield`](https://github.com/1ASI0730-2520-7452-G1-FrostShield)
-- **URL del repositorio del informe del proyecto:**  [`https://github.com/1ASI0730-2520-7452-G1-FrostShield/Report`](https://github.com/1ASI0730-2520-7452-G1-FrostShield/Report)
-- **URL del repositorio del landing page del proyecto:**  [`https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page`](https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page)
-- **URL de repositorio Frontend Applications del proyecto** [`https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack-Frontend`](https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack-Frontend)
+- **URL de la organización del proyecto:** <br>
+  https://github.com/1ASI0730-2520-7452-G1-FrostShield
+  
+- **URL del repositorio del reporte:** <br>
+  https://github.com/1ASI0730-2520-7452-G1-FrostShield/Report
+  
+- **URL del repositorio de la Landing Page:** <br>
+  https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page
+  
+- **URL del repositorio del Frontend:** <br>
+  https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack-Frontend
+  
+- **URL del repositorio del Backend:** <br>
+  https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack-Platform
 
 Durante la fase de preparación del informe, se llevaron a cabo las siguientes actividades:
 
@@ -4077,11 +4090,54 @@ El video cierra con una reflexión grupal sobre todo lo aprendido, resaltando ta
 
 # Anexos
 
-**Despliegue de Landing Page:** [`https://1asi0730-2520-7452-g1-frostshield.github.io/IceTrack---Landing-Page/`](https://1asi0730-2520-7452-g1-frostshield.github.io/IceTrack---Landing-Page/)
+## Recursos y enlaces del proyecto
 
-**Despliegue de Fake API:** [`https://icetrack-json-api.onrender.com/](https://icetrack-json-api.onrender.com/`)
+- **Wireframes and Mockups:** <br>
 
-**Despliegue del Frontend:** [`https://ice-track-frontend.vercel.app/`](https://ice-track-frontend.vercel.app/)
 
-**Despliegue del Backend:** [`https://api-icetrack-platform.onrender.com/`](https://api-icetrack-platform.onrender.com)
+- **Web Applications Wireflow Diagrams:** <br>
 
+  
+- **Diagrama de clases:** <br>
+
+  
+- **Diagrama de base de datos:** <br>
+
+
+- **Web Applications User Flow Diagrams:** <br>
+
+
+- **Link de Trello (Sprints Backlog):** <br>
+
+  
+- **URL de la organización del proyecto:** <br>
+  https://github.com/1ASI0730-2520-7452-G1-FrostShield
+  
+- **URL del repositorio del reporte:** <br>
+  https://github.com/1ASI0730-2520-7452-G1-FrostShield/Report
+  
+- **URL del repositorio de la Landing Page:** <br>
+  https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page
+  
+- **URL del repositorio del Frontend:** <br>
+  https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack-Frontend
+  
+- **URL del repositorio del Backend:** <br>
+  https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack-Platform
+  
+- **URL del Landing Page desplegado:** <br>
+  https://1asi0730-2520-7452-g1-frostshield.github.io/IceTrack---Landing-Page/
+  
+- **URL del Frontend desplegado:** <br>
+  https://ice-track-frontend.vercel.app/
+  
+- **URL del Backend desplegado:** <br>
+  https://api-icetrack-platform.onrender.com
+  
+- **Video About-The-Team:** <br>
+  - YouTube: 
+  - One Drive:
+    
+- **Video About-The-Product:**
+  - YouTube: 
+  - One Drive: 

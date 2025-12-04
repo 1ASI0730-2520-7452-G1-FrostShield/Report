@@ -1412,9 +1412,9 @@ El wireframe del landing page de IceTrack se diseñó para guiar la creación de
 El objetivo principal de este wireframe es asegurar que el diseño final sea lógico, atractivo y, sobre todo, que guíe al usuario hacia una acción clara, como registrarse o contactar a la empresa.
 
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/LandingPageWireframe.png"
-       alt="Landing Page Wireframe"
-       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+	<div align="center">
+    	<img src="assets/chapter04/LandingPageWireframe.png" height="50%">
+  	</div>
   <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 1:</strong> Wireframe del Landing Page.
   </figcaption>
@@ -1499,9 +1499,9 @@ Ofrece un formulario simple y directo con campos bien organizados para que los i
 Los wireframes de las aplicaciones web de IceTrack muestran cómo se estructuran las pantallas y dónde se ubican los elementos de navegación. Estos esquemas visuales, que se centran en la funcionalidad y la facilidad de uso, guían el diseño final. Su objetivo es asegurar que la aplicación sea intuitiva y que la interacción del usuario sea fluida y eficiente, lo que ayuda a diseñadores y desarrolladores a optimizar la disposición de cada componente.
 
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/WebWireframe1.png"
-       alt="Wireframe: Registro"
-       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <div align="center">
+    <img src="assets/chapter04/WebWireframe1.png" alt="WebWireframe1.png">
+  </div>
   <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 1:</strong> Wireframe Registro.
   </figcaption>
@@ -1510,9 +1510,9 @@ Los wireframes de las aplicaciones web de IceTrack muestran cómo se estructuran
 ---
 
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/WebWireframe2.png"
-       alt="Wireframe: Dashboard"
-       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <div align="center">
+    <img src="assets/chapter04/WebWireframe2.png" alt="WebWireframe2.png">
+  </div>
   <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 2:</strong> Wireframe Dashboard.
   </figcaption>
@@ -1521,9 +1521,9 @@ Los wireframes de las aplicaciones web de IceTrack muestran cómo se estructuran
 ---
 
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/WebWireframe3.png"
-       alt="Wireframe: Sitios y equipos"
-       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <div align="center">
+    <img src="assets/chapter04/WebWireframe3.png" alt="WebWireframe3.png">
+  </div>
   <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 3:</strong> Wireframe Sitios y equipos.
   </figcaption>
@@ -1532,9 +1532,9 @@ Los wireframes de las aplicaciones web de IceTrack muestran cómo se estructuran
 ---
 
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/WebWireframe4.png"
-       alt="Wireframe: Detalle del equipo"
-       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <div align="center">
+    <img src="assets/chapter04/WebWireframe4.png" alt="WebWireframe4.png">
+  </div>
   <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 4:</strong> Wireframe Detalle del equipo.
   </figcaption>
@@ -1543,9 +1543,9 @@ Los wireframes de las aplicaciones web de IceTrack muestran cómo se estructuran
 ---
 
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/WebWireframe5.png"
-       alt="Wireframe: Alertas"
-       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <div align="center">
+    <img src="assets/chapter04/WebWireframe5.png" alt="WebWireframe5.png">
+  </div>
   <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 5:</strong> Wireframe Alertas.
   </figcaption>
@@ -1554,9 +1554,9 @@ Los wireframes de las aplicaciones web de IceTrack muestran cómo se estructuran
 ---
 
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/WebWireframe6.png"
-       alt="Wireframe: Órdenes"
-       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <div align="center">
+    <img src="assets/chapter04/WebWireframe6.png" alt="WebWireframe6.png">
+  </div>
   <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 6:</strong> Wireframe Órdenes.
   </figcaption>
@@ -1565,9 +1565,9 @@ Los wireframes de las aplicaciones web de IceTrack muestran cómo se estructuran
 ---
 
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/WebWireframe7.png"
-       alt="Wireframe: Reportes"
-       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <div align="center">
+    <img src="assets/chapter04/WebWireframe7.png" alt="WebWireframe7.png">
+  </div>
   <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 7:</strong> Wireframe Reportes.
   </figcaption>
@@ -1576,9 +1576,9 @@ Los wireframes de las aplicaciones web de IceTrack muestran cómo se estructuran
 ---
 
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/WebWireframe8.png"
-       alt="Wireframe: Administración"
-       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+ <div align="center">
+    <img src="assets/chapter04/WebWireframe8.png" alt="WebWireframe8.png">
+  </div>
   <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 8:</strong> Wireframe Administración.
   </figcaption>
@@ -2414,7 +2414,7 @@ A continuación, se presenta las  secciones principales de la Landing Page despl
 ![LPEvidenceContacto.png](assets/chapter05/LPEvidenceContacto.png)
 ---
 
-URL del Landing Page desplegado: `https://1asi0730-2520-7452-g1-frostshield.github.io/IceTrack---Landing-Page/`
+URL del Landing Page desplegado: https://1asi0730-2520-7452-g1-frostshield.github.io/IceTrack---Landing-Page/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -2469,9 +2469,7 @@ URL del Landing Page desplegado: `https://1asi0730-2520-7452-g1-frostshield.gith
 </tr>
 <tr>
     <td colspan="5">Sprint 2 Goal</td>
-       <td colspan="8">Nuestro enfoque de desarrollo se centra en la creación e implementación de la interfaz front-end de IceTrack, con el objetivo de proporcionar una experiencia de navegación fluida e intuitiva, mostrar las principales funcionalidades de la plataforma y disponer de una página de inicio funcional que comunique de manera efectiva el valor diferencial del servicio.
-</td>
-
+       <td colspan="8">Nuestro enfoque de desarrollo se centra en la creación e implementación de la interfaz front-end de IceTrack, con el objetivo de proporcionar una experiencia de navegación fluida e intuitiva, mostrar las principales funcionalidades de la plataforma y disponer de una página de inicio funcional que comunique de manera efectiva el valor diferencial del servicio.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 2 Velocity</td>
@@ -2540,7 +2538,7 @@ Enlace: https://trello.com/b/mLKlTDIY/frontend
 
 ![Sprint1-Trello.png](assets/chapter05/Sprint2-Trello.png)
 <figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 1:</strong> Sprint Backlog 1.
+    <strong>Figura 1:</strong> Sprint Backlog 2.
   </figcaption>
 
 <table border="1">
@@ -2907,8 +2905,7 @@ Para el presente sprint, se realizó el proceso de despliegue para la primera ve
 </tr>
 <tr>
     <td colspan="5">Sprint 3 Goal</td>
-       <td colspan="8">El enfoque para este sprint es establecer el núcleo integrado de la plataforma IceTrack. Esto implica conectar la página de inicio pública con la aplicación de usuario funcional (frontend) y un sistema de gestión de datos fundamental (backend). Se espera que esta unificación asegure un punto de entrada sencillo para los usuarios a nuestra aplicación y posibilite la gestión de información esencial, elevando la calidad de la experiencia inicial del usuario y proveyendo al equipo de un cimiento estable para el desarrollo futuro. El resultado exitoso se verificará cuando los usuarios puedan entrar y navegar por la aplicación web central sin obstáculos desde la página de aterrizaje; el sistema de gestión de datos respalde las operaciones para entidades críticas como equipos, solicitudes de servicio, técnicos, reportes y alertas; y la interfaz de usuario logre comunicarse con el sistema de gestión de datos para presentar y manejar dichas entidades principales, probando una conexión operativa entre todos los niveles del sistema./td>
-
+       <td colspan="8">El enfoque para este sprint es establecer el núcleo integrado de la plataforma IceTrack. Esto implica conectar la página de inicio pública con la aplicación de usuario funcional (frontend) y un sistema de gestión de datos fundamental (backend). Se espera que esta unificación asegure un punto de entrada sencillo para los usuarios a nuestra aplicación y posibilite la gestión de información esencial, elevando la calidad de la experiencia inicial del usuario y proveyendo al equipo de un cimiento estable para el desarrollo futuro. El resultado exitoso se verificará cuando los usuarios puedan entrar y navegar por la aplicación web central sin obstáculos desde la página de aterrizaje; el sistema de gestión de datos respalde las operaciones para entidades críticas como equipos, solicitudes de servicio, técnicos, reportes y alertas; y la interfaz de usuario logre comunicarse con el sistema de gestión de datos para presentar y manejar dichas entidades principales, probando una conexión operativa entre todos los niveles del sistema.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 3 Velocity</td>
@@ -2977,7 +2974,7 @@ Enlace: https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717b
 
 ![Sprint1-Trello.png](assets/chapter05/Sprint3-Trello.png)
 <figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 1:</strong> Sprint Backlog 1.
+    <strong>Figura 1:</strong> Sprint Backlog 3.
   </figcaption>
 
 <table border="1">
@@ -3007,7 +3004,7 @@ Enlace: https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717b
     <td colspan="2">Crear endpoint /api/v1/users</td>
     <td colspan="3">Implementar registro con validación de email único y hash de contraseña.</td>
     <td colspan="1">6</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Julio Guillén</td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -3018,7 +3015,7 @@ Enlace: https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717b
     <td colspan="2">Validación de contraseñas</td>
     <td colspan="3">Verificar longitud, complejidad y confirmación de contraseña.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Julio Guillén/td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -3029,7 +3026,7 @@ Enlace: https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717b
     <td colspan="2">Crear endpoint /api/v1/auth/login</td>
     <td colspan="3">Implementar autenticación con JWT y validación de usuario/contraseña.</td>
     <td colspan="1">6</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Kenyi Ramirez</td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -3040,7 +3037,7 @@ Enlace: https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717b
     <td colspan="2">Crear CRUD de equipos</td>
     <td colspan="3">Endpoints para crear, editar, listar y eliminar equipos.</td>
     <td colspan="1">8</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Alejandro Galindo</td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -3051,7 +3048,7 @@ Enlace: https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717b
     <td colspan="2">Validaciones de datos</td>
     <td colspan="3">Validar modelo, número de serie y estado del equipo.</td>
     <td colspan="1">4</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Iván La Madrid</td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -3062,7 +3059,7 @@ Enlace: https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717b
     <td colspan="2">Endpoint POST /api/v1/service-requests</td>
     <td colspan="3">Crear solicitud con datos del equipo, tipo y descripción del problema.</td>
     <td colspan="1">7</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Julio Guillén</td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -3073,7 +3070,7 @@ Enlace: https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717b
     <td colspan="2">Endpoint GET /api/v1/service-status/{id}</td>
     <td colspan="3">Devolver estado actual: pendiente, asignado, en progreso, completado.</td>
     <td colspan="1">4</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Alejandro Galindo</td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -3084,7 +3081,7 @@ Enlace: https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717b
     <td colspan="2">Generar reporte PDF</td>
     <td colspan="3">Crear documento con resultados, repuestos y observaciones.</td>
     <td colspan="1">6</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Julio Guillén/td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -3095,7 +3092,7 @@ Enlace: https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717b
     <td colspan="2">CRUD de técnicos</td>
     <td colspan="3">Registro, edición y asignación de roles (técnico).</td>
     <td colspan="1">7</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Kenyi Ramirez</td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -3106,7 +3103,7 @@ Enlace: https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717b
     <td colspan="2">Endpoint asignación técnica</td>
     <td colspan="3">Asignar un técnico a una solicitud y enviar notificación.</td>
     <td colspan="1">5</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Alejandro Galindo</td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -3117,7 +3114,7 @@ Enlace: https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717b
     <td colspan="2">Integrar sistema de notificaciones</td>
     <td colspan="3">Enviar alertas ante cambios de estado o problemas del servicio.</td>
     <td colspan="1">6</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Kenyi Ramirez</td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -3128,7 +3125,7 @@ Enlace: https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717b
     <td colspan="2">Endpoint POST /api/v1/reviews</td>
     <td colspan="3">Registrar calificación y permitir edición dentro del plazo.</td>
     <td colspan="1">4</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Iván La Madrid</td>
     <td colspan="1">To Do</td>
 </tr>
 </table>
@@ -3594,11 +3591,239 @@ Backend:
 
 #### 5.2.4.1. Sprint Planning 4
 
+<table>
+<tr>
+    <th colspan="5">Sprint 4</th>
+    <th colspan="9">Sprint 4</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-10-03</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">6:00 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Kenyi Ramirezy</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Alejandro Galindo, Julio Guillen, Ivan La Madrid, Kenyi Ramírez</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Review Summary</td>
+    <td colspan="8">Se realizó el despliegue del Frontend y Backend, implementando funcionalidades orientadas al primer y segundo segmento objetivo.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Retrospective Summary</td>
+    <td colspan="8">El equipo acordó encargarse de las tareas asignadas y colaborar con las demás áreas del proyecto del Frontend y Backend para alcanzar nuestro objetivo.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Goal</td>
+       <td colspan="8">El objetivo de este sprint es completar la integración principal de IceTrack conectando directamente el frontend con el backend. Esto implica enlazar la página con la aplicación de usuario y establecer la comunicación operativa con el sistema de gestión de datos. Con esta conexión final, los usuarios podrán ingresar y navegar sin problemas desde la página de inicio hasta la aplicación central, mientras que el backend proporcionará el soporte necesario para manejar entidades clave como equipos, solicitudes de servicio, técnicos, reportes y alertas. La integración entre la interfaz y el sistema de datos confirmará que ambos lados de la aplicación funcionan juntos, marcando un paso crucial hacia la finalización de la plataforma.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Velocity</td>
+    <td colspan="8">90</td>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">90</td>
+</tr>
+</table>
+
 #### 5.2.4.2. Aspect Leaders and Collaborators
+
+Durante este cuarto Sprint, el equipo se enfocó en avanzar y refinar tanto la estructura y el diseño del frontend como la mayor parte de los endpoints del backend, con el objetivo de dejar ambas partes listas para su integración. Además, para organizar de forma más eficiente el trabajo colaborativo, se creó la matriz de Liderazgo y Colaboración (LACX), donde se asignan claramente las responsabilidades de cada miembro en los aspectos centrales del Sprint.
+
+<table border="1">
+  <tr>
+    <td colspan="2"><strong>Team Member (Last Name, First Name)</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Service Request Management<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Assets Managements and Equipment<br>Leader (L) / Collaborator (C)</strong></td>
+	<td><strong>Dashboard and Analytics<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Despliegue de la aplicación web<br>Leader (L) / Collaborator (C)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Ramírez Cabrera, Kenyi Efrain</td>
+    <td>Kenyi15upc</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+	<td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Galindo Montero, Alejandro Manuel </td>
+    <td>AlejandroG12970</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+	<td>L</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Guillen Galindo, Julio Adolfo </td>
+    <td>julio645</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+	<td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">La Madrid Lozano, Ivan Jeanpierre</td>
+    <td>ivanlamadrid</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+	<td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">Nanfuñay Liza, Pedro Jesus</td>
+    <td>PedroJ18</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+	<td>C</td>
+  </tr>
+</table>
 
 #### 5.2.4.3. Sprint Backlog 4
 
+En este Sprint nos enfocamos principalmente en la integración completa entre el frontend y el backend de IceTrack. Todas las funcionalidades desarrolladas en sprints anteriores fueron conectadas, probadas y ajustadas para asegurar que la plataforma funcione de manera coherente y estable. Organizamos el trabajo basándonos en las User Stories correspondientes, garantizando un avance ordenado y alineado con los objetivos técnicos y operativos del proyecto.
+
+Enlace: 
+
+![Sprint1-Trello.png](assets/chapter05/Sprint3-Trello.png)
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Sprint Backlog 4.
+  </figcaption>
+
+<table border="1">
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 4</th>
+</tr>
+
+<tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+</tr>
+
+<tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation (Hours)</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status</td>
+</tr>
+<tr>
+    <td colspan="1">US-01</td>
+    <td colspan="2">Integración de registro de usuario</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Conectar formulario con API final</td>
+    <td colspan="3">Validar envío al endpoint real y manejar errores de backend (mail duplicado, contraseña inválida).</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Julio Guillén</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-02</td>
+    <td colspan="2">Integración de inicio de sesión</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Sincronizar JWT con frontend</td>
+    <td colspan="3">Guardar token seguro, manejar expiración y redirección correcta al dashboard.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramirez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-03</td>
+    <td colspan="2">Gestión de equipos</td>
+    <td colspan="1">UT-03</td>
+    <td colspan="2">Integrar listado de equipos con API</td>
+    <td colspan="3">Conectar tabla con Equipment y mostrar estados reales.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramirez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-06</td>
+    <td colspan="2">Control de encendido/apagado</td>
+    <td colspan="1">UT-04</td>
+    <td colspan="2">Integrar botón de encendido con API</td>
+    <td colspan="3">Enviar comando con el Id y actualizar estado visual.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Pedro Nanfuñay</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-07</td>
+    <td colspan="2">Control de temperatura</td>
+    <td colspan="1">UT-05</td>
+    <td colspan="2">Integrar slider con endpoint de temperatura</td>
+    <td colspan="3">Actualizar temperatura en tiempo real llamando el tipo de equipo del usuario.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Pedro Nanfuñay</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-08</td>
+    <td colspan="2">Solicitar mantenimiento</td>
+    <td colspan="1">UT-06</td>
+    <td colspan="2">Integrar formulario con API de servicios</td>
+    <td colspan="3">Enviar solicitudes a endpoints y confirmar recepción.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Iván La Madrid</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-09</td>
+    <td colspan="2">Seguimiento del servicio</td>
+    <td colspan="1">UT-07</td>
+    <td colspan="2">Conectar tracking con API</td>
+    <td colspan="3">Actualizar estados (pendiente, en camino, en proceso, finalizado) desde backend.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Iván La Madrid</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-12</td>
+    <td colspan="2">Historial de servicios</td>
+    <td colspan="1">UT-08</td>
+    <td colspan="2">Leer servicios desde API</td>
+    <td colspan="3">Mostrar tabla real de pagina desde Site.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Alejandro Galindo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-21</td>
+    <td colspan="2">Notificaciones</td>
+    <td colspan="1">UT-09</td>
+    <td colspan="2">Integrar sistema de notificaciones</td>
+    <td colspan="3">Conectar con WebSockets o servicio push y mostrar alertas en frontend.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Alejandro Galindo</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
 #### 5.2.4.4. Development Evidence for Sprint Review
+
+
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 

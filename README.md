@@ -3476,67 +3476,18 @@ En el Sprint 3 se desplegó la segunda versión de la Web Application de IceTrac
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-**Register:**
+Para esta entrega, desplegamos una nueva versión del Frontend, primera versión del backend y además desplegamos nuestra base de datos para que pueda ser conectada en nuestro backend.
 
-![RegisterFrontV2](./assets/chapter05/RegisterFrontV2.png)
+**Frontend Deployment**
+![FrontEndDeployment](./assets/chapter05/deploy-frontend-tb2.png)
 
+**Backend Deployment**
+![BackEndDeployment](./assets/chapter05/deploy-backend-tb2.png)
 
-<br>
+**Database Deployment**
+![DatabaseDeployment](./assets/chapter05/deploy-database-tb2.jpg)
 
-**Login:**
-
-![LoginFrontV2](./assets/chapter05/LoginFrontV2.png)
-
-<br>
-
-**Dashboard:**
-
-![DashboardFrontV2](./assets/chapter05/DashboardFrontV2.png)
-
-<br>
-
-**Sites:**
-
-![SitesFrontV2](./assets/chapter05/SitesFrontV2.png)
-![SitesDetailFrontV2](./assets/chapter05/SitesDetailFrontV2.png)
-
-<br>
-
-**Equipments:**
-
-![EquipmentsFrontV2](./assets/chapter05/EquipmentsFrontV2.png)
-![EquipmentsDetailFrontV2](./assets/chapter05/EquipmentsDetailFrontV2.png)
-
-<br>
-
-**Services:**
-
-![ServicesFrontV2](./assets/chapter05/ServicesFrontV2.png)
-![CreateServiceFrontV2](./assets/chapter05/CreateServiceFrontV2.png)
-
-<br>
-
-**Alerts:**
-
-![AlertsFrontV2](./assets/chapter05/AlertsFrontV2.png)
-
-<br>
-
-**Reports:**
-
-![ReportsFrontV2](./assets/chapter05/ReportsFrontV2.png)
-![CreateReportFrontV2](./assets/chapter05/CreateReportFrontV2.png)
-![EditReportFrontV2](./assets/chapter05/EditReportFrontV2.png)
-
-<br>
-
-**Profile:**
-
-![ProfileFrontV2](./assets/chapter05/ProfileFrontV2.png)
-![SettingsFrontV2](./assets/chapter05/SettingsFrontV2.png)
-
-
-BACKEND:
+**Swagger desde el deploy de nuestro backend**
 ![BACKDEPLOY1.png](assets/chapter05/BACKDEPLOY1.png)
 
 ![BACKDEPLOY2.png](assets/chapter05/BACKDEPLOY2.png)

@@ -209,15 +209,15 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
             - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
             - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
             - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
-        - [5.2.4. Sprint 4](#523-sprint-4)
-            - [5.2.4.1. Sprint Planning 4](#5231-sprint-planning-4)
+        - [5.2.4. Sprint 4](#524-sprint-4)
+            - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
             - [5.2.4.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
-            - [5.2.4.3. Sprint Backlog 4](#5233-sprint-backlog-4)
-            - [5.2.4.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
-            - [5.2.4.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
-            - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
-            - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
-            - [5.2.4.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+            - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+            - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+            - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+            - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+            - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+            - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
     - [5.3. Validation Interviews](#53-validation-interviews)
         - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
         - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -283,7 +283,7 @@ Visión: Ser la empresa líder en la gestión y el mantenimiento de equipos de r
 | **Código del Estudiante** | u202113432																	  |
 | **Carrera**               | Ingeniería de Software														  |
 | **Descripción**           | Soy un estudiante de la ingeniería de software. Actualente me gusta el desarrollo de solucines innovadores meidante la tecnología. Me encanta proponer soluciones para problemas que requieran innovación y tecnología. Ne considero alguien proactivo y colaborativo. Con entusiasmo espero aportar valor al equipo y a distintos proyectos.			  |
-| **Foto**                  | <img src="assets/chapter01/ivan_logo.jpg" alt="Julio" width="200" height="200"> |
+| **Foto**                  | <img src="assets/chapter01/ivan_logo.jpg" alt="Ivan" width="200" height="200"> |
 
 ---
 

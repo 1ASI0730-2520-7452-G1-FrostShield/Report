@@ -190,7 +190,7 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
             - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
             - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
             - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-            - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+            - [5.2.1.8. ](#5218-team-collaboration-insights-during-sprint)
         - [5.2.2. Sprint 2](#522-sprint-2)
             - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
             - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
@@ -199,7 +199,7 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
             - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
             - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
             - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-            - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+            - [5.2.2.8. ](#5228-team-collaboration-insights-during-sprint)
         - [5.2.3. Sprint 3](#523-sprint-3)
             - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
             - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
@@ -4046,6 +4046,12 @@ Para esta entrega, desplegamos una nueva versión del Frontend, segunda versión
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
+Frontend:
+![Insights-TB2FRONT.png](assets/chapter05/Insights-TFFRONT.png)
+
+Backend:
+![InsightsTB2BACKEND.png](assets/chapter05/InsightsTFBACKEND.png)
+
 ## 5.3. Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
@@ -4534,7 +4540,7 @@ En conjunto, el video no solo presenta el producto, sino que lo posiciona como u
 
 URL de la Versión Publicada
 
-- **Link de OneDrive:** `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220138_upc_edu_pe/IQDqUJmb8HpsQ7D88N1V05G-AWhir566m1pHdZ75Tv07gzk?e=hCdsaI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D` about the product
+- **Link de OneDrive:** https://www.youtube.com/watch?v=BIWXxVJlkKk
 
 # Conclusiones
 
@@ -4565,8 +4571,8 @@ El video cierra con una reflexión grupal sobre todo lo aprendido, resaltando ta
 
 **URLs de la Versión Publicada**
 
-- Link en OneDrive: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQCbkEjCpbx-S44VBM-4bmjrASr_-R7yb5ajrTRVoCqDd_M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LYPOfe`
-
+- Link en OneDrive: https://www.youtube.com/watch?v=Au_UI13KXkM
+  
 # Bibliografía
 
 # Anexos
@@ -4616,9 +4622,7 @@ El video cierra con una reflexión grupal sobre todo lo aprendido, resaltando ta
   https://api-icetrack-platform.onrender.com
   
 - **Video About-The-Team:** <br>
-  - YouTube: 
-  - One Drive:
+  - YouTube: https://www.youtube.com/watch?v=Au_UI13KXkM
     
 - **Video About-The-Product:**
-  - YouTube: 
-  - One Drive: 
+  - YouTube: https://www.youtube.com/watch?v=BIWXxVJlkKk

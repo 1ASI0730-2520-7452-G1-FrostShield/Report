@@ -3616,7 +3616,7 @@ Backend:
 </tr>
 <tr>
     <td colspan="5">Attendees (to planning meeting)</td>
-    <td colspan="8">Alejandro Galindo, Julio Guillen, Ivan La Madrid, Kenyi Ramírez</td>
+    <td colspan="8">Alejandro Galindo, Julio Guillen, Ivan La Madrid, Pedro Nanfuñay, Kenyi Ramírez</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 3 Review Summary</td>
@@ -3826,6 +3826,70 @@ Enlace:
 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
+
+En el Sprint 4 se desplegó la última versión de la Web Application de IceTrack, implementando mejoras complementarias y esenciales para garantizar la eficiencia de cada una de las secciones de la aplicación. A continuación, se presentan las evidencias:
+
+*Owner View:*
+
+**Register:**
+
+![RegisterFrontVF](assets/chapter05/RegisterFrontVF.png)
+
+**Login:**
+
+![LoginFrontVF](assets/chapter05/LoginFrontVF.png)
+
+**Dashboard:**
+
+![DashboardFrontVF](assets/chapter05/DashboardFrontVF.png)
+
+![DashboardAddCardFrontVF](assets/chapter05/DashboardAddCardFrontVF.png)
+
+![DashboardEditCardFrontVF](assets/chapter05/DashboardEditCardFrontVF.png)
+
+**Sites:**
+
+![SitesFrontVF](assets/chapter05/SitesFrontVF.png)
+![SitesDetailFrontVF](assets/chapter05/SiteDetailFrontVF.png)
+
+**Equipments:**
+
+![EquipmentsFrontVF](assets/chapter05/EquipmentsFrontVF.png)
+![EquipmentsDetailFrontVF](assets/chapter05/EquipmentDetailFrontVF.png)
+
+**Services Requests:**
+
+![ServicesFrontVF](assets/chapter05/ServicesFrontVF.png)
+![AddServicesFrontVF](assets/chapter05/AddServiceRequestFrontVF.png)
+
+**Alerts:**
+
+![AlertsFrontVF](assets/chapter05/AlertsFrontVF.png)
+
+**Reports:**
+
+![ReportsFrontVF](assets/chapter05/ReportsFrontVF.png)
+![AddReportFrontVF](assets/chapter05/AddReportFrontVF.png)
+![ReportsDetailFrontVF](assets/chapter05/ReportDetailFrontVF.png)
+![EditReportFrontVF](assets/chapter05/EditReportFrontVF.png)
+
+<br>
+
+*Service Provider View:*
+
+**Dashboard:**
+
+![DashboardProviderFrontVF](assets/chapter05/ProviderDashboardVF.png)
+
+**Provider Services:**
+
+![ServicesHubFrontVF](assets/chapter05/ServicesHubFrontVF.png)
+![ServicesRequestsFrontVF](assets/chapter05/ProviderServicesFrontVF.png)
+
+**Technician Management:**
+
+![TechnicianManagementFrontVF](assets/chapter05/TechnicianManagementFrontVF.png)
+
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 

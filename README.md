@@ -4578,24 +4578,6 @@ El video cierra con una reflexión grupal sobre todo lo aprendido, resaltando ta
 # Anexos
 
 ## Recursos y enlaces del proyecto
-
-- **Wireframes and Mockups:** <br>
-
-
-- **Web Applications Wireflow Diagrams:** <br>
-
-  
-- **Diagrama de clases:** <br>
-
-  
-- **Diagrama de base de datos:** <br>
-
-
-- **Web Applications User Flow Diagrams:** <br>
-
-
-- **Link de Trello (Sprints Backlog):** <br>
-
   
 - **URL de la organización del proyecto:** <br>
   https://github.com/1ASI0730-2520-7452-G1-FrostShield

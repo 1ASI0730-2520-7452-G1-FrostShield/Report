@@ -3939,10 +3939,10 @@ Enlace:
 ![interventions-swagger](./assets/chapter05/interventions-swagger.png)
 
 **ServiceRequests**
-![Service-requests-swagger](./assets/chapter05/service-requests-swagger.png)
+![Service-requests-swagger](./assets/chapter05/service-request-swagger.png)
 
 **Authentication**
-![authentication-swagger](./assets/chapter05/authentication-swagger.png)
+![autentication-swagger](./assets/chapter05/autentication-swagger.png)
 
 **Users**
 ![users-swagger](./assets/chapter05/users-swagger.png)

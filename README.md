@@ -3775,7 +3775,89 @@ Enlace:
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
+En esta sección se presentan los commits realizados en el repositorio de backend y frontend durante el sprint 4.
 
+**Commits realizados en el repositorio de frontend durante el sprint 4:**
+
+<table>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(auth): create login UI for monitoring platform</td>
+	    <td colspan="2">Implemented login screen with form validation and error messages.</td>
+	    <td colspan="2">02/12/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(auth): integrate login API with JWT</td>
+	    <td colspan="2">Connected login form with authentication endpoint, added token handling.</td>
+	    <td colspan="2">01/12/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">fix(ui): correct login redirection</td>
+	    <td colspan="2">Fixed landing-page navigation to correctly route users to login.</td>
+	    <td colspan="2">04/12/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Frontend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">chore: merge develop into feature/frontend-sprint2</td>
+	    <td colspan="2">Merged all completed frontend features from Sprint 2.</td>
+	    <td colspan="2">03/12/2025</td>
+	</tr>
+</table>
+
+**Commits realizados en el repositorio de backend durante el sprint 4:**
+
+<table>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(auth): create user registration endpoint</td>
+	    <td colspan="2">Added POST /api/v1/auth/register with DTO, validation, hashing and persistence.</td>
+	    <td colspan="2">02/12/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(auth): implement user registration service & mapper</td>
+	    <td colspan="2">Connected controller → service → repository for user registration flow.</td>
+	    <td colspan="2">01/12/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">feat(auth): add login endpoint with JWT</td>
+	    <td colspan="2">Created POST /api/v1/auth/login issuing JWT tokens and refresh tokens.</td>
+	    <td colspan="2">01/12/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">fix(auth): correct login redirect & unauthorized handler</td>
+	    <td colspan="2">Fixed unauthorized responses returning 401 and improved error messages.</td>
+	    <td colspan="2">03/12/2025</td>
+	</tr>
+	<tr>
+	    <td colspan="2">FrostShield/IceTrack---Backend</td>
+	    <td colspan="2">develop</td>
+	    <td colspan="2">N/A</td>
+	    <td colspan="2">Merge branch 'develop' into feature/backend-sprint4</td>
+	    <td colspan="2">Merged backend tasks for Sprint 2 including auth, technicians & equipment modules.</td>
+	    <td colspan="2">04/12/2025</td>
+	</tr>
+</table>
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 

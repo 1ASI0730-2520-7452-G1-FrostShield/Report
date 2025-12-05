@@ -4030,9 +4030,9 @@ El video cierra con una reflexión grupal sobre todo lo aprendido, resaltando ta
 
 **Despliegue de Landing Page:** [`https://1asi0730-2520-7452-g1-frostshield.github.io/IceTrack---Landing-Page/`](https://1asi0730-2520-7452-g1-frostshield.github.io/IceTrack---Landing-Page/)
 
-**Despliegue de Fake API:** [`https://icetrack-json-api.onrender.com/](https://icetrack-json-api.onrender.com/`)
+**Despliegue de Fake API:** [`https://icetrack-json-api.onrender.com/`](https://icetrack-json-api.onrender.com/)
 
 **Despliegue del Frontend:** [`https://ice-track-frontend.vercel.app/`](https://ice-track-frontend.vercel.app/)
 
-**Despliegue del Backend:** [`https://api-icetrack-platform.onrender.com/`](https://api-icetrack-platform.onrender.com)
+**Despliegue del Backend:** [`https://icetrack-platform.onrender.com/`](https://icetrack-platform.onrender.com)
 

@@ -3831,6 +3831,17 @@ Enlace:
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
+Para esta entrega, desplegamos una nueva versión del Frontend, segunda versión del backend y además desplegamos una nueva base de datos para que pueda ser conectada en nuestro backend.
+
+**Frontend Deployment**
+![FrontEndDeployment](./assets/chapter05/deploy-frontend-tf.png)
+
+**Backend Deployment**
+![BackEndDeployment](./assets/chapter05/deploy-backend-tf.png)
+
+**Database Deployment**
+![DatabaseDeployment](./assets/chapter05/deploy-database-tf.png)
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
 ## 5.3. Validation Interviews

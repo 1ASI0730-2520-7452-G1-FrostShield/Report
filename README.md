@@ -37,27 +37,42 @@
 
 <div align="center">
  
-| Versión | Fecha      | Autor             | Descripción de modificación                        |
-| :-----: | :--------: | :---------------: | :------------------------------------------------- |
-| 0.1     | 13/09/2025 | Kenyi Ramírez     | Elaboración de la estructura inicial del reporte   |
-| 0.2     | 13/09/2025 | Alejandro Galindo | Desarrollo del Capitulo I                          |
-| 0.3     | 14/09/2025 | Julio Guillen     | Desarrollo del Capitulo III                        |
-| 0.4     | 15/09/2025 | Ivan Lozano       | Desarrollo del Capitulo II                         |
-| 0.5     | 18/09/2025 | Pedro Nanfuñay    | Desarrollo del Capitulo IV                         |
-| 0.6     | 11/10/2025 | FrostShield       | Desarrollo del Capitulo V, Landing Page y Frontend |
-| 0.7     | 16/11/2025 | Kenyi Ramírez     | Pull Request del projecto                          |
-| 0.8     | 16/11/2025 | FrostShield       | Desarrollo del Capitulo V, Frontend y BackEnd      |
+| Versión | Fecha      | Autor             | Descripción de modificación                        	|
+| :-----: | :--------: | :---------------: | :----------------------------------------------------- |
+| 0.1     | 13/09/2025 | Kenyi Ramírez     | Elaboración de la estructura inicial del reporte   	|
+| 0.2     | 13/09/2025 | Alejandro Galindo | Desarrollo del Capitulo I                          	|
+| 0.3     | 14/09/2025 | Julio Guillen     | Desarrollo del Capitulo III                        	|
+| 0.4     | 15/09/2025 | Ivan Lozano       | Desarrollo del Capitulo II                         	|
+| 0.5     | 18/09/2025 | Pedro Nanfuñay    | Desarrollo del Capitulo IV                         	|
+| 0.6     | 11/10/2025 | FrostShield       | Desarrollo del Capitulo V, Landing Page y Frontend 	|
+| 0.7     | 16/11/2025 | Kenyi Ramírez     | Pull Request del projecto                          	|
+| 0.8     | 16/11/2025 | FrostShield       | Desarrollo del Capitulo V, Frontend y BackEnd     		|
+| 0.9     | 03/12/2025 | Kenyi Ramírez     | Desarrollo Frontend para el segundo segmento objetivo  |
+| 1.0     | 03/12/2025 | Alejandro Galindo | Desarrollo del nuevo C4 e historias de usuario 		|
+| 1.1     | 03/12/2025 | Julio Guillen     | Desarrollo BackEnd para Assets-Management y Monitoring |
 
 </div>
 
 ## Project Report Collaboration Insights
 
-- **URL de la organización del proyecto:**  [`https://github.com/1ASI0730-2520-7452-G1-FrostShield`](https://github.com/1ASI0730-2520-7452-G1-FrostShield)
-- **URL del repositorio del informe del proyecto:**  [`https://github.com/1ASI0730-2520-7452-G1-FrostShield/Report`](https://github.com/1ASI0730-2520-7452-G1-FrostShield/Report)
-- **URL del repositorio del landing page del proyecto:**  [`https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page`](https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page)
-- **URL de repositorio Frontend Applications del proyecto** [`https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack-Frontend`](https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack-Frontend)
+- **URL de la organización del proyecto:** <br>
+  https://github.com/1ASI0730-2520-7452-G1-FrostShield
+  
+- **URL del repositorio del reporte:** <br>
+  https://github.com/1ASI0730-2520-7452-G1-FrostShield/Report
+  
+- **URL del repositorio de la Landing Page:** <br>
+  https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page
+  
+- **URL del repositorio del Frontend:** <br>
+  https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack-Frontend
+  
+- **URL del repositorio del Backend:** <br>
+  https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack-Platform
 
 Durante la fase de preparación del informe, se llevaron a cabo las siguientes actividades:
+
+**TB1:** Las tareas asignadas a la TB1 han sido finalizadas y se encuentran correctamente documentadas en el repositorio de GitHub:
 
 - Se redactaron y crearon los contenidos asignados a cada miembro utilizando formato Markdown, y se realizaron "Conventional Commits" para documentar el avance en el repositorio.
 - Se generaron los recursos necesarios y se añadieron las imágenes al repositorio en la carpeta "assets" correspondiente a cada rama del informe.
@@ -67,21 +82,30 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
 
 ![NetworkGraph](assets/chapter01/NetworkGraph-TB1.png)
 
-**TP1:** Las tareas asignadas a la TP1 han sido finalizadas y se encuentran correctamente documentadas en el repositorio de GitHub.
+**TP:** Las tareas asignadas a la TP han sido finalizadas y se encuentran correctamente documentadas en el repositorio de GitHub:
 
-- Se implementaron los bounded context de las aplicaciones Frontend del proyecto.
+- 
 
-- Se generaron los recursos necesarios y se añadieron las imágenes al repositorio en la carpeta "assets" correspondiente a cada rama del informe.
+![InsightsTB1](assets/chapter01/Insights-TB2.png)
 
-- Se organizaron reuniones para coordinar el progreso de los componentes del informe y del Sprint 2, enfocado en los FrontEnd Applications y en su despliegue. 
+![NetworkGraph](assets/chapter01/NetworkGraph-TB2.png)
 
-**TB2:** Las tareas asignadas a la TB2 han sido completadas y se encuentran debidamente documentadas en el repositorio de GitHub.
+**TB2:** Las tareas asignadas a la TB2 han sido completadas y se encuentran debidamente documentadas en el repositorio de GitHub:
 
-- Se implementaron los bounded contexts correspondientes a las aplicaciones Frontend del proyecto, y actualmente se han comenzado a desarrollar y estructurar los componentes principales del Backend, avanzando en la definición de entidades, casos de uso y servicios necesarios.
-
+- Se implementaron los bounded contexts correspondientes a las aplicaciones Frontend del proyecto, y actualmente se han comenzado a desarrollar y estructurar los componentes principales del Backend, avanzando en las entidades, casos de uso y servicios necesarios.
 - Se generaron los recursos requeridos y se añadieron las imágenes al repositorio dentro de la carpeta "assets" correspondiente a cada rama del informe.
-
 - Además, se organizaron reuniones de coordinación para revisar el progreso tanto del informe como del Sprint 3, inicialmente centrado en el mejoramiento de los FrontEnd Applications y ahora también en la construcción y consolidación del Backend y su despliegue.
+
+![InsightsTB1](assets/chapter01/Insights-TF.png)
+
+![NetworkGraph](assets/chapter01/NetworkGraph-TF.png)
+
+**TF:** Las tareas asignadas a la TF han sido completadas y se encuentran debidamente documentadas en el repositorio de GitHub.
+
+- Se añadieron los recursos gráficos necesarios al repositorio dentro de las carpetas correspondientes y se propuso una estructura más escalable para la gestión.
+- Se organizaron reuniones de planificación para evaluar el avance del informe y del sprint 4, ampliando el enfoque desde la mejora del Frontend hacia la consolidación del Backend y su despliegue.
+- Se completó la implementación del Backend al Frontend.
+- Se redactó la documentación asignada en formato Markdown y se registraron avances mediante Conventional Commits.
 
 ## Contenido
 
@@ -166,7 +190,7 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
             - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
             - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
             - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-            - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+            - [5.2.1.8. ](#5218-team-collaboration-insights-during-sprint)
         - [5.2.2. Sprint 2](#522-sprint-2)
             - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
             - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
@@ -175,39 +199,50 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
             - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
             - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
             - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-            - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+            - [5.2.2.8. ](#5228-team-collaboration-insights-during-sprint)
         - [5.2.3. Sprint 3](#523-sprint-3)
             - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
             - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
-            - [5.2.3.3. Sprint Backlog 2](#5233-sprint-backlog-2)
+            - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
             - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
             - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
             - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
             - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
             - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+        - [5.2.4. Sprint 4](#524-sprint-4)
+            - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+            - [5.2.4.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+            - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+            - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+            - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+            - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+            - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+            - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
+    - [5.3. Validation Interviews](#53-validation-interviews)
+        - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+        - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+        - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+    - [5.4. Video About-the-Product](#54-video-about-the-product)
 
 - [Conclusiones](#conclusiones)
+- [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+- [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
-
 
 ## Student Outcome
 El curso contribuye al cumplimiento del Student Outcome ABET:
 
 **ABET – EAC - Student Outcome 5**
 
-**Criterio**: *La capacidad de funcionar efectivamente en un equipo cuyos miembros
-juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
-establecen objetivos, planifican tareas y cumplen objetivos.*
+**Criterio**: *La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.*
 
-En el siguiente cuadro se describe las acciones realizadas y enunciados de
-conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
-del ABET – EAC - Student Outcome 5.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
 
 | Criterio específico                                                                             | Acciones realizadas                                                      | Conclusiones                   |
 |-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                 | <ul><li><b>Galindo Montero, Alejandro Manuel</b><br><b>TB1</b>: Durante el proyecto participé de manera activa en la coordinación del equipo y la organización de tareas y la búsqueda conjunta de soluciones para cumplir con los objetivos establecidos. <br><b>TP1</b>: Durante el desarrollo de esta entrega, apoyé a mis compañeros en la realización de diversas tareas y en la resolución de dudas. Asimismo, corregí secciones de la TB1 como User Stories y Product Backlog, y colaboré en el desarrollo del Sprint 2 y del capítulo 5, promoviendo el liderazgo compartido dentro del grupo. <br><b>TB2</b>: A nivel backend, brindé soporte en la revisión de la estructura general de los endpoints, validando la coherencia entre controladores, servicios y modelos. Además, participé en discusiones técnicas para asegurar que el diseño de la API se mantuviera escalable y alineado con las necesidades del sistema. </li><li><b>Guillen Galindo, Julio Adolfo</b><br><b>TB1</b>: Durante el desarrollo del trabajo, he colaborado de forma continua en la parte del capitulo IV, mostrando soluciones apropiados a las especificaciones necesarias de cada parte. <br><b>TP1</b>: Participé en la elaboración y mejora de los wireframes, optimizando la experiencia del usuario y facilitando la comunicación entre los miembros del equipo de diseño y desarrollo. <br> <b>TB2</b>: En el ámbito backend, contribuí con observaciones relacionadas a la lógica de negocio y la estructura de datos necesaria para implementar las funcionalidades propuestas. Brindé recomendaciones sobre la organización de los endpoints para mantener un backend modular y mantenible. </li><li><b>La Madrid Lozano, Ivan Jeanpierre</b><br><b>TB1</b>: He colaborado en equipo en lso principales canales de comunicación como whatsapp y discord. También estuve presente en las distintas reuniones y trabajado colaborativamente. <br><b>TP1</b>: Organicé las tareas pendientes del equipo para definir su correcta distribución entre los integrantes, contribuyendo a mantener la eficiencia y el cumplimiento de los plazos establecidos. <br> <b>TB2</b>: Desde el enfoque backend, apoyé en la definición de las rutas principales y en la validación de los esquemas base para los controladores. También coordiné con el equipo para asegurar consistencia entre los documentos técnicos (diagramas y estructura de clases) y la implementación futura del servidor </li><li><b>Nanfuñay Liza, Pedro Jesus</b> <br><b>TB1</b>: Durante el desarrollo del presente proyecto, participé activamente en las reuniones y toma de decisiones del equipo. Así mismo, contribuí a la coordinación de tareas y propuesta de soluciones, demostrando capacidad de liderazgo de forma colaborativa y responsabilidad con el desarrollo del proyecto y del equipo. <br><b>TP1</b>: Realicé la identificación de fallas y observaciones dentro del proyecto, asegurando la mejora continua del trabajo en equipo. <br> <b>TB2</b>: Con respecto al backend, realicé observaciones sobre la estructura del modelo de datos, proponiendo ajustes para mejorar la integridad y relación entre entidades. Además, participé en la identificación de potenciales flujos críticos donde la API debe manejar validaciones adicionales. <li><b>Ramirez Cabrera, Kenyi Efrain</b><br><b>TB1</b>: A lo largo del desarrollo, colaboré en la organización de las tareas y en la generación de propuestas para resolver problemas, mostrando liderazgo colaborativo y compromiso tanto con el progreso del proyecto como con el crecimiento del equipo. <br><b>TP1</b>: Participé activamente en las reuniones de coordinación, colaborando en la toma de decisiones junto con mis compañeros y reforzando la comunicación y el liderazgo compartido del grupo. <br><b>TB2</b>: En cuanto al backend, apoyé en la definición y actualización del diagrama de clases y la estructura de la base de datos, asegurando que el backend mantenga cohesión con los requerimientos funcionales. También facilité discusiones para definir responsabilidades entre módulos backend. </ul> | <ul><li><b>TB1</b>: Como equipo logramos identificar y desarrollar ideas de negocio; realizamos entrevistas y construimos modelos de los capitulos, con el fin de obtener una visión más precisa sobre cómo funcionará el software. <br> </li><li><b>TP1</b>: El liderazgo fue ejercido de manera colaborativa entre los miembros del equipo, promoviendo la organización, la comunicación constante y el cumplimiento de los objetivos planteados. <br> </li><li><b>TB2</b>: En el aspecto backend, el equipo demostró liderazgo compartido al coordinar decisiones técnicas relacionadas con la estructura de la API, los modelos de datos y la organización de módulos. Cada integrante aportó desde su rol para mantener coherencia en la arquitectura, promover buenas prácticas y alinear el diseño backend con los objetivos funcionales del sistema. </li></ul> |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | <ul><li><b>Galindo Montero, Alejandro Manuel</b><br><b>TB1</b>: Empleeé una organización para estructurar y gestionar las tareas de forma colaborativa, priorizando actividades según los plazos planificados, para maximizar la eficiencia del equipo y el cumplimiento de metas. <br><b>TP1</b>: Diseñé el formato de organización en Trello y, junto con mi equipo, definí los bounded contexts de la aplicación web. Además, destaqué observaciones y puntos de mejora para optimizar la planificación del proyecto. <br> <b>TB2</b>: Para el backend, colaboré revisando la separación de responsabilidades en los contextos y asegurando que los módulos backend tuvieran límites claros y coherentes con la arquitectura planificada. </li><li><b>Guillen Galindo, Julio Adolfo</b><br><b>TB1</b>: Organize mi timepo apra realizar lapropuesta de trabajo, ademas de organizar entrevistas que eran un requerimiento en los objetivos a realizar. <br><b>TP1</b>: Desarrollé prototipos visuales y mockups interactivos que facilitaron la comunicación entre el equipo de diseño y el desarrollo frontend, contribuyendo a la alineación de los objetivos visuales del producto. <br> <b>TB2</b>: Brindé aportes generales sobre cómo las vistas propuestas debían conectarse con los endpoints del backend, identificando qué datos serían necesarios y anticipando posibles validaciones desde la API. </li><li><b>La Madrid Lozano, Ivan Jeanpierre</b> <br><b>TB1</b>: Fui responsable del diseño de los wireframes de la Landing Page y de la organización de las ramas y la estructura del repositorio en GitHub. <br><b>TB1</b>: Fui participé en las decisiones del equipo asu como su planificación y desarrollo. Mediante aplicaicones como Trello se desplego y evidenció las distintas tareas del equipo. <br> <b>TB2</b>: Aporté al backend organizando adecuadamente las ramas del repositorio, facilitando la futura integración del backend mediante una estructura clara para desarrollo conjunto y control de versiones. </li><li><b>Nanfuñay Liza, Pedro Jesus</b><br><b>TB1</b>: Trabajé activamente en el desarrollo del proyecto mediante una organización en Github, plataforma que permite realizar avances en un entorno colaborativo para cumplir con los objetivos establecidos mediante tareas asignadas en plazos previamente planificados. <br><b>TP1</b>: Elaboré los wireflows y userflows del proyecto, aplicando principios de diseño UX para mejorar la usabilidad y experiencia del usuario. <br> <b>TB2</b>: Desde el backend, apoyé revisando los flujos para asegurar que los endpoints requeridos fueran viables y que los datos circularan correctamente entre cliente y servidor. </li><li><b>Ramirez Cabrera, Kenyi Efrain</b><br><b>TB1</b>: Participé de forma activa en el desarrollo del proyecto usando una organización en GitHub, a través de ella se gestionaron los avances, se asignaron tareas y se cumplieron los objetivos dentro de los plazos previamente establecidos. <br><b>TP1</b>: Actualicé el Database Diagram, el Class Diagram y los Lean UX Assumptions, contribuyendo a la documentación técnica y coherencia del sistema <br> <b>TB2</b>: Apoyé al backend mediante la actualización y refinamiento del modelo de datos, asegurando que las relaciones entre entidades sean adecuadas para el funcionamiento correcto del backend y sus endpoints. </li></ul> | <ul><li><b>TB1</b>: Fomentamos un ambiente de trabajo colaborativo e inclusivo, fijamos metas claras, organizamos las tareas y alcanzamos los objetivos propuestos. <br> </li><li><b>TP1</b>: Se fortaleció un entorno colaborativo e inclusivo mediante una planificación conjunta y una comunicación efectiva. Cada integrante participó activamente en la consecución de los entregables, consolidando el compromiso del equipo y el cumplimiento de los objetivos. <br> </li><li><b>TB2</b> En relación al backend, se fortaleció un entorno colaborativo mediante la planificación conjunta de la estructura del sistema, la revisión colectiva de diagramas técnicos y la validación de los flujos de datos. Esto permitió consolidar una base backend organizada, escalable y coherente, logrando una visión unificada del desarrollo y asegurando la integración futura entre los módulos del proyecto. </li></ul> |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                 | <ul><li><b>Galindo Montero, Alejandro Manuel</b> <br> <b>TB1</b>: Durante el proyecto participé de manera activa en la coordinación del equipo y la organización de tareas y la búsqueda conjunta de soluciones para cumplir con los objetivos establecidos. <br> <b>TP1</b>: Durante el desarrollo de esta entrega, apoyé a mis compañeros en la realización de diversas tareas y en la resolución de dudas. Asimismo, corregí secciones de la TB1 como User Stories y Product Backlog, y colaboré en el desarrollo del Sprint 2 y del capítulo 5, promoviendo el liderazgo compartido dentro del grupo. <br> <b>TB2</b>: A nivel backend, brindé soporte en la revisión de la estructura general de los endpoints, validando la coherencia entre controladores, servicios y modelos. Además, participé en discusiones técnicas para asegurar que el diseño de la API se mantuviera escalable y alineado con las necesidades del sistema. <br> <b>TF</b>: Participé activamente en la coordinación del despliegue del backend en el servidor seleccionado. Además, colaboré en la integración con el frontend verificando que las rutas de la API fueran consumidas correctamente desde la aplicación web. </li><li><b>Guillen Galindo, Julio Adolfo</b> <br> <b>TB1</b>: Durante el desarrollo del trabajo, he colaborado de forma continua en la parte del capitulo IV, mostrando soluciones apropiados a las especificaciones necesarias de cada parte. <br> <b>TP1</b>: Participé en la elaboración y mejora de los wireframes, optimizando la experiencia del usuario y facilitando la comunicación entre los miembros del equipo de diseño y desarrollo. <br> <b>TB2</b>: En el ámbito backend, contribuí con observaciones relacionadas a la lógica de negocio y la estructura de datos necesaria para implementar las funcionalidades propuestas. Brindé recomendaciones sobre la organización de los endpoints para mantener un backend modular y mantenible. <br> <b>TF</b>: Contribuí a la integración final entre frontend y backend revisando las solicitudes HTTP y asegurando que los datos enviados y recibidos coincidieran con lo esperado por la interfaz. Además, asistí en pruebas funcionales tras el despliegue para verificar que el frontend consumiera adecuadamente la API desplegada. </li><li><b>La Madrid Lozano, Ivan Jeanpierre</b> <br> <b>TB1</b>: He colaborado en equipo en lso principales canales de comunicación como whatsapp y discord. También estuve presente en las distintas reuniones y trabajado colaborativamente. <br> <b>TP1</b>: Organicé las tareas pendientes del equipo para definir su correcta distribución entre los integrantes, contribuyendo a mantener la eficiencia y el cumplimiento de los plazos establecidos. <br> <b>TB2</b>: Desde el enfoque backend, apoyé en la definición de las rutas principales y en la validación de los esquemas base para los controladores. También coordiné con el equipo para asegurar consistencia entre los documentos técnicos (diagramas y estructura de clases) y la implementación futura del servidor <br> <b>TF</b>: Apoyé en el despliegue del backend asegurando que el repositorio estuviera correctamente estructurado para producción, facilitando la conexión desde el frontend hacia el backend en el entorno final. </li><li><b>Nanfuñay Liza, Pedro Jesus</b> <br> <b>TB1</b>: Durante el desarrollo del presente proyecto, participé activamente en las reuniones y toma de decisiones del equipo. Así mismo, contribuí a la coordinación de tareas y propuesta de soluciones, demostrando capacidad de liderazgo de forma colaborativa y responsabilidad con el desarrollo del proyecto y del equipo. <br> <b>TP1</b>: Realicé la identificación de fallas y observaciones dentro del proyecto, asegurando la mejora continua del trabajo en equipo. <br> <b>TB2</b>: Con respecto al backend, realicé observaciones sobre la estructura del modelo de datos, proponiendo ajustes para mejorar la integridad y relación entre entidades. Además, participé en la identificación de potenciales flujos críticos donde la API debe manejar validaciones adicionales. <br> <b>TF</b>: Participé en la revisión del proceso de despliegue backend, verificando que los servicios estuvieran correctamente levantados y que la API respondiera sin errores. También realicé pruebas desde el frontend para confirmar que la comunicación cliente-servidor estuviera correctamente implementada en producción. <li><b>Ramirez Cabrera, Kenyi Efrain</b> <br> <b>TB1</b>: A lo largo del desarrollo, colaboré en la organización de las tareas y en la generación de propuestas para resolver problemas, mostrando liderazgo colaborativo y compromiso tanto con el progreso del proyecto como con el crecimiento del equipo. <br> <b>TP1</b>: Participé activamente en las reuniones de coordinación, colaborando en la toma de decisiones junto con mis compañeros y reforzando la comunicación y el liderazgo compartido del grupo. <br> <b>TB2</b>: En cuanto al backend, apoyé en la definición y actualización del diagrama de clases y la estructura de la base de datos, asegurando que el backend mantenga cohesión con los requerimientos funcionales. También facilité discusiones para definir responsabilidades entre módulos backend. <br> <b>TF</b>: Colaboré en la configuración y despliegue del backend, asegurando que la estructura de la base de datos fuera compatible con el entorno productivo. También apoyé en la conexión del frontend a la API, verificando que las rutas y respuestas se adecuaran a los requerimientos funcionales finales. </ul> | <ul><li><b>TB1</b>: Como equipo logramos identificar y desarrollar ideas de negocio; realizamos entrevistas y construimos modelos de los capitulos, con el fin de obtener una visión más precisa sobre cómo funcionará el software. <br> </li><li><b>TP1</b>: El liderazgo fue ejercido de manera colaborativa entre los miembros del equipo, promoviendo la organización, la comunicación constante y el cumplimiento de los objetivos planteados. <br> </li><li><b>TB2</b>: En el aspecto backend, el equipo demostró liderazgo compartido al coordinar decisiones técnicas relacionadas con la estructura de la API, los modelos de datos y la organización de módulos. Cada integrante aportó desde su rol para mantener coherencia en la arquitectura, promover buenas prácticas y alinear el diseño backend con los objetivos funcionales del sistema. <br> <b>TF</b>: Como equipo, logramos desplegar el backend en un entorno accesible externamente, configurando correctamente la base de datos, las variables de entorno y la API. Posteriormente, integramos el frontend conectándolo a los endpoints ya operativos, asegurando comunicación estable entre ambas partes. El equipo demostró liderazgo compartido al gestionar en conjunto pruebas, correcciones y validaciones finales para garantizar el funcionamiento completo del sistema en producción. </li></ul> |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | <ul><li><b>Galindo Montero, Alejandro Manuel</b> <br> <b>TB1</b>: Empleeé una organización para estructurar y gestionar las tareas de forma colaborativa, priorizando actividades según los plazos planificados, para maximizar la eficiencia del equipo y el cumplimiento de metas. <br><b>TP1</b>: Diseñé el formato de organización en Trello y, junto con mi equipo, definí los bounded contexts de la aplicación web. Además, destaqué observaciones y puntos de mejora para optimizar la planificación del proyecto. <br> <b>TB2</b>: Para el backend, colaboré revisando la separación de responsabilidades en los contextos y asegurando que los módulos backend tuvieran límites claros y coherentes con la arquitectura planificada. <br> <b>TF</b>: Apoyé en la planificación del despliegue final, verificando que el backend funcionara correctamente en el servidor y que el frontend estuviera configurado para consumir la nueva URL base de la API. Realicé pruebas de integración asegurando una comunicación adecuada entre ambos entornos. </li><li><b>Guillen Galindo, Julio Adolfo</b> <br> <b>TB1</b>: Organize mi timepo apra realizar lapropuesta de trabajo, ademas de organizar entrevistas que eran un requerimiento en los objetivos a realizar. <br> <b>TP1</b>: Desarrollé prototipos visuales y mockups interactivos que facilitaron la comunicación entre el equipo de diseño y el desarrollo frontend, contribuyendo a la alineación de los objetivos visuales del producto. <br> <b>TB2</b>: Brindé aportes generales sobre cómo las vistas propuestas debían conectarse con los endpoints del backend, identificando qué datos serían necesarios y anticipando posibles validaciones desde la API. <br> <b>TF</b>: Revisé la interfaz para ajustar las llamadas al backend ya desplegado, asegurando que el frontend enviara correctamente los datos. También validé los flujos de usuario para verificar que la comunicación con la API fuera fluida y sin errores. </li><li><b>La Madrid Lozano, Ivan Jeanpierre</b> <br> <b>TB1</b>: Fui responsable del diseño de los wireframes de la Landing Page y de la organización de las ramas y la estructura del repositorio en GitHub. <br> <b>TB1</b>: Fui participé en las decisiones del equipo asu como su planificación y desarrollo. Mediante aplicaicones como Trello se desplego y evidenció las distintas tareas del equipo. <br> <b>TB2</b>: Aporté al backend organizando adecuadamente las ramas del repositorio, facilitando la futura integración del backend mediante una estructura clara para desarrollo conjunto y control de versiones. <br> <b>TF</b>: Contribuí a la organización y despliegue del backend y frontend, verificando la integración mediante pruebas de conexión a los endpoints productivos. Además, aseguré que la estructura del repositorio facilitara el proceso de despliegue. </li><li><b>Nanfuñay Liza, Pedro Jesus</b><br><b>TB1</b>: Trabajé activamente en el desarrollo del proyecto mediante una organización en Github, plataforma que permite realizar avances en un entorno colaborativo para cumplir con los objetivos establecidos mediante tareas asignadas en plazos previamente planificados. <br> <b>TP1</b>: Elaboré los wireflows y userflows del proyecto, aplicando principios de diseño UX para mejorar la usabilidad y experiencia del usuario. <br> <b>TB2</b>: Desde el backend, apoyé revisando los flujos para asegurar que los endpoints requeridos fueran viables y que los datos circularan correctamente entre cliente y servidor. <br> <b>TF</b>: Participé en la validación de los flujos de datos tras el despliegue, revisando que las solicitudes del frontend coincidieran con las respuestas de la API. También ayudé en la identificación de errores y ajustes post-despliegue. </li><li><b>Ramirez Cabrera, Kenyi Efrain</b> <br> <b>TB1</b>: Participé de forma activa en el desarrollo del proyecto usando una organización en GitHub, a través de ella se gestionaron los avances, se asignaron tareas y se cumplieron los objetivos dentro de los plazos previamente establecidos. <br> <b>TP1</b>: Actualicé el Database Diagram, el Class Diagram y los Lean UX Assumptions, contribuyendo a la documentación técnica y coherencia del sistema <br> <b>TB2</b>: Apoyé al backend mediante la actualización y refinamiento del modelo de datos, asegurando que las relaciones entre entidades sean adecuadas para el funcionamiento correcto del backend y sus endpoints. <br> <b>TF</b>: Apoyé en el proceso de despliegue final verificando la correcta migración y creación de tablas en la base de datos productiva. Realicé pruebas de comunicación backend–frontend para asegurar el funcionamiento completo del sistema. </li></ul> | <ul><li><b>TB1</b>: Fomentamos un ambiente de trabajo colaborativo e inclusivo, fijamos metas claras, organizamos las tareas y alcanzamos los objetivos propuestos. <br> </li><li><b>TP1</b>: Se fortaleció un entorno colaborativo e inclusivo mediante una planificación conjunta y una comunicación efectiva. Cada integrante participó activamente en la consecución de los entregables, consolidando el compromiso del equipo y el cumplimiento de los objetivos. <br> </li><li><b>TB2</b> En relación al backend, se fortaleció un entorno colaborativo mediante la planificación conjunta de la estructura del sistema, la revisión colectiva de diagramas técnicos y la validación de los flujos de datos. Esto permitió consolidar una base backend organizada, escalable y coherente, logrando una visión unificada del desarrollo y asegurando la integración futura entre los módulos del proyecto. <br> <b>TF</b>: El equipo consolidó un entorno colaborativo logrando desplegar el backend y enlazarlo exitosamente con el frontend. Esto implicó configurar servidores, bases de datos, rutas de API y ajustar las peticiones en la interfaz. Gracias a la planificación conjunta pudimos realizar pruebas, identificar fallas y corregirlas, garantizando un sistema funcional en producción y cumpliendo los objetivos planteados. </li></ul> |
 
 # Capitulo 1: Introducción
 
@@ -225,30 +260,30 @@ Visión: Ser la empresa líder en la gestión y el mantenimiento de equipos de r
 
 <div align="center">
 
-| **Integrante**            | **Galindo Montero Alejandro Manuel**          |
-|---------------------------|-----------------------------------------------|
-| **Código del Estudiante** |  u202321264                                   |
-| **Carrera**               |  Ingeniería de Software                       |
-| **Descripción**           |   Mi nombre es Alejandro Manuel Galindo Montero, tengo 20 años y curso la carrera de Ingeniería de Software. Me considero una persona creativa y responsable. En mis tiempos libres me gusta aprender cosas nuevas. En este proyecto apoyaré con todos los conocimientos que he adquirido en los últimos años.   |
-| **Foto**                  |  <img src="assets/chapter01/AlejandroGalindo.jpg" alt="" width="200" height="200"> |
+| **Integrante**            | **Galindo Montero Alejandro Manuel**        									    |
+| :------------------------ | :-------------------------------------------------------------------------------- |
+| **Código del Estudiante** | u202321264                                   										|
+| **Carrera**               | Ingeniería de Software                       										|
+| **Descripción**           | Mi nombre es Alejandro Manuel Galindo Montero, tengo 20 años y curso la carrera de Ingeniería de Software. Me considero una persona creativa y responsable. En mis tiempos libres me gusta aprender cosas nuevas. En este proyecto apoyaré con todos los conocimientos que he adquirido en los últimos años.   												|
+| **Foto**                  | <img src="assets/chapter01/AlejandroGalindo.jpg" alt="" width="200" height="200"> |
 
 ---
 
-| **Integrante**            | **Guillen Galindo Julio Adolfo**                                                    |
-|---------------------------|-------------------------------------------------------------------------------------|
-| **Código del Estudiante** | u20241a352                                                                          |
-| **Carrera**               | Ingeniería de Software                                                              |
+| **Integrante**            | **Guillen Galindo Julio Adolfo**                                                   														 |
+| :------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Código del Estudiante** | u20241a352                                                                          														 |
+| **Carrera**               | Ingeniería de Software                                                              														 |
 | **Descripción**           | Actualmente curso la carrera de Ingeniería de Software en la UPC. Me considero una persona discreta, pero responsable y enfocada en cumplir los proyectos dentro de los plazos establecidos. Poseo conocimientos en C++ y Python; disfruto trabajar en equipo cuando existe colaboración y apoyo mutuo. Además, me motiva aplicar lo aprendido para afrontar los desafíos que puedan surgir en los próximos ciclos. |
-| **Foto**                  | <img src="assets/chapter01/julio_logo.jpg" alt="Julio" width="200" height="200"> |
+| **Foto**                  | <img src="assets/chapter01/julio_logo.jpg" alt="Julio" width="200" height="200"> 															 |
 
 ---
 
-| **Integrante**            | **La Madrid Lozano, Ivan Jeanpierre**                                               |
-|---------------------------|-------------------------------------------------------------------------------------|
-| **Código del Estudiante** |u202113432|
-| **Carrera**               |Ingeniería de Software|
-| **Descripción**           |Soy un estudiante de la ingeniería de software. Actualente me gusta el desarrollo de solucines innovadores meidante la tecnología. Me encanta proponer soluciones para problemas que requieran innovación y tecnología. Ne considero alguien proactivo y colaborativo. Con entusiasmo espero aportar valor al equipo y a distintos proyectos.|
-| **Foto**                  | ![ivan](https://github.com/user-attachments/assets/69b479e2-f06a-4ec5-bda9-36971bbfa295)|
+| **Integrante**            | **La Madrid Lozano, Ivan Jeanpierre**                                        	  |
+| :------------------------ | :------------------------------------------------------------------------------ |
+| **Código del Estudiante** | u202113432																	  |
+| **Carrera**               | Ingeniería de Software														  |
+| **Descripción**           | Soy un estudiante de la ingeniería de software. Actualente me gusta el desarrollo de solucines innovadores meidante la tecnología. Me encanta proponer soluciones para problemas que requieran innovación y tecnología. Ne considero alguien proactivo y colaborativo. Con entusiasmo espero aportar valor al equipo y a distintos proyectos.			  |
+| **Foto**                  | <img src="assets/chapter01/ivan_logo.jpg" alt="Ivan" width="200" height="200"> |
 
 ---
 
@@ -262,10 +297,10 @@ Visión: Ser la empresa líder en la gestión y el mantenimiento de equipos de r
 ---
 
 | **Integrante**            | **Kenyi Efrain Ramirez Cabrera**                                                    |
-|---------------------------|-------------------------------------------------------------------------------------|
+| :------------------------ | :---------------------------------------------------------------------------------- |
 | **Código del Estudiante** | u202220138                                                                          |
 | **Carrera**               | Ingeniería de Software                                                              |
-| **Descripción**           | Soy Kenyi Ramirez, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona comprometida y trabajadora. Poseo un nivel intermedio en los lenguajes C++, Python, Java y HTML, los cuales aplico para garantizar resultados efectivos en mis tareas. |
+| **Descripción**           | Soy Kenyi Ramirez, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona comprometida y trabajadora. Poseo un nivel intermedio en los lenguajes C++, Python, Java y HTML, los cuales aplico para garantizar resultados efectivos en mis tareas. 														  |
 | **Foto**                  | <img src="assets/chapter01/KenyiRamirez.jpeg" alt="Kenyi" width="200" height="200"> |
 
 </div>
@@ -274,15 +309,15 @@ Visión: Ser la empresa líder en la gestión y el mantenimiento de equipos de r
 
 ### 1.2.1 Antecedentes y Problematica
 
-| **5W & 2H**                                     | **Descripcion**                                                                                                                                            |
-|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **What: ¿Cuál es el problema?**                 | Los negocios que dependen de la refrigeración se enfrentan a una vulnerabilidad operativa significativa. La falta de control en sus equipos de congelación lleva a fallas inesperadas, alto consumo energético y falta de un mantenimiento proactivo. Como resultado, sufren grandes pérdidas económicas, tanto por productos dañados como por la interrupción de su servicio. |
-| **When: ¿Cuándo sucede este problema?**         | Este problema es una amenaza constante, especialmente durante la operación continua de los negocios. Se vuelve más crítico cuando no hay técnicos disponibles para una revisión inmediata o cuando se ha descuidado el seguimiento regular del estado de los equipos. |
-| **Where: ¿Dónde se produce este suceso?**       | El problema está presente en todo el país, afectando a negocios en diversas ciudades. Sin embargo, su impacto es particularmente notable en Lima, donde la cadena de frío es vital para sectores como la alimentación y la medicina. Las empresas de servicios que atienden a estos clientes también se ven afectadas al no tener una forma centralizada de gestionar sus operaciones. |
-| **Who: ¿Quiénes están involucrados?**           | Este problema afecta a una amplia gama de actores. Por un lado, están los dueños y administradores de negocios que sufren las consecuencias directas de las fallas. Por otro, los técnicos y empresas de servicio que se ven obligados a responder a emergencias sin las herramientas adecuadas. |
-| **Why: ¿Cuál es la causa del problema?**        | La causa principal es la falta de herramientas tecnológicas accesibles que permitan integrar el monitoreo en tiempo real, las alertas y la programación de servicios. En la mayoría de los casos, la gestión del mantenimiento aún es manual, lo que impide una respuesta preventiva y eficiente ante cualquier anomalía. |
+| **5W & 2H**                                     | **Descripcion**                                                                                                                                                                                                                                                                                                                                                                                           |
+| :---------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **What: ¿Cuál es el problema?**                 			  | Los negocios que dependen de la refrigeración se enfrentan a una vulnerabilidad operativa significativa. La falta de control en sus equipos de congelación lleva a fallas inesperadas, alto consumo energético y falta de un mantenimiento proactivo. Como resultado, sufren grandes pérdidas económicas, tanto por productos dañados como por la interrupción de su servicio. 	   	 |
+| **When: ¿Cuándo sucede este problema?**         			  | Este problema es una amenaza constante, especialmente durante la operación continua de los negocios. Se vuelve más crítico cuando no hay técnicos disponibles para una revisión inmediata o cuando se ha descuidado el seguimiento regular del estado de los equipos.																										   		   	 |
+| **Where: ¿Dónde se produce este suceso?**      			  | El problema está presente en todo el país, afectando a negocios en diversas ciudades. Sin embargo, su impacto es particularmente notable en Lima, donde la cadena de frío es vital para sectores como la alimentación y la medicina. Las empresas de servicios que atienden a estos clientes también se ven afectadas al no tener una forma centralizada de gestionar sus operaciones. 	 |
+| **Who: ¿Quiénes están involucrados?**          			  | Este problema afecta a una amplia gama de actores. Por un lado, están los dueños y administradores de negocios que sufren las consecuencias directas de las fallas. Por otro, los técnicos y empresas de servicio que se ven obligados a responder a emergencias sin las herramientas adecuadas. 																					   	 |
+| **Why: ¿Cuál es la causa del problema?**        			  | La causa principal es la falta de herramientas tecnológicas accesibles que permitan integrar el monitoreo en tiempo real, las alertas y la programación de servicios. En la mayoría de los casos, la gestión del mantenimiento aún es manual, lo que impide una respuesta preventiva y eficiente ante cualquier anomalía. 													   				 |
 | **How: ¿Qué llevó a la persona a llegar a esta situación?** | La situación actual es el resultado de la gestión reactiva y la falta de digitalización. Los negocios han dependido de una estrategia de "apagar incendios", esperando a que ocurra un problema crítico para actuar. Esta mentalidad ha generado un ciclo de costos elevados, tiempos de respuesta lentos y un desgaste operativo que se podría haber evitado con una planificación adecuada. |
-| **How Much: ¿Cuánto es el impacto financiero?** | El impacto económico de una falla es considerable y varía. Las pérdidas por el deterioro de productos pueden ser de cientos a miles de soles. A esto se suman los costos de las reparaciones de emergencia y el daño a largo plazo en la reputación y la confianza del cliente, lo que hace que el costo total sea mucho mayor. |
+| **How Much: ¿Cuánto es el impacto financiero?** 			  | El impacto económico de una falla es considerable y varía. Las pérdidas por el deterioro de productos pueden ser de cientos a miles de soles. A esto se suman los costos de las reparaciones de emergencia y el daño a largo plazo en la reputación y la confianza del cliente, lo que hace que el costo total sea mucho mayor. 																 |
 
 ### 1.2.2 Lean UX Process
 
@@ -693,7 +728,6 @@ En esta sección, se han planteado diversas preguntas dirigidas a nuestros segme
 
 14. ¿Qué características considera indispensables para que una plataforma de este tipo sea realmente útil para usted?
 
-
 ### 2.2.2. Registro de entrevistas
 ## Segmento objetivo #1: Negocios con equipos de refrigeración
 
@@ -738,7 +772,7 @@ En esta sección, se han planteado diversas preguntas dirigidas a nuestros segme
 - **Inicio:** 0:00
 - **Duración:** 6:14 min
 - **URL:** [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113432_upc_edu_pe/EUpgnK1QktxBuAwnwQ0w84YBz2dqNPvYY2qZF9vHKmjtUg?e=jXqqPX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113432_upc_edu_pe/EUpgnK1QktxBuAwnwQ0w84YBz2dqNPvYY2qZF9vHKmjtUg?e=jXqqPX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- **Resumen:**Henry, de 28 años y residente en Lima, dirige un negocio de producción y distribución de yogures y helados que depende de equipos de refrigeración. Ha sufrido pérdidas por fallas en la cadena de frío, realiza supervisión semanal y mantenimiento mensual, y ya usa herramientas digitales para monitorear temperatura por lote. Valora altamente recibir alertas automáticas ante anomalías, desea historial técnico y reportes por equipo, prefiere acceder desde tablet/PC, y consideraría pagar (idealmente pago único) si la solución reduce pérdidas; dejaría de usarla ante fallas recurrentes, mal soporte o costos injustificados.
+- **Resumen:** Henry, de 28 años y residente en Lima, dirige un negocio de producción y distribución de yogures y helados que depende de equipos de refrigeración. Ha sufrido pérdidas por fallas en la cadena de frío, realiza supervisión semanal y mantenimiento mensual, y ya usa herramientas digitales para monitorear temperatura por lote. Valora altamente recibir alertas automáticas ante anomalías, desea historial técnico y reportes por equipo, prefiere acceder desde tablet/PC, y consideraría pagar (idealmente pago único) si la solución reduce pérdidas; dejaría de usarla ante fallas recurrentes, mal soporte o costos injustificados.
 
 ---
 
@@ -779,10 +813,9 @@ En esta sección, se han planteado diversas preguntas dirigidas a nuestros segme
 - **Inicio:** 0:00
 - **Duración:** 4:39 min
 - **URL:** [`https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113432_upc_edu_pe/EUqpD1FJnrVBl_2lPPv7VxABpUfMZLpoH4j3E9gqqiWldg?e=s0QAJN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113432_upc_edu_pe/EUqpD1FJnrVBl_2lPPv7VxABpUfMZLpoH4j3E9gqqiWldg?e=s0QAJN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- **Resumen:**Raúl Mendoza, técnico con 12 años de experiencia en aire acondicionado y refrigeración comercial en Lima, atiende 25–30 clientes al mes. Organiza visitas con Google Calendar/WhatsApp y lleva historiales en Excel y fotos, lo que le genera desorden y reprocesos (cambios de horario, falta de info previa, planificación manual de rutas). Considera muy útil una app móvil, simple y en español para ver equipos por cliente, recibir alertas en tiempo real, capturar fotos, registrar intervenciones y generar reportes automáticos; abandonó antes una plataforma por compleja, en otro idioma y costosa.
+- **Resumen:** Raúl Mendoza, técnico con 12 años de experiencia en aire acondicionado y refrigeración comercial en Lima, atiende 25–30 clientes al mes. Organiza visitas con Google Calendar/WhatsApp y lleva historiales en Excel y fotos, lo que le genera desorden y reprocesos (cambios de horario, falta de info previa, planificación manual de rutas). Considera muy útil una app móvil, simple y en español para ver equipos por cliente, recibir alertas en tiempo real, capturar fotos, registrar intervenciones y generar reportes automáticos; abandonó antes una plataforma por compleja, en otro idioma y costosa.
 
 ---
-
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -937,7 +970,6 @@ En esta sección se presentan los User Journey Maps de los dos segmentos objetiv
 
 ![UserJourneyMapping-Segmento2](assets/chapter02/UserJourneyMapping-Segmento2.png)
 
-
 ### 2.3.4. Empathy Mapping
 
 En esta sección se presentan los Empathy Maps. Estos nos ayudarán a comprender las experiencias, emociones y pensamientos que expresan los usuarios de cada segmento objetivo.
@@ -1034,7 +1066,6 @@ Para mantener la organización, las historias se agruparon en épicas según sus
 
 Para facilitar la planificación, el seguimiento y la priorización de las tareas, el equipo utilizó la plataforma Trello.
 
-
 | **Epic / Story ID** | **Título**                                                    | **Descripción**                                                                                                                                                                                                                    | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | **Relacionado con (Epic ID)** |
 |---------------------|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
 | US-01               | Registro de usuario                                           | Como nuevo usuario, quiero registrarme para acceder a la plataforma y empezar a gestionar mis equipos                                                                                                                              | **Escenario 1: Crear cuenta exitosamente** <br/> Dado que el nuevo usuario tiene todos los datos correctos,<br/> Cuando completa el registro,<br/> Entonces su cuenta es creada correctamente.<br/> **Escenario 2: Intento de crear cuenta con email ya registrado**<br/> Dado que el nuevo usuario intenta registrarse con un correo ya registrado,<br/> Cuando envía el formulario,<br/> Entonces el sistema muestra un mensaje indicando que el correo ya existe.                                                                                                                                          | EP-01      |
@@ -1113,9 +1144,8 @@ Para mantener el proyecto organizado, usamos la escala de Fibonacci (1, 2, 3, 5,
   </figcaption>
 </figure>
 
-
 | Orden | User Story ID | Titulo                                                        | Descripcion                                                                                                                                                                                                   | Story Points |
-|-------|---------------|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| :---: | :-----------: | :------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------: |
 | 01    | US-23         | Visualizar la propuesta de valor principal                    | Como visitante, quiero conocer la propuesta de valor de la plataforma para entender si se ajusta a mis necesidades.                                                                                           | 2            |
 | 02    | US-24         | Explorar soluciones específicas para mi rubro                 | Como visitante, quiero conocer las soluciones que ofrece la plataforma para mi tipo de negocio para saber si se ajusta a mis necesidades.                                                                     | 2            |
 | 03    | US-25         | Comprender las funcionalidades clave                          | Como visitante, quiero entender las funcionalidades principales de la plataforma para evaluar si se adaptan a mi operación.                                                                                   | 2            |
@@ -1146,14 +1176,13 @@ Para mantener el proyecto organizado, usamos la escala de Fibonacci (1, 2, 3, 5,
 | 27    | US-22         | Evaluar un servicio completado                                | Como cliente, quiero evaluar un servicio una vez que ha finalizado para expresar mi satisfacción con el trabajo realizado.                                                                                    | 3            |
 | 28    | US-01         | Registro de usuario                                           | Como nuevo usuario, quiero registrarme para acceder a la plataforma y empezar a gestionar mis equipos de refrigeración.                                                                                       | 5            |
 | 29    | US-02         | Inicio de sesión                                              | Como usuario, quiero iniciar sesión con mi cuenta para acceder a la plataforma.                                                                                                                               | 3            |
-| 28    | TS-01         | Gestión de alertas críticas vía API                           | Como desarrollador, busco implementar un mecanismo que exponga las alertas críticas detectadas en los equipos a través de una API RESTful, para activar notificaciones automáticas al usuario.                | 8           |
+| 28    | TS-01         | Gestión de alertas críticas vía API                           | Como desarrollador, busco implementar un mecanismo que exponga las alertas críticas detectadas en los equipos a través de una API RESTful, para activar notificaciones automáticas al usuario.                | 8            |
 | 29    | TS-02         | Creación de solicitudes de mantenimiento (API)                | Como desarrollador, quiero implementar una API que me permita crear solicitudes de mantenimiento para que los negocios reporten necesidades de soporte técnico.                                               | 8            |
 | 30    | TS-03         | Registro de intervenciones técnicas por API RESTful           | Como desarrollador, quiero registrar las intervenciones técnicas realizadas a través de la API para llevar un seguimiento detallado del mantenimiento.                                                        | 5            |
 | 31    | TS-04         | Gestión de evaluaciones de servicio vía API                   | Como desarrollador, mi objetivo es implementar un endpoint que permita a los clientes registrar y actualizar una evaluación de servicio para reflejar su experiencia.                                         | 5            |
 | 32    | TS-05         | Registrar nuevo usuario a través de API RESTful               | Como desarrollador, quiero exponer un endpoint para registrar nuevos usuarios en la plataforma, validando datos como correo único y formato de contraseña, para permitir el acceso seguro de nuevos usuarios. | 5           |
 | 33    | TS-06         | Consulta de estado de servicios por API                       | Como desarrollador, mi objetivo es crear un endpoint para que clientes y empresarios puedan consultar el estado de una solicitud de servicio en tiempo real.                                                  | 8            |
 | 34    | TS-07         | Sistema de notificaciones para eventos relevantes             | Como desarrollador, quiero que el sistema pueda enviar notificaciones automáticas o manuales ante eventos clave (problemas, cambios de estado) para mantener informados a clientes y técnicos.                | 8           |
-
 
 # Capítulo IV: Product Design
 
@@ -1383,14 +1412,13 @@ El wireframe del landing page de IceTrack se diseñó para guiar la creación de
 El objetivo principal de este wireframe es asegurar que el diseño final sea lógico, atractivo y, sobre todo, que guíe al usuario hacia una acción clara, como registrarse o contactar a la empresa.
 
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/LandingPageWireframe.png"
-       alt="Landing Page Wireframe"
-       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+	<div align="center">
+    	<img src="assets/chapter04/LandingPageWireframe.png" height="50%">
+  	</div>
   <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 1:</strong> Wireframe del Landing Page.
   </figcaption>
 </figure>
-
 
 ### 4.3.2. Landing Page Mock-up
 
@@ -1409,6 +1437,7 @@ Presenta la propuesta de valor principal con una imagen atractiva y un texto imp
 </figure>
 
 ---
+
 **Beneficios**
 Usa íconos personalizados y un diseño limpio para destacar las ventajas clave de la app, facilitando la lectura y comprensión.
 
@@ -1422,6 +1451,7 @@ Usa íconos personalizados y un diseño limpio para destacar las ventajas clave 
 </figure>
 
 ---
+
 **Sobre Nosotros**
 Comunica la misión y visión de la empresa con un estilo visual que inspira confianza y conecta con los valores del usuario.
 
@@ -1435,6 +1465,7 @@ Comunica la misión y visión de la empresa con un estilo visual que inspira con
 </figure>
 
 ---
+
 **Testimonios**
 Incluye citas y fotos de clientes reales, proporcionando prueba social para validar la calidad del servicio.
 
@@ -1448,6 +1479,7 @@ Incluye citas y fotos de clientes reales, proporcionando prueba social para vali
 </figure>
 
 ---
+
 **Contacto**
 Ofrece un formulario simple y directo con campos bien organizados para que los interesados puedan solicitar información fácilmente.
 
@@ -1460,8 +1492,6 @@ Ofrece un formulario simple y directo con campos bien organizados para que los i
   </figcaption>
 </figure>
 
----
-
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
@@ -1469,49 +1499,53 @@ Ofrece un formulario simple y directo con campos bien organizados para que los i
 Los wireframes de las aplicaciones web de IceTrack muestran cómo se estructuran las pantallas y dónde se ubican los elementos de navegación. Estos esquemas visuales, que se centran en la funcionalidad y la facilidad de uso, guían el diseño final. Su objetivo es asegurar que la aplicación sea intuitiva y que la interacción del usuario sea fluida y eficiente, lo que ayuda a diseñadores y desarrolladores a optimizar la disposición de cada componente.
 
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/WebWireframe1.png"
-       alt="Wireframe: Registro"
-       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <div align="center">
+    <img src="assets/chapter04/WebWireframe1.png" alt="WebWireframe1.png">
+  </div>
   <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 1:</strong> Wireframe Registro.
   </figcaption>
 </figure>
 
 ---
+
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/WebWireframe2.png"
-       alt="Wireframe: Dashboard"
-       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <div align="center">
+    <img src="assets/chapter04/WebWireframe2.png" alt="WebWireframe2.png">
+  </div>
   <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 2:</strong> Wireframe Dashboard.
   </figcaption>
 </figure>
 
 ---
+
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/WebWireframe3.png"
-       alt="Wireframe: Sitios y equipos"
-       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <div align="center">
+    <img src="assets/chapter04/WebWireframe3.png" alt="WebWireframe3.png">
+  </div>
   <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 3:</strong> Wireframe Sitios y equipos.
   </figcaption>
 </figure>
 
 ---
+
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/WebWireframe4.png"
-       alt="Wireframe: Detalle del equipo"
-       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <div align="center">
+    <img src="assets/chapter04/WebWireframe4.png" alt="WebWireframe4.png">
+  </div>
   <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 4:</strong> Wireframe Detalle del equipo.
   </figcaption>
 </figure>
 
 ---
+
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/WebWireframe5.png"
-       alt="Wireframe: Alertas"
-       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <div align="center">
+    <img src="assets/chapter04/WebWireframe5.png" alt="WebWireframe5.png">
+  </div>
   <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 5:</strong> Wireframe Alertas.
   </figcaption>
@@ -1520,34 +1554,35 @@ Los wireframes de las aplicaciones web de IceTrack muestran cómo se estructuran
 ---
 
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/WebWireframe6.png"
-       alt="Wireframe: Órdenes"
-       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <div align="center">
+    <img src="assets/chapter04/WebWireframe6.png" alt="WebWireframe6.png">
+  </div>
   <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 6:</strong> Wireframe Órdenes.
   </figcaption>
 </figure>
 
 ---
+
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/WebWireframe7.png"
-       alt="Wireframe: Reportes"
-       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <div align="center">
+    <img src="assets/chapter04/WebWireframe7.png" alt="WebWireframe7.png">
+  </div>
   <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 7:</strong> Wireframe Reportes.
   </figcaption>
 </figure>
 
 ---
+
 <figure style="page-break-inside: avoid; text-align: center;">
-  <img src="assets/chapter04/WebWireframe8.png"
-       alt="Wireframe: Administración"
-       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+ <div align="center">
+    <img src="assets/chapter04/WebWireframe8.png" alt="WebWireframe8.png">
+  </div>
   <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 8:</strong> Wireframe Administración.
   </figcaption>
 </figure>
-
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 <img width="2576" height="916" alt="Web Applications Wireflow Diagram" src="https://github.com/user-attachments/assets/4d5247bc-d766-4593-ba97-cc59d411e93e" />
@@ -1563,6 +1598,7 @@ En esta sección, los usuarios pueden crear sus cuentas para acceder a la aplica
   </figcaption>
 
 ---
+
 **Registro**
 Es el centro de control de la app. Aquí se visualiza un resumen ejecutivo de las operaciones clave: estado de los equipos, cantidad de órdenes pendientes y alertas activas. Es una vista rápida para tomar decisiones.
 
@@ -1572,6 +1608,7 @@ Es el centro de control de la app. Aquí se visualiza un resumen ejecutivo de la
   </figcaption>
 
 ---
+
 **Órdenes**
 Esta sección es para gestionar los servicios técnicos. Se pueden crear, asignar y hacer seguimiento a las órdenes de trabajo para mantenimiento preventivo o correctivo, garantizando que cada tarea se complete de forma eficiente.
 
@@ -1581,6 +1618,7 @@ Esta sección es para gestionar los servicios técnicos. Se pueden crear, asigna
   </figcaption>
 
 ---
+
 **Reportes**
 Aquí los usuarios pueden generar informes detallados. Estos reportes analizan el rendimiento de los equipos, el historial de mantenimiento y la eficiencia de los servicios, lo cual es vital para la toma de decisiones estratégicas.
 
@@ -1590,6 +1628,7 @@ Aquí los usuarios pueden generar informes detallados. Estos reportes analizan e
   </figcaption>
 
 ---
+
 **Sitios y Equipos**
 Esta sección funciona como un inventario centralizado. Aquí se listan y gestionan todos los sitios (ubicaciones físicas) y los equipos de refrigeración que tienen asignados.
 
@@ -1599,6 +1638,7 @@ Esta sección funciona como un inventario centralizado. Aquí se listan y gestio
   </figcaption>
 
 ---
+
 **Detalles del Equipo**
 Al seleccionar un equipo en particular, se accede a esta sección. Aquí se puede ver toda la información detallada del equipo: especificaciones técnicas, historial de mantenimiento, estado actual y alertas recientes.
 
@@ -1608,6 +1648,7 @@ Al seleccionar un equipo en particular, se accede a esta sección. Aquí se pued
   </figcaption>
 
 ---
+
 **Panel de Control**
 <img width="1600" height="1460" alt="screen" src="https://github.com/user-attachments/assets/5faadadd-f97d-41f5-b089-dc97c797a5fc" />
 <figcaption style="font-size: 0.9em; color: #555;">
@@ -1615,6 +1656,7 @@ Al seleccionar un equipo en particular, se accede a esta sección. Aquí se pued
   </figcaption>
 
 ---
+
 **Alertas**
 Aquí se notifican y gestionan todas las incidencias importantes. Por ejemplo, si un equipo de refrigeración presenta una falla, una alerta automática aparece en esta sección, permitiendo una respuesta inmediata.
 
@@ -1624,6 +1666,7 @@ Aquí se notifican y gestionan todas las incidencias importantes. Por ejemplo, s
   </figcaption>
 
 ---
+
 **Administración**
 
 <img width="1600" height="1000" alt="screen" src="https://github.com/user-attachments/assets/1d86befd-8e5f-456c-99a9-eea34027cda4" />
@@ -1632,6 +1675,7 @@ Aquí se notifican y gestionan todas las incidencias importantes. Por ejemplo, s
   </figcaption>
 
 ---
+
 ### 4.4.4. Web Applications User Flow Diagrams
 <img width="2576" height="1682" alt="Web Applications User Flow Diagram" src="https://github.com/user-attachments/assets/8e5073cf-0112-48be-8c50-8981410ef2c1" />
 <figcaption style="font-size: 0.9em; color: #555;">
@@ -1642,7 +1686,8 @@ Aquí se notifican y gestionan todas las incidencias importantes. Por ejemplo, s
 
 La sección de Prototipado de Aplicaciones Web muestra un modelo interactivo y funcional de la aplicación IceTrack antes de su desarrollo final. Este proceso permite simular el flujo de usuario, la navegación y las interacciones principales, garantizando que el diseño sea intuitivo y que la experiencia de usuario sea la mejor posible. Es la fase donde las ideas se validan con un producto tangible.
 
-URL: `https://www.figma.com/proto/ssl7G9KRip9XbC0tBXqUnc/Untitled?node-id=1-2&p=f&t=Kj4CziPHI6VX6P3M-1&scaling=contain&content-scaling=responsive&page-id=0%3A1`
+URL: https://www.figma.com/proto/ssl7G9KRip9XbC0tBXqUnc/Untitled?node-id=1-2&p=f&t=Kj4CziPHI6VX6P3M-1&scaling=contain&content-scaling=responsive&page-id=0%3A1
+
 ---
 
 ## 4.6. Domain-Driven Software Architecture
@@ -1715,41 +1760,40 @@ URL: `https://www.figma.com/proto/ssl7G9KRip9XbC0tBXqUnc/Untitled?node-id=1-2&p=
 
 Para la administración del proyecto, se utilizaron varias herramientas para la comunicación, la planificación y el control de versiones.
 
-| Plataforma                   | Descripción                                                                                                                                                                                                                                                       | Enlace                |
-|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
-| Trello                       | Esta plataforma de gestión de proyectos ofrece funcionalidades para el seguimiento detallado del progreso de cada tarea a lo largo de su ciclo de vida, además de permitir la designación clara de responsables para cada actividad dentro del equipo de trabajo. | `https://trello.com`    |
-| Herramientas de Comunicación | La comunicación interna del equipo se gestionó a través de Discord y WhatsApp para reuniones y mensajes rápidos, respectivamente.                                                                                                                                 | `https://discord.com/` |
-| GitHub                       | Se creó una organización para centralizar el código fuente y su versionado, lo que permitió un control de versiones eficiente y una gestión ordenada.                                                                                                             | `https://github.com`    |
+| Plataforma                   | Descripción                                                                                                                                                                                             | Enlace               |
+| :--------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------- |
+| Trello                       | Esta plataforma de gestión de proyectos ofrece el seguimiento detallado del progreso de cada tarea, además de permitir la designación de responsables para cada actividad dentro del equipo de trabajo. | https://trello.com   |
+| Herramientas de Comunicación | La comunicación interna del equipo se gestionó a través de Discord y WhatsApp para reuniones y mensajes rápidos, respectivamente.                                                                       | https://discord.com/ |
+| GitHub                       | Se creó una organización para centralizar el código fuente y su versionado, lo que permitió un control de versiones eficiente y una gestión ordenada.                                                   | https://github.com   |
 
 **Requirement Management**
 
 En la fase inicial, se emplearon herramientas para la recolección y organización de los requisitos del proyecto, lo que aseguró una base sólida para el desarrollo.
 
-| Plataforma | Descripción                                                                                                                                                                                                                            | Enlace                 |
-|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
-| UXPressia  | Fue la herramienta principal para el diseño de productos digitales. Permitió al equipo crear y validar propuestas de diseño con wireframes, mockups y prototipos interactivos, lo que aseguró un producto final efectivo y atractivo.  | `https://uxpressia.com/` |
-| Miro       | Esta herramienta se usó para visualizar y desarrollar los escenarios "As-Is" (estado actual) y "To-Be" (estado futuro), lo que ayudó a planificar la evolución del proyecto.                                                           | `https://miro.com/es/ `  |
-
+| Plataforma | Descripción                                                                                                                                                                                                     | Enlace                 |
+| :--------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------- |
+| UXPressia  | Fue la herramienta principal para el diseño. Permitió al equipo crear y validar propuestas de diseño con wireframes, mockups y prototipos interactivos, lo que aseguró un producto final efectivo y atractivo.  | https://uxpressia.com/ |
+| Miro       | Esta herramienta se usó para visualizar y desarrollar los escenarios "As-Is" (estado actual) y "To-Be" (estado futuro), lo que ayudó a planificar la evolución del proyecto.                                    | https://miro.com/es/   |
 
 **Product UX/UI Desing**
 
 Para el diseño de la experiencia y la interfaz de usuario, se usó una plataforma colaborativa que simplificó el flujo de trabajo.
 
-| Plataforma | Descripción                                                                                                                                                                                                                            | Link                                                    |
-|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
-| Figma      | Fue la herramienta principal para el diseño de productos digitales. Permitió al equipo crear y validar propuestas de diseño con wireframes, mockups y prototipos interactivos, lo que aseguró un producto final efectivo y atractivo.  | `https://www.figma.com` |
+| Plataforma | Descripción        																																															  |						  |
+| :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------- |
+| Figma      | Fue la herramienta principal para el diseño. Permitió al equipo crear y validar propuestas de diseño con wireframes, mockups y prototipos interactivos, lo que aseguró un producto final efectivo y atractivo. | https://www.figma.com |
 
 **Software Development**
 
 El desarrollo se realizó utilizando un conjunto de lenguajes y entornos de programación que garantizan la estructura, el estilo y la interactividad del producto.
 
-| Plataforma          | Descripción                                                                                                                                    | Link                                      |
-|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
-| HTML                | Sirve para definir la estructura y el contenido de una página web.                                                                             | `https://www.w3schools.com/html/default.asp` |
-| CSS                 | Se encarga de la presentación visual y el estilo de la página web.                                                                             | `https://www.w3schools.com/css/default.asp `|
-| JS                  | Añade interactividad y dinamismo a la página web.                                                                                              | `https://www.w3schools.com/js/default.asp ` |
-| Visual Studio Code  | Entorno de desarrollo que facilita la escritura, edición, depuración y gestión de código para una amplia gama de lenguajes y proyectos.        | `https://code.visualstudio.com `            |
-| JetBrains ToolBox   | Aplicación de gestión que contiene IDEs como IntelliJ IDEA, WebStorm y Rider (cada miembro del equipo trabajó en alguna de estas herramientas) | `https://www.jetbrains.com/toolbox-app/ `   |
+| Plataforma          | Descripción                                                                                                                                    | Link                                       |
+|---------------------| :--------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
+| HTML                | Sirve para definir la estructura y el contenido de una página web.                                                                             | https://www.w3schools.com/html/default.asp |
+| CSS                 | Se encarga de la presentación visual y el estilo de la página web.                                                                             | https://www.w3schools.com/css/default.asp  |
+| JS                  | Añade interactividad y dinamismo a la página web.                                                                                              | https://www.w3schools.com/js/default.asp   |
+| Visual Studio Code  | Entorno de desarrollo que facilita la escritura, edición, depuración y gestión de código para una amplia gama de lenguajes y proyectos.        | https://code.visualstudio.com              |
+| JetBrains ToolBox   | Aplicación de gestión que contiene IDEs como IntelliJ IDEA, WebStorm y Rider (cada miembro del equipo trabajó en alguna de estas herramientas) | https://www.jetbrains.com/toolbox-app/     |
 
 **Software Documentation**
 
@@ -1800,7 +1844,6 @@ Elegimos **GitHub** como nuestra plataforma de colaboración principal. Esto nos
 ### **Convenciones de Nomenclatura**
 
 A continuación, se detallan las convenciones de nomenclatura para diferentes tipos de ramas que usamos en nuestro proyecto:
-
 
 1. **Master branch (Rama principal):** Es la rama principal del proyecto, donde se almacena el código estable y listo para producción. Solo se integrarán cambios que hayan sido probados y validados previamente en las ramas de desarrollo y funcionalidad.
 
@@ -1891,7 +1934,6 @@ Nuestra guía de estilo para CSS se centra en la claridad y la consistencia. Se 
 * `Text-align:` Representa la alineación del texto.
 * `color:` Otorga color al elemento.
 * `Background-color:` Otorga color del fondo del elemento.
-
 
 ### 5.1.4. Software Deployment Configuration
 
@@ -2046,7 +2088,7 @@ Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha 
 
 El objetivo principal de este Sprint es elaborar la Landing Page de nuestra plataforma. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en Landing Page. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
 
-Enlace: `https://trello.com/b/sUPp1a6b/sprints`
+Enlace: https://trello.com/b/sUPp1a6b/sprints
 
 ![Sprint1-Trello.png](assets/chapter05/Sprint1-Trello.png)
 <figcaption style="font-size: 0.9em; color: #555;">
@@ -2350,7 +2392,6 @@ Muestra opiniones de clientes satisfechos, actuando como prueba social para vali
 Ofrece un medio para que los usuarios se comuniquen, ya sea para pedir más información o para agendar una demostración.
 ![LPEvidenceContacto.png](assets/chapter05/LPEvidenceContacto.png)
 
-
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
@@ -2373,7 +2414,7 @@ A continuación, se presenta las  secciones principales de la Landing Page despl
 ![LPEvidenceContacto.png](assets/chapter05/LPEvidenceContacto.png)
 ---
 
-URL del Landing Page desplegado: `https://1asi0730-2520-7452-g1-frostshield.github.io/IceTrack---Landing-Page/`
+URL del Landing Page desplegado: https://1asi0730-2520-7452-g1-frostshield.github.io/IceTrack---Landing-Page/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -2428,9 +2469,7 @@ URL del Landing Page desplegado: `https://1asi0730-2520-7452-g1-frostshield.gith
 </tr>
 <tr>
     <td colspan="5">Sprint 2 Goal</td>
-       <td colspan="8">Nuestro enfoque de desarrollo se centra en la creación e implementación de la interfaz front-end de IceTrack, con el objetivo de proporcionar una experiencia de navegación fluida e intuitiva, mostrar las principales funcionalidades de la plataforma y disponer de una página de inicio funcional que comunique de manera efectiva el valor diferencial del servicio.
-</td>
-
+       <td colspan="8">Nuestro enfoque de desarrollo se centra en la creación e implementación de la interfaz front-end de IceTrack, con el objetivo de proporcionar una experiencia de navegación fluida e intuitiva, mostrar las principales funcionalidades de la plataforma y disponer de una página de inicio funcional que comunique de manera efectiva el valor diferencial del servicio.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 2 Velocity</td>
@@ -2495,11 +2534,11 @@ Con el objetivo de optimizar la organización y la colaboración del equipo, se 
 #### 5.2.2.3. Sprint Backlog 2
 El objetivo principal de este Sprint es elaborar el Frontend de nuestra plataforma. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en la aplicacion web. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
 
-Enlace: `https://trello.com/b/mLKlTDIY/frontend`
+Enlace: https://trello.com/b/mLKlTDIY/frontend
 
 ![Sprint1-Trello.png](assets/chapter05/Sprint2-Trello.png)
 <figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 1:</strong> Sprint Backlog 1.
+    <strong>Figura 1:</strong> Sprint Backlog 2.
   </figcaption>
 
 <table border="1">
@@ -2866,8 +2905,7 @@ Para el presente sprint, se realizó el proceso de despliegue para la primera ve
 </tr>
 <tr>
     <td colspan="5">Sprint 3 Goal</td>
-       <td colspan="8">El enfoque para este sprint es establecer el núcleo integrado de la plataforma IceTrack. Esto implica conectar la página de inicio pública con la aplicación de usuario funcional (frontend) y un sistema de gestión de datos fundamental (backend). Se espera que esta unificación asegure un punto de entrada sencillo para los usuarios a nuestra aplicación y posibilite la gestión de información esencial, elevando la calidad de la experiencia inicial del usuario y proveyendo al equipo de un cimiento estable para el desarrollo futuro. El resultado exitoso se verificará cuando los usuarios puedan entrar y navegar por la aplicación web central sin obstáculos desde la página de aterrizaje; el sistema de gestión de datos respalde las operaciones para entidades críticas como equipos, solicitudes de servicio, técnicos, reportes y alertas; y la interfaz de usuario logre comunicarse con el sistema de gestión de datos para presentar y manejar dichas entidades principales, probando una conexión operativa entre todos los niveles del sistema./td>
-
+       <td colspan="8">El enfoque para este sprint es establecer el núcleo integrado de la plataforma IceTrack. Esto implica conectar la página de inicio pública con la aplicación de usuario funcional (frontend) y un sistema de gestión de datos fundamental (backend). Se espera que esta unificación asegure un punto de entrada sencillo para los usuarios a nuestra aplicación y posibilite la gestión de información esencial, elevando la calidad de la experiencia inicial del usuario y proveyendo al equipo de un cimiento estable para el desarrollo futuro. El resultado exitoso se verificará cuando los usuarios puedan entrar y navegar por la aplicación web central sin obstáculos desde la página de aterrizaje; el sistema de gestión de datos respalde las operaciones para entidades críticas como equipos, solicitudes de servicio, técnicos, reportes y alertas; y la interfaz de usuario logre comunicarse con el sistema de gestión de datos para presentar y manejar dichas entidades principales, probando una conexión operativa entre todos los niveles del sistema.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 3 Velocity</td>
@@ -2932,11 +2970,11 @@ Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha 
 
 Nuestro enfoque principal para este Sprint ha sido el desarrollo del frontend y backend de la plataforma IceTrack. Hemos estructurado nuestras tareas siguiendo las User Stories y Technical Stories que hemos detallado, asegurando un progreso claro y alineado con los objetivos de negocio y la arquitectura técnica.
 
-Enlace: `https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717b7d5e39eba218930f0541704BF/frontshield`
+Enlace: https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717b7d5e39eba218930f0541704BF/frontshield
 
 ![Sprint1-Trello.png](assets/chapter05/Sprint3-Trello.png)
 <figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 1:</strong> Sprint Backlog 1.
+    <strong>Figura 1:</strong> Sprint Backlog 3.
   </figcaption>
 
 <table border="1">
@@ -2966,7 +3004,7 @@ Enlace: `https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717
     <td colspan="2">Crear endpoint /api/v1/users</td>
     <td colspan="3">Implementar registro con validación de email único y hash de contraseña.</td>
     <td colspan="1">6</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Julio Guillén</td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -2977,7 +3015,7 @@ Enlace: `https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717
     <td colspan="2">Validación de contraseñas</td>
     <td colspan="3">Verificar longitud, complejidad y confirmación de contraseña.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Julio Guillén/td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -2988,7 +3026,7 @@ Enlace: `https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717
     <td colspan="2">Crear endpoint /api/v1/auth/login</td>
     <td colspan="3">Implementar autenticación con JWT y validación de usuario/contraseña.</td>
     <td colspan="1">6</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Kenyi Ramirez</td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -2999,7 +3037,7 @@ Enlace: `https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717
     <td colspan="2">Crear CRUD de equipos</td>
     <td colspan="3">Endpoints para crear, editar, listar y eliminar equipos.</td>
     <td colspan="1">8</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Alejandro Galindo</td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -3010,7 +3048,7 @@ Enlace: `https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717
     <td colspan="2">Validaciones de datos</td>
     <td colspan="3">Validar modelo, número de serie y estado del equipo.</td>
     <td colspan="1">4</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Iván La Madrid</td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -3021,7 +3059,7 @@ Enlace: `https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717
     <td colspan="2">Endpoint POST /api/v1/service-requests</td>
     <td colspan="3">Crear solicitud con datos del equipo, tipo y descripción del problema.</td>
     <td colspan="1">7</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Julio Guillén</td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -3032,7 +3070,7 @@ Enlace: `https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717
     <td colspan="2">Endpoint GET /api/v1/service-status/{id}</td>
     <td colspan="3">Devolver estado actual: pendiente, asignado, en progreso, completado.</td>
     <td colspan="1">4</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Alejandro Galindo</td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -3043,7 +3081,7 @@ Enlace: `https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717
     <td colspan="2">Generar reporte PDF</td>
     <td colspan="3">Crear documento con resultados, repuestos y observaciones.</td>
     <td colspan="1">6</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Julio Guillén/td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -3054,7 +3092,7 @@ Enlace: `https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717
     <td colspan="2">CRUD de técnicos</td>
     <td colspan="3">Registro, edición y asignación de roles (técnico).</td>
     <td colspan="1">7</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Kenyi Ramirez</td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -3065,7 +3103,7 @@ Enlace: `https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717
     <td colspan="2">Endpoint asignación técnica</td>
     <td colspan="3">Asignar un técnico a una solicitud y enviar notificación.</td>
     <td colspan="1">5</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Alejandro Galindo</td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -3076,7 +3114,7 @@ Enlace: `https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717
     <td colspan="2">Integrar sistema de notificaciones</td>
     <td colspan="3">Enviar alertas ante cambios de estado o problemas del servicio.</td>
     <td colspan="1">6</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Kenyi Ramirez</td>
     <td colspan="1">To Do</td>
 </tr>
 
@@ -3087,7 +3125,7 @@ Enlace: `https://trello.com/invite/b/691a11e1c474e0f0295ac8bf/ATTId41abf32c3a717
     <td colspan="2">Endpoint POST /api/v1/reviews</td>
     <td colspan="3">Registrar calificación y permitir edición dentro del plazo.</td>
     <td colspan="1">4</td>
-    <td colspan="2">Backend Team</td>
+    <td colspan="2">Iván La Madrid</td>
     <td colspan="1">To Do</td>
 </tr>
 </table>
@@ -3416,7 +3454,6 @@ En el Sprint 3 se desplegó la segunda versión de la Web Application de IceTrac
 | GET		 | /api/v1/alert                  | Tener alerta por equipmentid y tenantid      |
 | GET		 | /api/v1/alert/{id}             | Tener alerta por Id                          |
 
-
 ---
 
 **Dashboard**
@@ -3494,7 +3531,6 @@ Para esta entrega, desplegamos una nueva versión del Frontend, primera versión
 
 ![BACKDEPLOY3.png](assets/chapter05/BACKDEPLOY3.png)
 
-
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 Frontend:
@@ -3502,6 +3538,471 @@ Frontend:
 
 Backend:
 ![InsightsTB2BACKEND.png](assets/chapter05/InsightsTB2BACKEND.png)
+
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+<table>
+<tr>
+    <th colspan="5">Sprint 4</th>
+    <th colspan="9">Sprint 4</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-10-03</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">6:00 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Kenyi Ramirezy</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Alejandro Galindo, Julio Guillen, Ivan La Madrid, Pedro Nanfuñay, Kenyi Ramírez</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Review Summary</td>
+    <td colspan="8">Se realizó el despliegue del Frontend y Backend, implementando funcionalidades orientadas al primer y segundo segmento objetivo.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Retrospective Summary</td>
+    <td colspan="8">El equipo acordó encargarse de las tareas asignadas y colaborar con las demás áreas del proyecto del Frontend y Backend para alcanzar nuestro objetivo.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Goal</td>
+       <td colspan="8">El objetivo de este sprint es completar la integración principal de IceTrack conectando directamente el frontend con el backend. Esto implica enlazar la página con la aplicación de usuario y establecer la comunicación operativa con el sistema de gestión de datos. Con esta conexión final, los usuarios podrán ingresar y navegar sin problemas desde la página de inicio hasta la aplicación central, mientras que el backend proporcionará el soporte necesario para manejar entidades clave como equipos, solicitudes de servicio, técnicos, reportes y alertas. La integración entre la interfaz y el sistema de datos confirmará que ambos lados de la aplicación funcionan juntos, marcando un paso crucial hacia la finalización de la plataforma.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Velocity</td>
+    <td colspan="8">90</td>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">90</td>
+</tr>
+</table>
+
+#### 5.2.4.2. Aspect Leaders and Collaborators
+
+Durante este cuarto Sprint, el equipo se enfocó en avanzar y refinar tanto la estructura y el diseño del frontend como la mayor parte de los endpoints del backend, con el objetivo de dejar ambas partes listas para su integración. Además, para organizar de forma más eficiente el trabajo colaborativo, se creó la matriz de Liderazgo y Colaboración (LACX), donde se asignan claramente las responsabilidades de cada miembro en los aspectos centrales del Sprint.
+
+<table border="1">
+  <tr>
+    <td colspan="2"><strong>Team Member (Last Name, First Name)</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Service Request Management<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Assets Managements and Equipment<br>Leader (L) / Collaborator (C)</strong></td>
+	<td><strong>Dashboard and Analytics<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Despliegue de la aplicación web<br>Leader (L) / Collaborator (C)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Ramírez Cabrera, Kenyi Efrain</td>
+    <td>Kenyi15upc</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+	<td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Galindo Montero, Alejandro Manuel </td>
+    <td>AlejandroG12970</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+	<td>L</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Guillen Galindo, Julio Adolfo </td>
+    <td>julio645</td>
+    <td>C</td>
+    <td>L</td>
+    <td>C</td>
+	<td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">La Madrid Lozano, Ivan Jeanpierre</td>
+    <td>ivanlamadrid</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+	<td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">Nanfuñay Liza, Pedro Jesus</td>
+    <td>PedroJ18</td>
+    <td>L</td>
+    <td>C</td>
+    <td>C</td>
+	<td>C</td>
+  </tr>
+</table>
+
+#### 5.2.4.3. Sprint Backlog 4
+
+En este Sprint nos enfocamos principalmente en la integración completa entre el frontend y el backend de IceTrack. Todas las funcionalidades desarrolladas en sprints anteriores fueron conectadas, probadas y ajustadas para asegurar que la plataforma funcione de manera coherente y estable. Organizamos el trabajo basándonos en las User Stories correspondientes, garantizando un avance ordenado y alineado con los objetivos técnicos y operativos del proyecto.
+
+Enlace: 
+
+![Sprint1-Trello.png](assets/chapter05/Sprint3-Trello.png)
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Sprint Backlog 4.
+  </figcaption>
+
+<table border="1">
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 4</th>
+</tr>
+
+<tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+</tr>
+
+<tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation (Hours)</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status</td>
+</tr>
+<tr>
+    <td colspan="1">US-01</td>
+    <td colspan="2">Integración de registro de usuario</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Conectar formulario con API final</td>
+    <td colspan="3">Validar envío al endpoint real y manejar errores de backend (mail duplicado, contraseña inválida).</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Julio Guillén</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-02</td>
+    <td colspan="2">Integración de inicio de sesión</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Sincronizar JWT con frontend</td>
+    <td colspan="3">Guardar token seguro, manejar expiración y redirección correcta al dashboard.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramirez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-03</td>
+    <td colspan="2">Gestión de equipos</td>
+    <td colspan="1">UT-03</td>
+    <td colspan="2">Integrar listado de equipos con API</td>
+    <td colspan="3">Conectar tabla con Equipment y mostrar estados reales.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramirez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-06</td>
+    <td colspan="2">Control de encendido/apagado</td>
+    <td colspan="1">UT-04</td>
+    <td colspan="2">Integrar botón de encendido con API</td>
+    <td colspan="3">Enviar comando con el Id y actualizar estado visual.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Pedro Nanfuñay</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-07</td>
+    <td colspan="2">Control de temperatura</td>
+    <td colspan="1">UT-05</td>
+    <td colspan="2">Integrar slider con endpoint de temperatura</td>
+    <td colspan="3">Actualizar temperatura en tiempo real llamando el tipo de equipo del usuario.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Pedro Nanfuñay</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-08</td>
+    <td colspan="2">Solicitar mantenimiento</td>
+    <td colspan="1">UT-06</td>
+    <td colspan="2">Integrar formulario con API de servicios</td>
+    <td colspan="3">Enviar solicitudes a endpoints y confirmar recepción.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Iván La Madrid</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-09</td>
+    <td colspan="2">Seguimiento del servicio</td>
+    <td colspan="1">UT-07</td>
+    <td colspan="2">Conectar tracking con API</td>
+    <td colspan="3">Actualizar estados (pendiente, en camino, en proceso, finalizado) desde backend.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Iván La Madrid</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-12</td>
+    <td colspan="2">Historial de servicios</td>
+    <td colspan="1">UT-08</td>
+    <td colspan="2">Leer servicios desde API</td>
+    <td colspan="3">Mostrar tabla real de pagina desde Site.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Alejandro Galindo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-21</td>
+    <td colspan="2">Notificaciones</td>
+    <td colspan="1">UT-09</td>
+    <td colspan="2">Integrar sistema de notificaciones</td>
+    <td colspan="3">Conectar con WebSockets o servicio push y mostrar alertas en frontend.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Alejandro Galindo</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
+#### 5.2.4.4. Development Evidence for Sprint Review
+
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+En el Sprint 4 se desplegó la última versión de la Web Application de IceTrack, implementando mejoras complementarias y esenciales para garantizar la eficiencia de cada una de las secciones de la aplicación. A continuación, se presentan las evidencias:
+
+*Owner View:*
+
+**Register:**
+
+![RegisterFrontVF](assets/chapter05/RegisterFrontVF.png)
+
+**Login:**
+
+![LoginFrontVF](assets/chapter05/LoginFrontVF.png)
+
+**Dashboard:**
+
+![DashboardFrontVF](assets/chapter05/DashboardFrontVF.png)
+
+![DashboardAddCardFrontVF](assets/chapter05/DashboardAddCardFrontVF.png)
+
+![DashboardEditCardFrontVF](assets/chapter05/DashboardEditCardFrontVF.png)
+
+**Sites:**
+
+![SitesFrontVF](assets/chapter05/SitesFrontVF.png)
+![SitesDetailFrontVF](assets/chapter05/SiteDetailFrontVF.png)
+
+**Equipments:**
+
+![EquipmentsFrontVF](assets/chapter05/EquipmentsFrontVF.png)
+![EquipmentsDetailFrontVF](assets/chapter05/EquipmentDetailFrontVF.png)
+
+**Services Requests:**
+
+![ServicesFrontVF](assets/chapter05/ServicesFrontVF.png)
+![AddServicesFrontVF](assets/chapter05/AddServiceRequestFrontVF.png)
+
+**Alerts:**
+
+![AlertsFrontVF](assets/chapter05/AlertsFrontVF.png)
+
+**Reports:**
+
+![ReportsFrontVF](assets/chapter05/ReportsFrontVF.png)
+![AddReportFrontVF](assets/chapter05/AddReportFrontVF.png)
+![ReportsDetailFrontVF](assets/chapter05/ReportDetailFrontVF.png)
+![EditReportFrontVF](assets/chapter05/EditReportFrontVF.png)
+
+<br>
+
+*Service Provider View:*
+
+**Dashboard:**
+
+![DashboardProviderFrontVF](assets/chapter05/ProviderDashboardVF.png)
+
+**Provider Services:**
+
+![ServicesHubFrontVF](assets/chapter05/ServicesHubFrontVF.png)
+![ServicesRequestsFrontVF](assets/chapter05/ProviderServicesFrontVF.png)
+
+**Technician Management:**
+
+![TechnicianManagementFrontVF](assets/chapter05/TechnicianManagementFrontVF.png)
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+**DashboardConfigs**
+
+| Verbo HTTP | Endpoint 		 					    | Descripción 				   |
+| :--------: | :--------------------------------------- | :--------------------------- |
+| GET		 | /api/v1/dashboard-configs/{id}     		| Obtener ID				   |
+| PUT		 | /api/v1/dashboard-configs/{id}  	  	    | Actualizar ID 			   |
+| DELETE 	 | /api/v1/dashboard-configs/{id}			| Eliminar ID 				   |
+| GET 		 | /api/v1/dashboard-configs/user/{userId}   | Obtener configuracion por ID |
+| POST 		 | /api/v1/dashboard-configs					| Crea configuracion		   |
+| POST 		 | /api/v1/dashboard-configs/{id}/cards 		| Añade cartas				   |
+| GET 		 | /api/v1/dashboard-configs/available-cards | Obtener cartas disponible	   |
+| PATCH		 | /api/v1/dashboard-configs/{id}/cards/{cardId}/visibility | Actualizar visibilidad	   |
+
+**Report**
+
+| Verbo HTTP | Endpoint 		   | Descripción 										 |
+| :--------: | :------------------ | :-------------------------------------------------- |
+| POST		 | /api/v1/reports     | Crear un nuevo reporte 							 |
+| GET		 | /api/v1/reports 	   | Obtener un reporte por el ID de un equipo o empresa |
+| GET 		 | /api/v1/report/{id} | Obtener un reporte por su ID 						 |
+| PUT		 | /api/v1/report/{id} | Actualizar un reporte por su ID 						 |
+| DELETE 		 | /api/v1/report/{id} | Eliminar un reporte por su ID 						 |
+
+**Equipment**
+
+| Verbo HTTP | Endpoint 		  	  | Descripción	 			|
+| :--------: | :--------------------- | :---------------------- |
+| POST		 | /api/v1/equipment	  | Crear equipo 			|
+| GET		 | /api/v1/equipment 	  | Tener todos los equipos |
+| GET		 | /api/v1/equipment/{id} | Tener equipo por ID     |
+
+**Site**
+
+| Verbo HTTP | Endpoint 	     | Descripción	 		  |
+| :--------: | :---------------- | :--------------------- |
+| POST		 | /api/v1/site	  	 | Crear site 			  |
+| GET		 | /api/v1/site 	 | Tener todos los sitios |
+| GET		 | /api/v1/site/{id} | Tener sitio por ID     |
+| DELETE		 | /api/v1/site/{id} | Eliminar sitio por ID     |
+
+
+**User**
+
+| Verbo HTTP | Endpoint      	   | Descripción	   |
+| :--------: | :------------------ | :---------------- |
+| GET		 | /api/v1/report/{id} | Tener user por ID |
+| GET		 | /api/v1/users 	   | Tener usuarios    |
+| GET		 | /api/v1/users/role/{role} 	   | Tener usuarios por rol    |
+
+**Authentication**
+
+| Verbo HTTP | Endpoint 		  			  | Descripción	   |
+| :--------: | :----------------------------- | :------------- |
+| POST		 | /api/v1/authentication/sign-in | Iniciar sesión |
+| POST		 | /api/v1/authentication/sign-up | Registrarse    |
+
+**Alerts**
+
+| Verbo HTTP | Endpoint 		  			  | Descripción	                                 |
+| :--------: | :----------------------------- | :--------------------------------------------|                          
+| POST		 | /api/v1/authentication/sign-in | Crear alerta                                 |
+| GET		 | /api/v1/alert                  | Tener alerta por equipmentid y tenantid      |
+| GET		 | /api/v1/alert/{id}             | Tener alerta por Id                          |
+
+**Reviews**
+
+| Verbo HTTP | Endpoint 	     | Descripción	 		  |
+| :--------: | :---------------- | :--------------------- |
+| POST		 | /api/v1/reviews	  	 | Crear reseña 			  |
+| GET		 | /api/v1/reviews 	 | Tener todas los reseñas |
+| GET		 | /api/v1/site/{id} | Tener reseña por ID     |
+
+**ServiceRequests**
+
+| Verbo HTTP | Endpoint 	     | Descripción	 		  |
+| :--------: | :---------------- | :--------------------- |
+| POST		 | /api/v1/service-requests	  	 | Crear request 			  |
+| GET		 | /api/v1/service-requests/{serviceRequestId}		 | Tener todos los requests |
+| GET		 | /api/v1/service-requests/requester/{requesterId} | Tener request por requester ID     |
+| PATCH		 | /api/v1/service-requests/{serviceRequestId}/accept | aceptar request por requester ID     |
+| PATCH		 | /api/v1/service-requests/{serviceRequestId}/reject | Denegar request por requester ID     |
+| PATCH		 | /api/v1/service-requests/{serviceRequestId}/cancel | cancelar request por requester ID     |
+| PATCH		 | /api/v1/service-requests/{serviceRequestId}/assign-technician | asignar tecnico a request   |
+
+**Interventions**
+
+| Verbo HTTP | Endpoint 	     | Descripción	 		  |
+| :--------: | :---------------- | :--------------------- |
+| POST		 | /api/v1/interventions	  	 | Crear intervencion 			  |
+| GET		 | /api/v1/interventions/{interventionId} 	 | Tener intervenciones por Id |
+
+
+**Technicians**
+
+| Verbo HTTP | Endpoint 		   | Descripción 										 |
+| :--------: | :------------------ | :-------------------------------------------------- |
+| POST		 | /api/v1/reports     | Crear un nuevo tecnico 							 |
+| GET		 | /api/v1/reports 	   | Obtener un tecnico por el ID de un proveedor |
+| GET 		 | /api/v1/report/{id} | Obtener un tecnico por su ID 						 |
+| PUT		 | /api/v1/report/{id} | Actualizar un tecnico por su ID 						 |
+| DELETE 		 | /api/v1/report/{id} | Eliminar un tecnico por su ID 	
+
+
+**Technicians**
+![technicians-swagger](./assets/chapter05/technicians-swagger.png)
+
+**Interventions**
+![interventions-swagger](./assets/chapter05/interventions-swagger.png)
+
+**ServiceRequests**
+![Service-requests-swagger](./assets/chapter05/service-request-swagger.png)
+
+**Authentication**
+![autentication-swagger](./assets/chapter05/autentication-swagger.png)
+
+**Users**
+![users-swagger](./assets/chapter05/users-swagger.png)
+
+**Reviews**
+![review-swagger](./assets/chapter05/review-swagger.png)
+
+**DashboardConfigs**
+![dashboard-configs-swagger](./assets/chapter05/dashboard-configs-swagger.png)
+
+**Alert**
+![alert-swagger](./assets/chapter05/alert-swagger.png)
+
+**Equipment**
+![equipment-swagger](./assets/chapter05/equipment-swagger.png)
+
+**Report**
+![report-swagger](./assets/chapter05/report-swagger.png)
+
+**Site**
+![site-swagger](./assets/chapter05/site-swagger.png)
+
+---
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Para esta entrega, desplegamos una nueva versión del Frontend, segunda versión del backend y además desplegamos una nueva base de datos para que pueda ser conectada en nuestro backend.
+
+**Frontend Deployment**
+![FrontEndDeployment](./assets/chapter05/deploy-frontend-tf.png)
+
+**Backend Deployment**
+![BackEndDeployment](./assets/chapter05/deploy-backend-tf.png)
+
+**Database Deployment**
+![DatabaseDeployment](./assets/chapter05/deploy-database-tf.png)
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Frontend:
+![Insights-TB2FRONT.png](assets/chapter05/Insights-TFFRONT.png)
+
+Backend:
+![InsightsTB2BACKEND.png](assets/chapter05/InsightsTFBACKEND.png)
 
 ## 5.3. Validation Interviews
 
@@ -3616,8 +4117,8 @@ Validar la usabilidad, efectividad y propuesta de valor de la plataforma IceTrac
 
 - **Inicio:** 0:00
 - **Duración:** 14:49 min
-- **URL:** `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQDZJDCV5rVLQJHq_pq3M0RWAZbT8M6ee7V0Eo77-ESq_0U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fUbOGP`
-- **Resumen:** Análisis: Henrry Aiquipa, 25 años, dueño de una bodega en San Martín de Porres, tuvo una experiencia en general positiva con la plataforma para negocios con equipos de refrigeración. Percibió el registro e inicio de sesión como simples y sin errores, y encontró el dashboard intuitivo, con un resumen útil del estado de sus equipos. Destacó que las secciones de “Sites” y “Equipments” están bien organizadas, con información relevante y estados de equipos fáciles de identificar. Valoró también la claridad de las alertas y la facilidad para acceder a reportes y solicitar servicios o programar mantenimientos. Ubicó sin problema la sección de configuración y confirmó que los cambios se guardan correctamente. En conjunto, considera que la aplicación es visualmente agradable, coherente e intuitiva, mencionando solo pequeños retrasos puntuales que no afectan su uso general.
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQDZJDCV5rVLQJHq_pq3M0RWAZbT8M6ee7V0Eo77-ESq_0U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fUbOGP
+- **Resumen:** Henrry Aiquipa, 25 años, dueño de una bodega en San Martín de Porres, tuvo una experiencia en general positiva con la plataforma para negocios con equipos de refrigeración. Percibió el registro e inicio de sesión como simples y sin errores, y encontró el dashboard intuitivo, con un resumen útil del estado de sus equipos. Destacó que las secciones de “Sites” y “Equipments” están bien organizadas, con información relevante y estados de equipos fáciles de identificar. Valoró también la claridad de las alertas y la facilidad para acceder a reportes y solicitar servicios o programar mantenimientos. Ubicó sin problema la sección de configuración y confirmó que los cambios se guardan correctamente. En conjunto, considera que la aplicación es visualmente agradable, coherente e intuitiva, mencionando solo pequeños retrasos puntuales que no afectan su uso general.
 
 **Entrevista 2:**
 
@@ -3629,7 +4130,7 @@ Validar la usabilidad, efectividad y propuesta de valor de la plataforma IceTrac
 
 - **Inicio:** 0:00
 - **Duración:** 5:21 min
-- **URL:** `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQCK3Oq7XMaZRL7U5QnkIAKuAeHFhMJhaovEMp5L-PuTANE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5HVhkd`
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQCK3Oq7XMaZRL7U5QnkIAKuAeHFhMJhaovEMp5L-PuTANE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5HVhkd
 - **Resumen:** La señora Rocío Galindo, comenta que la plataforma para negocios con equipos de refrigeración le resultó clara y sencilla de usar: el registro y el ingreso fueron fáciles, el panel principal le mostró de inmediato el estado de sus equipos y las secciones de “Sites” y “Equipments” le parecieron muy ordenadas. Destaca que las alertas son comprensibles, los reportes y las solicitudes de mantenimiento están al alcance y que la configuración permite hacer cambios sin dificultad. En general, afirma que la aplicación es visualmente agradable, coherente y práctica para su día a día.
 
 **Entrevista 3:**
@@ -3642,8 +4143,8 @@ Validar la usabilidad, efectividad y propuesta de valor de la plataforma IceTrac
 
 - **Inicio:** 0:00
 - **Duración:** 6:02 min
-- **URL:** `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQBJ0SiZQ9aMR6QPa0IBM5jrAQxA99usZN4RQIdTMA8w49Y?e=Yl7TId&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D`
-- **Resumen:** Análisis: Mauricio administra junto a su padre un minimarket que contiene varios equipos de refrigeración, por lo que depende de ellos para poder conservar alimentos. Él en la entrevista menciona que le pareció atractiva e intuitiva. El dashboard le pareció conciso y facil de entender, al igual que las alertas, servicios, equipos y sitios. Sí recomendaría utilizar la aplicación a otras personas y la utilizaría para poder tener mejor control sobre sus equipos y poder solicitar servicios por si alguno falla.
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQBJ0SiZQ9aMR6QPa0IBM5jrAQxA99usZN4RQIdTMA8w49Y?e=Yl7TId&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- **Resumen:** Mauricio administra junto a su padre un minimarket que contiene varios equipos de refrigeración, por lo que depende de ellos para poder conservar alimentos. Él en la entrevista menciona que le pareció atractiva e intuitiva. El dashboard le pareció conciso y facil de entender, al igual que las alertas, servicios, equipos y sitios. Sí recomendaría utilizar la aplicación a otras personas y la utilizaría para poder tener mejor control sobre sus equipos y poder solicitar servicios por si alguno falla.
 
 ---
 
@@ -3659,7 +4160,7 @@ Validar la usabilidad, efectividad y propuesta de valor de la plataforma IceTrac
 
 - **Inicio:** 0:28 min
 - **Duración:** 14:49 min
-- **URL:** `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQDZJDCV5rVLQJHq_pq3M0RWAZbT8M6ee7V0Eo77-ESq_0U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fUbOGP`
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQDZJDCV5rVLQJHq_pq3M0RWAZbT8M6ee7V0Eo77-ESq_0U?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fUbOGP
 - **Resumen:** Alvaro Salazar, 24 años, técnico especializado en servicios de mantenimiento en máquinas de refrigeración. Ante su experiencia en este rubro, comparte su opinión y retroalimentación acerca de nuestra aplicación IceTrack. Tras haber hecho uso de la aplicación, comenta que la interfaz fue sencilla y fácil de entender. Así mismo, cree que el flujo de la aplicación es sencilla y no cuenta con dificultades o elementos que distraigan la atención. Considera que el tiempo de espera se encuentra en el tiempo promedio que se espera de este tipo de aplicaciones y considera apropiado la creación de reportes para mejorar su eficiencia en servicios de mantenimiento. En conclusión, Alvaro considera que nuestra aplicación cumple con el objetivo de resolver las necesidades de los usuarios con una interfaz sencilla de entender y visualmente agradable.
 
 ---
@@ -3862,19 +4363,19 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 | \#    | Problema                                                                                               | Escala de severidad | Heurística/Principio violada(o)                                     |
 | :---: | :----------------------------------------------------------------------------------------------------- | :-----------------: | :------------------------------------------------------------------ |
-| 1	    | Dificultad para identificar el contenido principal y navegar desde la página inicial.	                 | 3	                  | Visibility of System Status / Aesthetic and Minimalist Design       |
-| 2	    | La visualización del campo de Cultivo no es consistente entre galería, fichas y vista detallada.	      | 3	                  | Consistency and Standards / Match Between System and the Real World |
-| 3	    | El flujo dentro de la sección de Cultivos no guía al usuario en los pasos a seguir.                    |	3	                  | User Control and Freedom / Recognition Rather Than Recall           | 
-| 4	    | El menú lateral presenta baja claridad en su estructura e iconos poco representativos.	                | 2	                  | Recognition Rather Than Recall / Aesthetic and Minimalist Design    |
-| 5	    | Los atributos de campos y cultivos no están claramente organizados o priorizados.	                     | 3	                  | Aesthetic and Minimalist Design / Visibility of System Status       |
-| 6	    | Confusión entre las secciones “Cultivos” y “Campos”, sin una diferenciación conceptual o visual clara.	| 3	                  | Match Between System and the Real World / Consistency and Standards |
-| 7	    | La vista de detalles del campo muestra información incompleta o poco jerarquizada.	                    | 3	                  | Visibility of System Status / Aesthetic and Minimalist Design       |
-| 8	    | El proceso de gestión de cultivos y tareas no es intuitivo, generando pérdida de control.	             | 3	                  | User Control and Freedom / Flexibility and Efficiency of Use        |
-| 9	    | La iconografía y etiquetas no son claras ni coherentes con su propósito.	                              | 2	                  | Recognition Rather Than Recall / Consistency and Standards          |
-| 10	   | El usuario no puede identificar fácilmente qué sección del menú está activa.	                          | 2	                  | Visibility of System Status                                         |
-| 11	   | El formulario de registros presenta desorden visual y campos sin jerarquía clara.	                     | 3	                  | Aesthetic and Minimalist Design / Error Prevention                  |
-| 12	   | El proceso de cambio de idioma no es visible o requiere demasiados pasos.	                             | 2	                  | Visibility of System Status / Flexibility and Efficiency of Use     |
-| 13    | Falta de personalización y una curva de aprendizaje elevada para nuevos usuarios.	                     | 2	                  | Flexibility and Efficiency of Use / Help and Documentation          |
+| 1	    | Dificultad para identificar el contenido principal y navegar desde la página inicial.	                 | 3	               | Visibility of System Status / Aesthetic and Minimalist Design       |
+| 2	    | La visualización del campo de Cultivo no es consistente entre galería, fichas y vista detallada.	     | 3	               | Consistency and Standards / Match Between System and the Real World |
+| 3	    | El flujo dentro de la sección de Cultivos no guía al usuario en los pasos a seguir.                    | 3	               | User Control and Freedom / Recognition Rather Than Recall           | 
+| 4	    | El menú lateral presenta baja claridad en su estructura e iconos poco representativos.	             | 2	               | Recognition Rather Than Recall / Aesthetic and Minimalist Design    |
+| 5	    | Los atributos de campos y cultivos no están claramente organizados o priorizados.	                     | 3	               | Aesthetic and Minimalist Design / Visibility of System Status       |
+| 6	    | Confusión entre las secciones “Cultivos” y “Campos”, sin una diferenciación conceptual o visual clara. | 3	               | Match Between System and the Real World / Consistency and Standards |
+| 7	    | La vista de detalles del campo muestra información incompleta o poco jerarquizada.	                 | 3	               | Visibility of System Status / Aesthetic and Minimalist Design       |
+| 8	    | El proceso de gestión de cultivos y tareas no es intuitivo, generando pérdida de control.	             | 3	               | User Control and Freedom / Flexibility and Efficiency of Use        |
+| 9	    | La iconografía y etiquetas no son claras ni coherentes con su propósito.	                             | 2	               | Recognition Rather Than Recall / Consistency and Standards          |
+| 10	| El usuario no puede identificar fácilmente qué sección del menú está activa.	                         | 2	               | Visibility of System Status                                         |
+| 11	| El formulario de registros presenta desorden visual y campos sin jerarquía clara.	                     | 3	               | Aesthetic and Minimalist Design / Error Prevention                  |
+| 12	| El proceso de cambio de idioma no es visible o requiere demasiados pasos.	                             | 2	               | Visibility of System Status / Flexibility and Efficiency of Use     |
+| 13    | Falta de personalización y una curva de aprendizaje elevada para nuevos usuarios.	                     | 2	               | Flexibility and Efficiency of Use / Help and Documentation          |
 
 ## DESCRIPCIÓN DE PROBLEMAS:
 
@@ -3991,7 +4492,7 @@ En conjunto, el video no solo presenta el producto, sino que lo posiciona como u
 
 URL de la Versión Publicada
 
-- **Link de OneDrive:** `https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220138_upc_edu_pe/IQDqUJmb8HpsQ7D88N1V05G-AWhir566m1pHdZ75Tv07gzk?e=hCdsaI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D` about the product
+- **Link de OneDrive:** https://www.youtube.com/watch?v=BIWXxVJlkKk
 
 # Conclusiones
 
@@ -4022,17 +4523,40 @@ El video cierra con una reflexión grupal sobre todo lo aprendido, resaltando ta
 
 **URLs de la Versión Publicada**
 
-- Link en OneDrive: `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/IQCbkEjCpbx-S44VBM-4bmjrASr_-R7yb5ajrTRVoCqDd_M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LYPOfe`
-
+- Link en OneDrive: https://www.youtube.com/watch?v=Au_UI13KXkM
+  
 # Bibliografía
 
 # Anexos
 
-**Despliegue de Landing Page:** [`https://1asi0730-2520-7452-g1-frostshield.github.io/IceTrack---Landing-Page/`](https://1asi0730-2520-7452-g1-frostshield.github.io/IceTrack---Landing-Page/)
-
-**Despliegue de Fake API:** [`https://icetrack-json-api.onrender.com/`](https://icetrack-json-api.onrender.com/)
-
-**Despliegue del Frontend:** [`https://ice-track-frontend.vercel.app/`](https://ice-track-frontend.vercel.app/)
-
-**Despliegue del Backend:** [`https://icetrack-platform.onrender.com/`](https://icetrack-platform.onrender.com)
-
+## Recursos y enlaces del proyecto
+  
+- **URL de la organización del proyecto:** <br>
+  https://github.com/1ASI0730-2520-7452-G1-FrostShield
+  
+- **URL del repositorio del reporte:** <br>
+  https://github.com/1ASI0730-2520-7452-G1-FrostShield/Report
+  
+- **URL del repositorio de la Landing Page:** <br>
+  https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack---Landing-Page
+  
+- **URL del repositorio del Frontend:** <br>
+  https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack-Frontend
+  
+- **URL del repositorio del Backend:** <br>
+  https://github.com/1ASI0730-2520-7452-G1-FrostShield/IceTrack-Platform
+  
+- **URL del Landing Page desplegado:** <br>
+  https://1asi0730-2520-7452-g1-frostshield.github.io/IceTrack---Landing-Page/
+  
+- **URL del Frontend desplegado:** <br>
+  https://ice-track-frontend.vercel.app/
+  
+- **URL del Backend desplegado:** <br>
+  https://api-icetrack-platform.onrender.com
+  
+- **Video About-The-Team:** <br>
+  - YouTube: https://www.youtube.com/watch?v=Au_UI13KXkM
+    
+- **Video About-The-Product:**
+  - YouTube: https://www.youtube.com/watch?v=BIWXxVJlkKk

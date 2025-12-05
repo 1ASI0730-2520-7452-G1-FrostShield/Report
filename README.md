@@ -86,7 +86,7 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
 
 - 
 
-![InsightsTB1](assets/chapter01/Insights-TB2.png)
+![Insights-TB2](assets/chapter01/Insights-TB2.png)
 
 ![NetworkGraph](assets/chapter01/NetworkGraph-TB2.png)
 
@@ -96,7 +96,7 @@ Durante la fase de preparación del informe, se llevaron a cabo las siguientes a
 - Se generaron los recursos requeridos y se añadieron las imágenes al repositorio dentro de la carpeta "assets" correspondiente a cada rama del informe.
 - Además, se organizaron reuniones de coordinación para revisar el progreso tanto del informe como del Sprint 3, inicialmente centrado en el mejoramiento de los FrontEnd Applications y ahora también en la construcción y consolidación del Backend y su despliegue.
 
-![InsightsTB1](assets/chapter01/Insights-TF.png)
+![Insights-TF](assets/chapter01/Insights-TF.png)
 
 ![NetworkGraph](assets/chapter01/NetworkGraph-TF.png)
 

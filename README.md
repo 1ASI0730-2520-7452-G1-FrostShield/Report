@@ -4527,6 +4527,20 @@ El video cierra con una reflexión grupal sobre todo lo aprendido, resaltando ta
   
 # Bibliografía
 
+- Axios. (s.f.). *Axios: Promise based HTTP client for the browser and node.js*. https://axios-http.com/docs/intro
+
+- Conventional Commits. (s.f.). *Conventional commits*. https://www.conventionalcommits.org/
+
+- Google. (s.f.). *Google HTML/CSS style guide*. https://google.github.io/styleguide/htmlcssguide.html
+
+- PrimeVue. (s.f.). *PrimeVue: The most complete UI component library for Vue.js*. https://primevue.org
+
+- REST API Tutorial. (s.f.). *What is REST?*. https://www.restapitutorial.com/introduction/whatisrest
+
+- RESTfulAPI.net. (s.f.). *REST API tutorial*. https://restfulapi.net
+
+- W3Schools. (s.f.). *HTML style guide and coding conventions*. https://www.w3schools.com/html/html5_syntax.asp
+
 # Anexos
 
 ## Recursos y enlaces del proyecto

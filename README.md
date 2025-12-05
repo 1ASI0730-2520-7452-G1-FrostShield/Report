@@ -4553,7 +4553,7 @@ El video cierra con una reflexión grupal sobre todo lo aprendido, resaltando ta
   https://ice-track-frontend.vercel.app/
   
 - **URL del Backend desplegado:** <br>
-  https://api-icetrack-platform.onrender.com
+  https://icetrack-platform.onrender.com
   
 - **Video About-The-Team:** <br>
   - YouTube: https://www.youtube.com/watch?v=Au_UI13KXkM

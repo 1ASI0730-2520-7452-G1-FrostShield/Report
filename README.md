@@ -3829,6 +3829,144 @@ Enlace:
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
+**DashboardConfigs**
+
+| Verbo HTTP | Endpoint 		 					    | Descripción 				   |
+| :--------: | :--------------------------------------- | :--------------------------- |
+| GET		 | /api/v1/dashboard-configs/{id}     		| Obtener ID				   |
+| PUT		 | /api/v1/dashboard-configs/{id}  	  	    | Actualizar ID 			   |
+| DELETE 	 | /api/v1/dashboard-configs/{id}			| Eliminar ID 				   |
+| GET 		 | /api/v1/dashboard-configs/user/{userId}   | Obtener configuracion por ID |
+| POST 		 | /api/v1/dashboard-configs					| Crea configuracion		   |
+| POST 		 | /api/v1/dashboard-configs/{id}/cards 		| Añade cartas				   |
+| GET 		 | /api/v1/dashboard-configs/available-cards | Obtener cartas disponible	   |
+| PATCH		 | /api/v1/dashboard-configs/{id}/cards/{cardId}/visibility | Actualizar visibilidad	   |
+
+**Report**
+
+| Verbo HTTP | Endpoint 		   | Descripción 										 |
+| :--------: | :------------------ | :-------------------------------------------------- |
+| POST		 | /api/v1/reports     | Crear un nuevo reporte 							 |
+| GET		 | /api/v1/reports 	   | Obtener un reporte por el ID de un equipo o empresa |
+| GET 		 | /api/v1/report/{id} | Obtener un reporte por su ID 						 |
+| PUT		 | /api/v1/report/{id} | Actualizar un reporte por su ID 						 |
+| DELETE 		 | /api/v1/report/{id} | Eliminar un reporte por su ID 						 |
+
+**Equipment**
+
+| Verbo HTTP | Endpoint 		  	  | Descripción	 			|
+| :--------: | :--------------------- | :---------------------- |
+| POST		 | /api/v1/equipment	  | Crear equipo 			|
+| GET		 | /api/v1/equipment 	  | Tener todos los equipos |
+| GET		 | /api/v1/equipment/{id} | Tener equipo por ID     |
+
+**Site**
+
+| Verbo HTTP | Endpoint 	     | Descripción	 		  |
+| :--------: | :---------------- | :--------------------- |
+| POST		 | /api/v1/site	  	 | Crear site 			  |
+| GET		 | /api/v1/site 	 | Tener todos los sitios |
+| GET		 | /api/v1/site/{id} | Tener sitio por ID     |
+| DELETE		 | /api/v1/site/{id} | Eliminar sitio por ID     |
+
+
+**User**
+
+| Verbo HTTP | Endpoint      	   | Descripción	   |
+| :--------: | :------------------ | :---------------- |
+| GET		 | /api/v1/report/{id} | Tener user por ID |
+| GET		 | /api/v1/users 	   | Tener usuarios    |
+| GET		 | /api/v1/users/role/{role} 	   | Tener usuarios por rol    |
+
+**Authentication**
+
+| Verbo HTTP | Endpoint 		  			  | Descripción	   |
+| :--------: | :----------------------------- | :------------- |
+| POST		 | /api/v1/authentication/sign-in | Iniciar sesión |
+| POST		 | /api/v1/authentication/sign-up | Registrarse    |
+
+**Alerts**
+
+| Verbo HTTP | Endpoint 		  			  | Descripción	                                 |
+| :--------: | :----------------------------- | :--------------------------------------------|                          
+| POST		 | /api/v1/authentication/sign-in | Crear alerta                                 |
+| GET		 | /api/v1/alert                  | Tener alerta por equipmentid y tenantid      |
+| GET		 | /api/v1/alert/{id}             | Tener alerta por Id                          |
+
+**Reviews**
+
+| Verbo HTTP | Endpoint 	     | Descripción	 		  |
+| :--------: | :---------------- | :--------------------- |
+| POST		 | /api/v1/reviews	  	 | Crear reseña 			  |
+| GET		 | /api/v1/reviews 	 | Tener todas los reseñas |
+| GET		 | /api/v1/site/{id} | Tener reseña por ID     |
+
+**ServiceRequests**
+
+| Verbo HTTP | Endpoint 	     | Descripción	 		  |
+| :--------: | :---------------- | :--------------------- |
+| POST		 | /api/v1/service-requests	  	 | Crear request 			  |
+| GET		 | /api/v1/service-requests/{serviceRequestId}		 | Tener todos los requests |
+| GET		 | /api/v1/service-requests/requester/{requesterId} | Tener request por requester ID     |
+| PATCH		 | /api/v1/service-requests/{serviceRequestId}/accept | aceptar request por requester ID     |
+| PATCH		 | /api/v1/service-requests/{serviceRequestId}/reject | Denegar request por requester ID     |
+| PATCH		 | /api/v1/service-requests/{serviceRequestId}/cancel | cancelar request por requester ID     |
+| PATCH		 | /api/v1/service-requests/{serviceRequestId}/assign-technician | asignar tecnico a request   |
+
+**Interventions**
+
+| Verbo HTTP | Endpoint 	     | Descripción	 		  |
+| :--------: | :---------------- | :--------------------- |
+| POST		 | /api/v1/interventions	  	 | Crear intervencion 			  |
+| GET		 | /api/v1/interventions/{interventionId} 	 | Tener intervenciones por Id |
+
+
+**Technicians**
+
+| Verbo HTTP | Endpoint 		   | Descripción 										 |
+| :--------: | :------------------ | :-------------------------------------------------- |
+| POST		 | /api/v1/reports     | Crear un nuevo tecnico 							 |
+| GET		 | /api/v1/reports 	   | Obtener un tecnico por el ID de un proveedor |
+| GET 		 | /api/v1/report/{id} | Obtener un tecnico por su ID 						 |
+| PUT		 | /api/v1/report/{id} | Actualizar un tecnico por su ID 						 |
+| DELETE 		 | /api/v1/report/{id} | Eliminar un tecnico por su ID 	
+
+
+**Technicians**
+![technicians-swagger](./assets/chapter05/technicians-swagger.png)
+
+**Interventions**
+![interventions-swagger](./assets/chapter05/interventions-swagger.png)
+
+**ServiceRequests**
+![Service-requests-swagger](./assets/chapter05/service-requests-swagger.png)
+
+**Authentication**
+![authentication-swagger](./assets/chapter05/authentication-swagger.png)
+
+**Users**
+![users-swagger](./assets/chapter05/users-swagger.png)
+
+**Reviews**
+![review-swagger](./assets/chapter05/review-swagger.png)
+
+**DashboardConfigs**
+![dashboard-configs-swagger](./assets/chapter05/dashboard-configs-swagger.png)
+
+**Alert**
+![alert-swagger](./assets/chapter05/alert-swagger.png)
+
+**Equipment**
+![equipment-swagger](./assets/chapter05/equipment-swagger.png)
+
+**Report**
+![report-swagger](./assets/chapter05/report-swagger.png)
+
+**Site**
+![site-swagger](./assets/chapter05/site-swagger.png)
+
+---
+
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
 Para esta entrega, desplegamos una nueva versión del Frontend, segunda versión del backend y además desplegamos una nueva base de datos para que pueda ser conectada en nuestro backend.
